@@ -1,1 +1,6 @@
 export { default as Search } from './Icons/Search'
+export { default as Folder } from './Icons/Folder'
+export { default as Wallet } from './Icons/Wallet'
+export { default as Graph } from './Icons/Graph'
+export { default as Bookmark } from './Icons/Bookmark'
+export { default as Category } from './Icons/Category'
