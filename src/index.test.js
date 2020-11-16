@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { Search } from '.'
 
 describe('ExampleComponent', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(Search).toBeTruthy()
   })
 })

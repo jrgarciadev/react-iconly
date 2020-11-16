@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-iconly'
+import { Search } from 'react-iconly'
 import 'react-iconly/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <Search />
 }
 
 export default App
