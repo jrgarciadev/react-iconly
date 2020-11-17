@@ -18,11 +18,11 @@
 - Two Tone
 
 ### Installation
-    yarn add react-feather
+    yarn add react-iconly
     
   or
     
-    npm i react-feather
+    npm i react-iconly
 
 ### Usage
 
