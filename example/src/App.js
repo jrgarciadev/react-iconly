@@ -11,6 +11,9 @@ const App = () => {
         <Iconly.Graph set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.Bookmark set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.Category set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
+        <Iconly.Home set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
+        <Iconly.Notification set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
+        <Iconly.Chat set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
     </React.Fragment>
   )
 }
