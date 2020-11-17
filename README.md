@@ -1,6 +1,7 @@
 # 🌈  React Iconly Icons - In progress...
 
 [![NPM](https://img.shields.io/npm/v/react-iconly.svg)](https://www.npmjs.com/package/react-iconly) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![npm downloads](https://img.shields.io/npm/dm/react-iconly.svg?style=flat-round)](https://www.npmjs.com/package/react-iconly)
 
 
 > React component for Iconly icons
@@ -12,31 +13,62 @@
 ### Sets
 - Bold
 - Bulk 
-- Light - Border
-- Light - Outline
+- Light Border
 - Broken 
 - Two Tone
 
-## Install
+### Installation
+    yarn add react-feather
+    
+  or
+    
+    npm i react-feather
 
-```bash
-npm install --save react-iconly
-```
-
-## Usage
+### Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React from 'react';
+import { Home } from 'react-iconly';
 
-import MyComponent from 'react-iconly'
-import 'react-iconly/dist/index.css'
+const App = () => {
+  return <Home />
+};
 
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
-}
+export default App;
 ```
+
+Icons can be configured with inline props:
+```jsx
+<Home set="two-tone" primaryColor="blueviolet" secondaryColor="blue" stroke="bold" size="xlarge"/>
+```
+You can also include the whole icon pack:
+
+```jsx
+import React from 'react';
+import * as Iconly from 'react-iconly';
+
+const App = () => {
+  return <Iconly.Home set="bulk" primaryColor="blueviolet" secondaryColor="blue" stroke="bold" size="xlarge"/>
+};
+
+export default App;
+```
+
+
+## Props
+
+| Prop | Type | Default | Note |
+|---|---|---|---|
+| `label` | `string` |  | String to use as the aria-label for the icon. Use an empty string when you already have readable text around the icon,like text inside a button.
+| `filled` | `boolean` | `false` | Set de icons sets to 'bold'.
+| `primaryColor` | `string` | `currentColor` | Primary colour for icons.
+| `secondaryColor` | `string` | `currentColor` | Secondary colour for **two-tone** icons set.
+| `size` | `number | small, medium, large, xlarge` | `medium` | Control the size of the icon, you can set a custom **number** size
+| `set` | `bold, bulk, light, broken, two-tone` | `light` | Iconly set option.
+| `stroke` | `light, regular, bold` | `regular` | Sets the line stroke for icons.
+| `style` | `object | string` |  | Custom styles property.
+
+-----
 
 ## License
 

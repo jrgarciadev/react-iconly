@@ -70,7 +70,7 @@ const Notification = ({ color, secondaryColor, strokeWidth, set }) => {
         strokeLinecap='round'
         strokeLinejoin='round'
         strokeMiterlimit='10'
-        strokeWidth='1.5'
+        strokeWidth={strokeWidth}
       />
       <path
         d='M0,0A3.061,3.061,0,0,0,2.037,1.127,3.088,3.088,0,0,0,4.288.5,2.886,2.886,0,0,0,4.812,0'
@@ -80,7 +80,7 @@ const Notification = ({ color, secondaryColor, strokeWidth, set }) => {
         strokeLinecap='round'
         strokeLinejoin='round'
         strokeMiterlimit='10'
-        strokeWidth='1.5'
+        strokeWidth={strokeWidth}
         opacity='0.4'
       />
     </g>
