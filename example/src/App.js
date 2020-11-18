@@ -19,6 +19,13 @@ const App = () => {
         <Iconly.Paper set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.PaperPlus set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.PaperNegative set="two-tone" primaryColor="#d6d" secondaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.PaperFall set="two-tone" primaryColor="#d6d" secondaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.PaperDownload primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.PaperUpload primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Send primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Send style={{ transform: 'rotate(45deg)' }} primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Password primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Work primaryColor="#d6d" stroke="bold" size="xlarge"/>
       </Iconly.IconlyProvider>
     </React.Fragment>
   )

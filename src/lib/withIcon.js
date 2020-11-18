@@ -19,7 +19,6 @@ function withIcon(Component) {
         ...restProps
       } = this.props
       const theme = this.context
-
       const iconSize =
         getSize(size) || getSize(getThemeProp('size', theme)) || '24px'
 
@@ -40,7 +39,7 @@ function withIcon(Component) {
           viewBox='0 0 24 24'
           role={label ? 'img' : 'presentation'}
           aria-label={label || undefined}
-          style={{ ...style }}
+          style={style}
           {...restProps}
         >
           <Component

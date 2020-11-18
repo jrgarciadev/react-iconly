@@ -74,6 +74,19 @@ const App = () => {
 export default App;
 ```
 
+Custom style example
+
+```jsx
+import React from 'react';
+import { Send } from 'react-iconly';
+
+const App = () => {
+  return <Send style={{ transform: 'rotate(45deg)' }} primaryColor="red" stroke="bold" size="xlarge"/>
+};
+
+export default App;
+ 
+```
 ## Props
 
 | Prop | Type | Default | Note |
@@ -85,7 +98,7 @@ export default App;
 | `size` | `number | small, medium, large, xlarge` | `medium` | Control the size of the icon, you can set a custom **number** size
 | `set` | `bold, bulk, light, broken, two-tone` | `light` | Iconly set option.
 | `stroke` | `light, regular, bold` | `regular` | Sets the line stroke for icons.
-| `style` | `object | string` |  | Custom styles property.
+| `style` | `object` |  | Custom styles property.
 
 -----
 
