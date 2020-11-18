@@ -19,8 +19,19 @@ function withIcon(Component) {
         ...restProps
       } = this.props
       const theme = this.context
+
       const iconSize =
         getSize(size) || getSize(getThemeProp('size', theme)) || '24px'
+
+      const iconPrimaryColor =
+        primaryColor || getThemeProp('primaryColor', theme) || 'currentColor'
+
+      const iconSecondaryColor =
+        secondaryColor ||
+        getThemeProp('secondaryColor', theme) ||
+        iconPrimaryColor ||
+        'currentColor'
+
       return (
         <svg
           xmlns='http://www.w3.org/2000/svg'
@@ -33,23 +44,14 @@ function withIcon(Component) {
           {...restProps}
         >
           <Component
-            color={
-              primaryColor ||
-              getThemeProp('primaryColor', theme) ||
-              'currentColor'
-            }
+            color={iconPrimaryColor}
             opacity={getOpacity(primaryColor, secondaryColor)}
-            secondaryColor={
-              secondaryColor ||
-              getThemeProp('secondaryColor', theme) ||
-              primaryColor ||
-              'currentColor'
-            }
+            secondaryColor={iconSecondaryColor}
             set={filled ? 'bold' : set || getThemeProp('set', theme) || 'light'}
             strokeWidth={
               stroke
                 ? getStroke(stroke)
-                : getThemeProp('stroke', theme) || '1.5px'
+                : getStroke(getThemeProp('stroke', theme)) || '1.5px'
             }
           />
         </svg>

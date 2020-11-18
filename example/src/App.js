@@ -5,8 +5,8 @@ import * as Iconly from 'react-iconly'
 const App = () => {
   return (
     <React.Fragment>
-      <Iconly.IconlyProvider set="light" primaryColor="blue">
-        <Iconly.Search set="two-tone" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
+      <Iconly.IconlyProvider set="two-tone" stroke="bold" primaryColor="blue" size="xlarge">
+        <Iconly.Search />
         <Iconly.Folder set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.Wallet set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.Graph set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
