@@ -4,11 +4,11 @@ export const getSize = (size) => {
   if (Number.isInteger(size)) {
     return `${size}px`
   }
-  return size && sizes[size] ? sizes[size] : '24px'
+  return size && sizes[size] ? sizes[size] : null
 }
 
 export const getStroke = (stroke) => {
-  return stroke && strokes[stroke] ? strokes[stroke] : '1.5px'
+  return stroke && strokes[stroke] ? strokes[stroke] : null
 }
 
 export const getOpacity = (primaryColor, secondaryColor) => {
@@ -16,4 +16,8 @@ export const getOpacity = (primaryColor, secondaryColor) => {
     return '0.4'
   }
   return primaryColor === secondaryColor ? '0.4' : '1'
+}
+
+export const getThemeProp = (prop, theme) => {
+  return theme && theme[prop] ? theme[prop] : null
 }

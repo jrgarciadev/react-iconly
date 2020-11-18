@@ -37,6 +37,26 @@ const App = () => {
 export default App;
 ```
 
+You can also wrap your app inside a `IconlyProvider` component, this will make all the icons that are within the context use the Provider properties
+
+If you set specific props for each Icon the Provider properties will be overwritten
+
+```jsx
+import React from 'react';
+import { IconlyProvider, Home, Notification } from 'react-iconly';
+
+const App = () => {
+  return (
+    <IconlyProvider set="bulk" primaryColor="blueviolet" secondaryColor="blue" stroke="bold" size="xlarge">
+      <Home />
+      <Notification primaryColor="yellow" />
+    </IconlyProvider>
+  )
+};
+
+export default App;
+```
+
 Icons can be configured with inline props:
 ```jsx
 <Home set="two-tone" primaryColor="blueviolet" secondaryColor="blue" stroke="bold" size="xlarge"/>
@@ -53,7 +73,6 @@ const App = () => {
 
 export default App;
 ```
-
 
 ## Props
 

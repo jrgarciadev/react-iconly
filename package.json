@@ -1,6 +1,6 @@
 {
   "name": "react-iconly",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "React component for Iconly icons",
   "author": "jrgarciadev",
   "license": "MIT",
@@ -8,9 +8,23 @@
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
+  "sideEffects": false,
   "engines": {
     "node": ">=10"
   },
+  "bugs": {
+    "url": "https://github.com/jrgarciadev/react-iconly/issues"
+  },
+  "homepage": "https://github.com/jrgarciadev/react-iconly#readme",
+  "keywords": [
+    "react",
+    "react-icons",
+    "icons",
+    "svg",
+    "inline",
+    "iconly",
+    "design"
+  ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
@@ -24,7 +38,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.8.6 || ^17"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",

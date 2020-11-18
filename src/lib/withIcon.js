@@ -1,9 +1,11 @@
 import React, { memo } from 'react'
+import { getSize, getThemeProp, getStroke, getOpacity } from './utils'
+import { IconlyContext } from './context'
 import PropTypes from 'prop-types'
-import { getSize, getStroke, getOpacity } from './utils'
 
 function withIcon(Component) {
   class IconWrapper extends React.Component {
+    static contextType = IconlyContext
     render() {
       const {
         size,
@@ -16,11 +18,12 @@ function withIcon(Component) {
         stroke,
         ...restProps
       } = this.props
+      const theme = this.context
       return (
         <svg
           xmlns='http://www.w3.org/2000/svg'
-          width={getSize(size)}
-          height={getSize(size)}
+          width={getSize(size) || getThemeProp('size', theme) || '24px'}
+          height={getSize(size) || getThemeProp('size', theme) || '24px'}
           viewBox='0 0 24 24'
           role={label ? 'img' : 'presentation'}
           aria-label={label || undefined}
@@ -28,11 +31,24 @@ function withIcon(Component) {
           {...restProps}
         >
           <Component
-            color={primaryColor || 'currentColor'}
+            color={
+              primaryColor ||
+              getThemeProp('primaryColor', theme) ||
+              'currentColor'
+            }
             opacity={getOpacity(primaryColor, secondaryColor)}
-            secondaryColor={secondaryColor || primaryColor || 'currentColor'}
-            set={filled ? 'bold' : set || 'light'}
-            strokeWidth={getStroke(stroke)}
+            secondaryColor={
+              secondaryColor ||
+              getThemeProp('secondaryColor', theme) ||
+              primaryColor ||
+              'currentColor'
+            }
+            set={filled ? 'bold' : set || getThemeProp('set', theme) || 'light'}
+            strokeWidth={
+              stroke
+                ? getStroke(stroke)
+                : getThemeProp('stroke', theme) || '1.5px'
+            }
           />
         </svg>
       )

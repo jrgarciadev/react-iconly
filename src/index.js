@@ -1,3 +1,6 @@
+export { IconlyProvider } from './lib/context'
+export { useIconlyTheme } from './lib/context'
+/** Icons  **/
 export { default as Search } from './Icons/Search'
 export { default as Folder } from './Icons/Folder'
 export { default as Wallet } from './Icons/Wallet'

@@ -42,7 +42,7 @@ const Notification = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
         d='M0,0A3.061,3.061,0,0,0,2.037,1.127,3.088,3.088,0,0,0,4.288.5,2.886,2.886,0,0,0,4.812,0'
         transform='translate(6.055 18.852)'
         fill='none'
-        stroke='#200e32'
+        stroke={color}
         strokeLinecap='round'
         strokeLinejoin='round'
         strokeMiterlimit='10'
