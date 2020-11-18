@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const Bookmark = ({ color, secondaryColor, strokeWidth, set }) => {
+const Bookmark = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
   const Bold = () => (
     <g transform='translate(4 2)'>
       <path
@@ -18,7 +18,7 @@ const Bookmark = ({ color, secondaryColor, strokeWidth, set }) => {
         d='M7.991,4.913,1.5,8.155a1.019,1.019,0,0,1-1.376-.4A1.09,1.09,0,0,1,0,7.258V0C0,.72.406,1.164,1.473,1.661Z'
         transform='translate(0 11.709)'
         fill={color}
-        opacity='0.4'
+        opacity={opacity}
       />
       <path
         d='M14.98,20a1.012,1.012,0,0,1-.506-.136L7.991,16.621,1.473,13.37C.4,12.87,0,12.419,0,11.709V3.793A3.322,3.322,0,0,1,1.435.874,6.145,6.145,0,0,1,4.9,0h6.174A6.188,6.188,0,0,1,14.54.874,3.36,3.36,0,0,1,16,3.793V18.967a1.065,1.065,0,0,1-.123.489,1.023,1.023,0,0,1-.616.5A1.012,1.012,0,0,1,14.98,20ZM4.225,6.041a.791.791,0,0,0,0,1.581h7.524a.791.791,0,0,0,0-1.581Z'
@@ -82,7 +82,7 @@ const Bookmark = ({ color, secondaryColor, strokeWidth, set }) => {
         strokeLinejoin='round'
         strokeMiterlimit='10'
         strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
     </g>
   )
@@ -102,6 +102,7 @@ const Bookmark = ({ color, secondaryColor, strokeWidth, set }) => {
 }
 
 Bookmark.propTypes = {
+  opacity: PropTypes.string,
   color: PropTypes.string,
   secondaryColor: PropTypes.string,
   set: PropTypes.string,

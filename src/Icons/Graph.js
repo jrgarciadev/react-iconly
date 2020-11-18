@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const Graph = ({ color, secondaryColor, strokeWidth, set }) => {
+const Graph = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
   const Bold = () => (
     <g transform='translate(2 2)'>
       <path
@@ -22,7 +22,7 @@ const Graph = ({ color, secondaryColor, strokeWidth, set }) => {
         d='M.849,0a9.444,9.444,0,0,1,9.13,7.811l-.007.033h0l-.02.047,0,.13a.8.8,0,0,1-.192.472.827.827,0,0,1-.462.271l-.11.015-7.681.5a.917.917,0,0,1-.7-.227.884.884,0,0,1-.288-.537L.007.845a.122.122,0,0,1,0-.08A.785.785,0,0,1,.265.21.815.815,0,0,1,.849,0Z'
         transform='translate(10.021 0)'
         fill={color}
-        opacity='0.4'
+        opacity={opacity}
       />
     </g>
   )
@@ -71,7 +71,7 @@ const Graph = ({ color, secondaryColor, strokeWidth, set }) => {
         strokeLinejoin='round'
         strokeMiterlimit='10'
         strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
       <path
         d='M6.145.024A.915.915,0,0,1,7.189.545a.824.824,0,0,1,.082.3c.092,1.3.284,4.146.394,5.684a1.043,1.043,0,0,0,1.117.97h0l5.648-.348a.915.915,0,0,1,.97.915h0A7.7,7.7,0,0,1,.974,11.264a7.323,7.323,0,0,1-.915-2.8A4.723,4.723,0,0,1,0,7.548,7.707,7.707,0,0,1,6.136.024'
@@ -102,6 +102,7 @@ const Graph = ({ color, secondaryColor, strokeWidth, set }) => {
 
 Graph.propTypes = {
   color: PropTypes.string,
+  opacity: PropTypes.string,
   secondaryColor: PropTypes.string,
   set: PropTypes.string,
   strokeWidth: PropTypes.oneOfType([PropTypes.string, PropTypes.number])

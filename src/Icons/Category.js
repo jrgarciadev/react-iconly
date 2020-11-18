@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const Category = ({ color, secondaryColor, strokeWidth, set }) => {
+const Category = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
   const Bold = () => (
     <g transform='translate(2 2)'>
       <path
@@ -18,7 +18,7 @@ const Category = ({ color, secondaryColor, strokeWidth, set }) => {
         d='M2.539,0H5.924A2.549,2.549,0,0,1,8.463,2.56V5.975a2.549,2.549,0,0,1-2.539,2.56H2.539A2.549,2.549,0,0,1,0,5.975V2.56A2.549,2.549,0,0,1,2.539,0'
         transform='translate(11.537 0)'
         fill={color}
-        opacity='0.4'
+        opacity={opacity}
       />
       <path
         d='M14.075,20a2.549,2.549,0,0,1-2.538-2.56V14.026a2.549,2.549,0,0,1,2.538-2.561h3.387A2.549,2.549,0,0,1,20,14.026V17.44A2.549,2.549,0,0,1,17.462,20ZM2.539,20A2.55,2.55,0,0,1,0,17.44V14.026a2.55,2.55,0,0,1,2.539-2.561H5.925a2.549,2.549,0,0,1,2.538,2.561V17.44A2.549,2.549,0,0,1,5.925,20Zm0-11.465A2.549,2.549,0,0,1,0,5.974V2.56A2.549,2.549,0,0,1,2.539,0H5.925A2.548,2.548,0,0,1,8.463,2.56V5.974A2.549,2.549,0,0,1,5.925,8.535Z'
@@ -93,7 +93,7 @@ const Category = ({ color, secondaryColor, strokeWidth, set }) => {
         strokeLinejoin='round'
         strokeMiterlimit='10'
         strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
       <path
         d='M2.449,0H5.714A2.46,2.46,0,0,1,8.163,2.47V5.764a2.46,2.46,0,0,1-2.449,2.47H2.449A2.46,2.46,0,0,1,0,5.764V2.47A2.46,2.46,0,0,1,2.449,0Z'
@@ -143,6 +143,7 @@ const Category = ({ color, secondaryColor, strokeWidth, set }) => {
 }
 
 Category.propTypes = {
+  opacity: PropTypes.string,
   color: PropTypes.string,
   secondaryColor: PropTypes.string,
   set: PropTypes.string,

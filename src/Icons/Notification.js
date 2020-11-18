@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const Notification = ({ color, secondaryColor, strokeWidth, set }) => {
+const Notification = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
   const Bold = () => (
     <g transform='translate(3.5 2)'>
       <path
@@ -22,7 +22,7 @@ const Notification = ({ color, secondaryColor, strokeWidth, set }) => {
         d='M4.936.08A25.6,25.6,0,0,0,.89.08C.462.179,0,.408,0,.912A1.55,1.55,0,0,0,.7,2.085h0a3.635,3.635,0,0,0,1.714.732,3.836,3.836,0,0,0,1.008,0A3.636,3.636,0,0,0,5.13,2.086h0a1.55,1.55,0,0,0,.7-1.173c0-.5-.462-.733-.89-.832'
         transform='translate(5.573 17.148)'
         fill={color}
-        opacity='0.4'
+        opacity={opacity}
       />
     </g>
   )
@@ -81,7 +81,7 @@ const Notification = ({ color, secondaryColor, strokeWidth, set }) => {
         strokeLinejoin='round'
         strokeMiterlimit='10'
         strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
     </g>
   )
@@ -102,6 +102,7 @@ const Notification = ({ color, secondaryColor, strokeWidth, set }) => {
 
 Notification.propTypes = {
   color: PropTypes.string,
+  opacity: PropTypes.string,
   secondaryColor: PropTypes.string,
   set: PropTypes.string,
   strokeWidth: PropTypes.oneOfType([PropTypes.string, PropTypes.number])

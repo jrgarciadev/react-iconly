@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const Wallet = ({ color, secondaryColor, strokeWidth, set }) => {
+const Wallet = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
   const Bold = () => (
     <g transform='translate(2 3)'>
       <path
@@ -22,7 +22,7 @@ const Wallet = ({ color, secondaryColor, strokeWidth, set }) => {
         d='M.037,2.4a2.018,2.018,0,0,0,2,1.6h3.25A.726.726,0,0,0,6,3.266V.734A.728.728,0,0,0,5.283,0H1.956A1.985,1.985,0,0,0,0,2.01,2.031,2.031,0,0,0,.037,2.4'
         transform='translate(14 6.9)'
         fill={color}
-        opacity='0.4'
+        opacity={opacity}
       />
       <circle
         id='Oval'
@@ -129,7 +129,7 @@ const Wallet = ({ color, secondaryColor, strokeWidth, set }) => {
         strokeLinejoin='round'
         strokeMiterlimit='10'
         strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
     </g>
   )
@@ -150,6 +150,7 @@ const Wallet = ({ color, secondaryColor, strokeWidth, set }) => {
 
 Wallet.propTypes = {
   color: PropTypes.string,
+  opacity: PropTypes.string,
   secondaryColor: PropTypes.string,
   set: PropTypes.string,
   strokeWidth: PropTypes.oneOfType([PropTypes.string, PropTypes.number])

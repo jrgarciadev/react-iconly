@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const Heart = ({ color, secondaryColor, strokeWidth, set }) => {
+const Heart = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
   const Bold = () => (
     <g transform='translate(2 2.501)'>
       <path
@@ -18,7 +18,7 @@ const Heart = ({ color, secondaryColor, strokeWidth, set }) => {
         d='M9.754,18.837A36.258,36.258,0,0,1,3.426,13.88,12.668,12.668,0,0,1,.4,9.075C-.742,5.535.582,1.489,4.279.288A6.282,6.282,0,0,1,9.985,1.3h0A6.291,6.291,0,0,1,15.691.288c3.7,1.2,5.03,5.247,3.893,8.787a12.67,12.67,0,0,1-3.013,4.8,36.587,36.587,0,0,1-6.328,4.958L9.994,19Z'
         transform='translate(0.022)'
         fill={color}
-        opacity='0.4'
+        opacity={opacity}
       />
       <path
         d='M10.011,19l-.235-.163a36.319,36.319,0,0,1-6.337-4.958,12.667,12.667,0,0,1-3.048-4.8C-.738,5.535.586,1.489,4.283.288A6.3,6.3,0,0,1,10.011,1.31Z'
@@ -87,7 +87,7 @@ const Heart = ({ color, secondaryColor, strokeWidth, set }) => {
         strokeLinejoin='round'
         strokeMiterlimit='10'
         strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
     </g>
   )
@@ -108,6 +108,7 @@ const Heart = ({ color, secondaryColor, strokeWidth, set }) => {
 
 Heart.propTypes = {
   color: PropTypes.string,
+  opacity: PropTypes.string,
   secondaryColor: PropTypes.string,
   set: PropTypes.string,
   strokeWidth: PropTypes.oneOfType([PropTypes.string, PropTypes.number])

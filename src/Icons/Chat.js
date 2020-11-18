@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const Chat = ({ color, secondaryColor, strokeWidth, set }) => {
+const Chat = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
   const Bold = () => (
     <g transform='translate(2 2)'>
       <path
@@ -16,7 +16,7 @@ const Chat = ({ color, secondaryColor, strokeWidth, set }) => {
       <path
         d='M10.02,0A10,10,0,0,0,0,10a10.56,10.56,0,0,0,1.35,4.99,1.045,1.045,0,0,1,.07.9L.75,18.13a.624.624,0,0,0,.82.78l2.02-.6a1.7,1.7,0,0,1,1.491.36A9.987,9.987,0,1,0,10.02,0'
         fill={color}
-        opacity='0.4'
+        opacity={opacity}
       />
       <path
         d='M9.22,1.28A1.28,1.28,0,1,1,10.5,2.561,1.276,1.276,0,0,1,9.22,1.28Zm-4.61-.01a1.28,1.28,0,1,1,1.28,1.291A1.292,1.292,0,0,1,4.611,1.27ZM0,1.28a1.28,1.28,0,0,1,2.56,0A1.29,1.29,0,0,1,1.28,2.561,1.289,1.289,0,0,1,0,1.28Z'
@@ -68,44 +68,38 @@ const Chat = ({ color, secondaryColor, strokeWidth, set }) => {
       <ellipse
         cx='0.477'
         cy='0.476'
-        rx='0.477'
-        ry='0.476'
+        rx='1.477'
+        ry='1.476'
         transform='translate(4.81 9.524)'
         fill={secondaryColor}
-        stroke={secondaryColor}
         strokeLinecap='round'
         strokeLinejoin='round'
         strokeMiterlimit='10'
-        strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
       <ellipse
         cx='0.477'
         cy='0.476'
-        rx='0.477'
-        ry='0.476'
+        rx='1.477'
+        ry='1.476'
         transform='translate(9.58 9.524)'
         fill={secondaryColor}
-        stroke={secondaryColor}
         strokeLinecap='round'
         strokeLinejoin='round'
         strokeMiterlimit='10'
-        strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
       <ellipse
         cx='0.477'
         cy='0.476'
-        rx='0.477'
-        ry='0.476'
+        rx='1.477'
+        ry='1.476'
         transform='translate(14.35 9.524)'
         fill={secondaryColor}
-        stroke={secondaryColor}
         strokeLinecap='round'
         strokeLinejoin='round'
         strokeMiterlimit='10'
-        strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
     </g>
   )

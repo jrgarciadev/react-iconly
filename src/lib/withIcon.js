@@ -1,6 +1,6 @@
 import React, { memo } from 'react'
 import PropTypes from 'prop-types'
-import { getSize, getStroke } from './utils'
+import { getSize, getStroke, getOpacity } from './utils'
 
 function withIcon(Component) {
   class IconWrapper extends React.Component {
@@ -29,6 +29,7 @@ function withIcon(Component) {
         >
           <Component
             color={primaryColor || 'currentColor'}
+            opacity={getOpacity(primaryColor, secondaryColor)}
             secondaryColor={secondaryColor || primaryColor || 'currentColor'}
             set={filled ? 'bold' : set || 'light'}
             strokeWidth={getStroke(stroke)}

@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const Search = ({ color, secondaryColor, strokeWidth, set }) => {
+const Search = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
   const Bold = () => (
     <g transform='translate(2 2)'>
       <path
@@ -25,7 +25,7 @@ const Search = ({ color, secondaryColor, strokeWidth, set }) => {
         d='M3.278,4.577a1.321,1.321,0,0,1-.889-.385L.352,1.812A1.088,1.088,0,0,1,.272.29h0A.974.974,0,0,1,1.66.29L4.221,2.339a1.348,1.348,0,0,1,.291,1.431,1.335,1.335,0,0,1-1.18.851Z'
         transform='translate(15.397 15.379)'
         fill={color}
-        opacity='0.4'
+        opacity={opacity}
       />
     </g>
   )
@@ -81,7 +81,7 @@ const Search = ({ color, secondaryColor, strokeWidth, set }) => {
         strokeLinejoin='round'
         strokeMiterlimit='10'
         strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
     </g>
   )
@@ -102,6 +102,7 @@ const Search = ({ color, secondaryColor, strokeWidth, set }) => {
 
 Search.propTypes = {
   color: PropTypes.string,
+  opacity: PropTypes.string,
   secondaryColor: PropTypes.string,
   set: PropTypes.string,
   strokeWidth: PropTypes.oneOfType([PropTypes.string, PropTypes.number])

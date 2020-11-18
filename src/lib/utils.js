@@ -10,3 +10,10 @@ export const getSize = (size) => {
 export const getStroke = (stroke) => {
   return stroke && strokes[stroke] ? strokes[stroke] : '1.5px'
 }
+
+export const getOpacity = (primaryColor, secondaryColor) => {
+  if (!secondaryColor) {
+    return '0.4'
+  }
+  return primaryColor === secondaryColor ? '0.4' : '1'
+}

@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const Folder = ({ color, secondaryColor, strokeWidth, set }) => {
+const Folder = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
   const Bold = () => (
     <g transform='translate(2 2)'>
       <path
@@ -17,7 +17,7 @@ const Folder = ({ color, secondaryColor, strokeWidth, set }) => {
       <path
         d='M14.884,3.115H11.941a2.429,2.429,0,0,1-1.894-.887L9.078.888A2.367,2.367,0,0,0,7.193,0H5.113C1.378,0,0,2.192,0,5.919V9.947c0,.443,20,.442,20,0V8.776C20.015,5.049,18.672,3.115,14.884,3.115Z'
         fill={color}
-        opacity='0.4'
+        opacity={opacity}
       />
       <path
         d='M14.367,16.9h0c-.1,0-.207,0-.309-.008H5.931c-.1.005-.2.008-.307.008a6.017,6.017,0,0,1-4.068-1.578,4.487,4.487,0,0,1-.667-.887,5.8,5.8,0,0,1-.782-2.183A8.148,8.148,0,0,1,0,10.93V5.677A12.144,12.144,0,0,1,.071,4.363c.01-.076.025-.151.04-.224a1.894,1.894,0,0,0,.049-.37A5.619,5.619,0,0,1,.649,2.252C1.353.747,2.808.015,5.095.015h9.78c.133-.01.269-.016.4-.016A5.241,5.241,0,0,1,18.5,1.116a2.78,2.78,0,0,1,.329.329,3.935,3.935,0,0,1,.729,1.269A8.51,8.51,0,0,1,20,5.677V10.93a9.441,9.441,0,0,1-.1,1.322,5.961,5.961,0,0,1-.8,2.183,4.445,4.445,0,0,1-.676.887A5.983,5.983,0,0,1,14.367,16.9Zm-9.4-8.11a.825.825,0,1,0,0,1.651H15.09a.826.826,0,0,0,.825-.8.742.742,0,0,0-.177-.533.788.788,0,0,0-.623-.319Z'
@@ -81,7 +81,7 @@ const Folder = ({ color, secondaryColor, strokeWidth, set }) => {
         strokeLinejoin='round'
         strokeMiterlimit='10'
         strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
     </g>
   )
@@ -102,6 +102,7 @@ const Folder = ({ color, secondaryColor, strokeWidth, set }) => {
 
 Folder.propTypes = {
   color: PropTypes.string,
+  opacity: PropTypes.string,
   secondaryColor: PropTypes.string,
   set: PropTypes.string,
   strokeWidth: PropTypes.oneOfType([PropTypes.string, PropTypes.number])
