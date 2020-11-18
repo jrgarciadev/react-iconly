@@ -13,7 +13,7 @@ export const IconlyProvider = ({
 }) => {
   const defaulValue = {
     primaryColor: primaryColor || 'currentColor',
-    secondaryColor: secondaryColor || 'currentColor',
+    secondaryColor: secondaryColor || null,
     set: set || 'light',
     size: size || 'medium',
     stroke: stroke || 'regular'

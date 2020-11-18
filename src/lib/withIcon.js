@@ -19,11 +19,13 @@ function withIcon(Component) {
         ...restProps
       } = this.props
       const theme = this.context
+      const iconSize =
+        getSize(size) || getSize(getThemeProp('size', theme)) || '24px'
       return (
         <svg
           xmlns='http://www.w3.org/2000/svg'
-          width={getSize(size) || getThemeProp('size', theme) || '24px'}
-          height={getSize(size) || getThemeProp('size', theme) || '24px'}
+          width={iconSize}
+          height={iconSize}
           viewBox='0 0 24 24'
           role={label ? 'img' : 'presentation'}
           aria-label={label || undefined}
