@@ -96,9 +96,9 @@ export default App;
 | `filled` | `boolean` | `false` | Set de icons sets to 'bold'.
 | `primaryColor` | `string` | `currentColor` | Primary colour for icons.
 | `secondaryColor` | `string` | `currentColor` | Secondary colour for **two-tone** icons set.
-| `size` | `number` | `small, medium, large, xlarge` | `medium` | Control the size of the icon, you can set a custom **number** size
-| `set` | `bold, bulk, light, broken, two-tone` | `light` | Iconly set option.
-| `stroke` | `light, regular, bold` | `regular` | Sets the line stroke for icons.
+| `size` | `number` | `small` `medium` `large` `xlarge` | `medium` | Control the size of the icon, you can set a custom **number** size
+| `set` | `bold` `bulk` `light` `broken` `two-tone` | `light` | Iconly set option.
+| `stroke` | `light` `regular` `bold` | `regular` | Sets the line stroke for icons.
 | `style` | `object` |  | Custom styles property.
 
 -----
