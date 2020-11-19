@@ -34,6 +34,10 @@ const App = () => {
         <Iconly.Chart  primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <Iconly.Game  primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <Iconly.Bag set="bulk"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Bag2 set="bulk"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.TicketStar set="bulk"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.MoreCircle set="broken"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.MoreSquare set="broken"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
       </Iconly.IconlyProvider>
     </React.Fragment>
   )
