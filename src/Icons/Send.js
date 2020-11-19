@@ -88,7 +88,7 @@ const Send = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Light />
   }
 }
-
+Send.displayName = 'IconlySend'
 Send.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,

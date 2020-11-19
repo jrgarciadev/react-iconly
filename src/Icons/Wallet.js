@@ -147,7 +147,7 @@ const Wallet = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+Wallet.displayName = 'IconlyWallet'
 Wallet.propTypes = {
   color: PropTypes.string,
   opacity: PropTypes.string,

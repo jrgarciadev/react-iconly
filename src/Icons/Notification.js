@@ -99,7 +99,7 @@ const Notification = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+Notification.displayName = 'IconlyNotification'
 Notification.propTypes = {
   color: PropTypes.string,
   opacity: PropTypes.string,

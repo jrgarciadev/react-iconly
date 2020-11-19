@@ -145,7 +145,7 @@ const PaperUpload = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Light />
   }
 }
-
+PaperUpload.displayName = 'IconlyPaperUpload'
 PaperUpload.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,

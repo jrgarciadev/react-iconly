@@ -70,7 +70,7 @@ const Home = ({ color, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+Home.displayName = 'IconlyHome'
 Home.propTypes = {
   color: PropTypes.string,
   secondaryColor: PropTypes.string,

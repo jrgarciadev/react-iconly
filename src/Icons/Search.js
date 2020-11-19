@@ -99,7 +99,7 @@ const Search = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+Search.displayName = 'IconlySearch'
 Search.propTypes = {
   color: PropTypes.string,
   opacity: PropTypes.string,

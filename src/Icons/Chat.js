@@ -117,7 +117,7 @@ const Chat = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+Chat.displayName = 'IconlyChat'
 Chat.propTypes = {
   color: PropTypes.string,
   secondaryColor: PropTypes.string,

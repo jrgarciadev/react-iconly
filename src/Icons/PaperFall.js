@@ -134,7 +134,7 @@ const PaperFall = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Light />
   }
 }
-
+PaperFall.displayName = 'IconlyPaperFall'
 PaperFall.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,

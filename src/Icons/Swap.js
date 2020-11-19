@@ -153,7 +153,7 @@ const Swap = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Light />
   }
 }
-
+Swap.displayName = 'IconlySwap'
 Swap.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,

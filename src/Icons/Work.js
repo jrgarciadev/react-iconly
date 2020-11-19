@@ -145,7 +145,7 @@ const Work = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Light />
   }
 }
-
+Work.displayName = 'IconlyWork'
 Work.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,

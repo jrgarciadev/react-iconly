@@ -1,6 +1,7 @@
 # 🌈  React Iconly Icons - In progress...
 
-[![NPM](https://img.shields.io/npm/v/react-iconly.svg)](https://www.npmjs.com/package/react-iconly) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-iconly.svg)](https://www.npmjs.com/package/react-iconly) 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![npm downloads](https://img.shields.io/npm/dm/react-iconly.svg?style=flat-round)](https://www.npmjs.com/package/react-iconly)
 
 
@@ -95,7 +96,7 @@ export default App;
 | `filled` | `boolean` | `false` | Set de icons sets to 'bold'.
 | `primaryColor` | `string` | `currentColor` | Primary colour for icons.
 | `secondaryColor` | `string` | `currentColor` | Secondary colour for **two-tone** icons set.
-| `size` | `number | small, medium, large, xlarge` | `medium` | Control the size of the icon, you can set a custom **number** size
+| `size` | `number` | `small, medium, large, xlarge` | `medium` | Control the size of the icon, you can set a custom **number** size
 | `set` | `bold, bulk, light, broken, two-tone` | `light` | Iconly set option.
 | `stroke` | `light, regular, bold` | `regular` | Sets the line stroke for icons.
 | `style` | `object` |  | Custom styles property.

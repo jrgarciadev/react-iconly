@@ -141,7 +141,7 @@ const Category = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+Category.displayName = 'IconlyCategory'
 Category.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,

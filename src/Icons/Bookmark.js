@@ -1,17 +1,19 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
+import buildIcon from '../lib/buildIcon'
 
 const Bookmark = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
-  const Bold = () => (
-    <g transform='translate(4 2)'>
-      <path
-        d='M14.986,20a1.026,1.026,0,0,1-.515-.141L7.99,16.62,1.5,19.86a1.069,1.069,0,0,1-.491.13A1.016,1.016,0,0,1,0,18.97V3.79A3.316,3.316,0,0,1,1.437.875,6.154,6.154,0,0,1,4.9,0h6.17a6.181,6.181,0,0,1,3.47.875A3.362,3.362,0,0,1,16,3.79V18.97a1.022,1.022,0,0,1-.74.99A.933.933,0,0,1,14.986,20ZM4.22,6.04a.79.79,0,0,0,0,1.58h7.53a.79.79,0,0,0,0-1.58Z'
-        transform='translate(0 0)'
-        fill={color}
-      />
-    </g>
-  )
+  const Bold = () =>
+    buildIcon('translate(4 2)', [
+      {
+        d:
+          'M14.986,20a1.026,1.026,0,0,1-.515-.141L7.99,16.62,1.5,19.86a1.069,1.069,0,0,1-.491.13A1.016,1.016,0,0,1,0,18.97V3.79A3.316,3.316,0,0,1,1.437.875,6.154,6.154,0,0,1,4.9,0h6.17a6.181,6.181,0,0,1,3.47.875A3.362,3.362,0,0,1,16,3.79V18.97a1.022,1.022,0,0,1-.74.99A.933.933,0,0,1,14.986,20ZM4.22,6.04a.79.79,0,0,0,0,1.58h7.53a.79.79,0,0,0,0-1.58Z',
+        transform: 'translate(0 0)',
+        fill: color
+      }
+    ])
+
   const Bulk = () => (
     <g transform='translate(4 2)'>
       <path
@@ -100,7 +102,7 @@ const Bookmark = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+Bookmark.displayName = 'IconlyBookmark'
 Bookmark.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,

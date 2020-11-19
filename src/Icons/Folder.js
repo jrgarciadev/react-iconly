@@ -99,7 +99,7 @@ const Folder = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+Folder.displayName = 'IconlyFolder'
 Folder.propTypes = {
   color: PropTypes.string,
   opacity: PropTypes.string,

@@ -105,7 +105,7 @@ const Heart = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+Heart.displayName = 'IconlyHeart'
 Heart.propTypes = {
   color: PropTypes.string,
   opacity: PropTypes.string,

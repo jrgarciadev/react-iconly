@@ -151,7 +151,7 @@ const PaperDownload = ({
       return <Light />
   }
 }
-
+PaperDownload.displayName = 'IconlyPaperDownload'
 PaperDownload.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,

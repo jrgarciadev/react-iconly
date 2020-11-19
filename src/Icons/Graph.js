@@ -99,7 +99,7 @@ const Graph = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+Graph.displayName = 'IconlyGraph'
 Graph.propTypes = {
   color: PropTypes.string,
   opacity: PropTypes.string,

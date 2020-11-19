@@ -130,7 +130,7 @@ const PaperNegative = ({
       return <Light />
   }
 }
-
+PaperNegative.displayName = 'IconlyPaperNegative'
 PaperNegative.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,

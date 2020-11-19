@@ -145,7 +145,7 @@ const PaperPlus = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Light />
   }
 }
-
+PaperPlus.displayName = 'IconlyPaperPlus'
 PaperPlus.propTypes = {
   color: PropTypes.string,
   opacity: PropTypes.string,

@@ -138,7 +138,7 @@ const Password = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Light />
   }
 }
-
+Password.displayName = 'IconlyPassword'
 Password.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,
