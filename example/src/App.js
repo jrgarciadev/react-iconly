@@ -26,6 +26,14 @@ const App = () => {
         <Iconly.Send style={{ transform: 'rotate(45deg)' }} primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <Iconly.Password primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <Iconly.Work primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Scan primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Calendar primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Message primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Video primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Plus  primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Chart  primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Game  primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Bag set="bulk"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
       </Iconly.IconlyProvider>
     </React.Fragment>
   )
