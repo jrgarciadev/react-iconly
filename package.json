@@ -1,6 +1,6 @@
 {
   "name": "react-iconly",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "React component for Iconly icons",
   "author": "jrgarciadev",
   "license": "MIT",
@@ -26,7 +26,7 @@
     "design"
   ],
   "scripts": {
-    "build": "microbundle-crl --no-compress --format modern,cjs",
+    "build": "microbundle-crl --compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
     "prepare": "run-s build",
     "test": "run-s test:unit test:lint test:build",
