@@ -15,7 +15,8 @@ const App = () => {
         <Iconly.Home set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.Notification set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.Chat set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
-        <Iconly.Heart set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
+        <Iconly.Heart set="bulk" stroke="bold" size="xlarge"/>
+        <Iconly.Heart2 set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.Paper set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.PaperPlus set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <Iconly.PaperNegative set="two-tone" primaryColor="#d6d" secondaryColor="#d6d" stroke="bold" size="xlarge"/>
@@ -38,6 +39,19 @@ const App = () => {
         <Iconly.TicketStar set="bulk"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <Iconly.MoreCircle set="broken"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <Iconly.MoreSquare set="broken"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Discount primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Buy primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.InfoCircle primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.InfoSquare primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Danger primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.CloseSquare primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.TickSquare primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Discovery primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Location primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Document primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.Setting primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.TimeSquare primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.TimeCircle primaryColor="#d6d" stroke="bold" size="xlarge"/>
       </Iconly.IconlyProvider>
     </React.Fragment>
   )
