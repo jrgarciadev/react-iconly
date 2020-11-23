@@ -95,10 +95,10 @@ export default App;
 | `label` | `string` |  | String to use as the aria-label for the icon. Use an empty string when you already have readable text around the icon,like text inside a button.
 | `filled` | `boolean` | `false` | Set de icons sets to 'bold'.
 | `primaryColor` | `string` | `currentColor` | Primary colour for icons.
-| `secondaryColor` | `string` | `currentColor` | Secondary colour for **two-tone** icons set.
+| `secondaryColor` | `string` | `currentColor` | Secondary colour for **two-tone** and **bulk** icons set.
 | `size` | `number` | `small` `medium` `large` `xlarge` | `medium` | Control the size of the icon, you can set a custom **number** size
 | `set` | `light` `bold` `two-tone` `bulk`  `broken`  | `light` | Iconly set option.
-| `stroke` | `light` `regular` `bold` | `regular` | Sets the line stroke for icons.
+| `stroke` | `light` `regular` `bold` | `regular` | Sets the line stroke for **light** and **two-tone** icons set.
 | `style` | `object` |  | Custom styles property.
 
 -----

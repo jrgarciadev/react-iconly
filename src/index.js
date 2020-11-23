@@ -82,3 +82,28 @@ export { default as CallMissed } from './Icons/CallMissed'
 export { default as CallSilent } from './Icons/CallSilent'
 export { default as Lock } from './Icons/Lock'
 export { default as Unlock } from './Icons/Unlock'
+
+export { default as ChevronDownCircle } from './Icons/ChevronDownCircle'
+export { default as ChevronRightCircle } from './Icons/ChevronRightCircle'
+export { default as ChevronUpCircle } from './Icons/ChevronUpCircle'
+export { default as ChevronLeftCircle } from './Icons/ChevronLeftCircle'
+
+export { default as ChevronDown } from './Icons/ChevronDown'
+export { default as ChevronRight } from './Icons/ChevronRight'
+export { default as ChevronUp } from './Icons/ChevronUp'
+export { default as ChevronLeft } from './Icons/ChevronLeft'
+
+export { default as ArrowDownSquare } from './Icons/ArrowDownSquare'
+export { default as ArrowRightSquare } from './Icons/ArrowRightSquare'
+export { default as ArrowUpSquare } from './Icons/ArrowUpSquare'
+export { default as ArrowLeftSquare } from './Icons/ArrowLeftSquare'
+
+export { default as ArrowDown } from './Icons/ArrowDown'
+export { default as ArrowRight } from './Icons/ArrowRight'
+export { default as ArrowUp } from './Icons/ArrowUp'
+export { default as ArrowLeft } from './Icons/ArrowLeft'
+
+export { default as CaretRight } from './Icons/CaretRight'
+export { default as CaretDown } from './Icons/CaretDown'
+export { default as CaretUp } from './Icons/CaretUp'
+export { default as CaretLeft } from './Icons/CaretLeft'
