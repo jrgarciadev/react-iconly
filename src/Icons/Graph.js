@@ -21,7 +21,7 @@ const Graph = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       <path
         d='M.849,0a9.444,9.444,0,0,1,9.13,7.811l-.007.033h0l-.02.047,0,.13a.8.8,0,0,1-.192.472.827.827,0,0,1-.462.271l-.11.015-7.681.5a.917.917,0,0,1-.7-.227.884.884,0,0,1-.288-.537L.007.845a.122.122,0,0,1,0-.08A.785.785,0,0,1,.265.21.815.815,0,0,1,.849,0Z'
         transform='translate(10.021 0)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
     </g>

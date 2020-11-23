@@ -24,7 +24,7 @@ const Location = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
         rx='5'
         ry='1'
         transform='translate(2 18)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
     </g>

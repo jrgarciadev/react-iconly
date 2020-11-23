@@ -15,7 +15,7 @@ const Password = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     <g transform='translate(2 2)'>
       <path
         d='M14.334,0H5.665C2.276,0,0,2.378,0,5.917v8.167C0,17.622,2.276,20,5.665,20h8.668C17.722,20,20,17.622,20,14.084V5.917C20,2.378,17.723,0,14.334,0'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

@@ -16,7 +16,7 @@ const Folder = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
     <g transform='translate(2 2)'>
       <path
         d='M14.884,3.115H11.941a2.429,2.429,0,0,1-1.894-.887L9.078.888A2.367,2.367,0,0,0,7.193,0H5.113C1.378,0,0,2.192,0,5.919V9.947c0,.443,20,.442,20,0V8.776C20.015,5.049,18.672,3.115,14.884,3.115Z'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

@@ -11,14 +11,7 @@ const Home = ({ color, secondaryColor, strokeWidth, set }) => {
       />
     </g>
   )
-  const Bulk = () => (
-    <g transform='translate(2.5 2)'>
-      <path
-        d='M6.644,18.782V15.715A1.418,1.418,0,0,1,8.058,14.3h2.874a1.419,1.419,0,0,1,1.424,1.413h0v3.058A1.231,1.231,0,0,0,13.583,20h1.961a3.46,3.46,0,0,0,2.443-1A3.41,3.41,0,0,0,19,16.578V7.866a2.473,2.473,0,0,0-.9-1.9L11.443.674A3.115,3.115,0,0,0,7.485.745L.967,5.964A2.474,2.474,0,0,0,0,7.866v8.7A3.444,3.444,0,0,0,3.456,20H5.372a1.231,1.231,0,0,0,.873-.354,1.213,1.213,0,0,0,.362-.864Z'
-        fill={color}
-      />
-    </g>
-  )
+
   const Light = () => (
     <g transform='translate(2.5 2)'>
       <path
@@ -61,7 +54,7 @@ const Home = ({ color, secondaryColor, strokeWidth, set }) => {
     case 'bold':
       return <Bold />
     case 'bulk':
-      return <Bulk />
+      return <Bold />
     case 'broken':
       return <Broken />
     case 'two-tone':

@@ -15,7 +15,7 @@ const Chat = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
     <g transform='translate(2 2)'>
       <path
         d='M10.02,0A10,10,0,0,0,0,10a10.56,10.56,0,0,0,1.35,4.99,1.045,1.045,0,0,1,.07.9L.75,18.13a.624.624,0,0,0,.82.78l2.02-.6a1.7,1.7,0,0,1,1.491.36A9.987,9.987,0,1,0,10.02,0'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

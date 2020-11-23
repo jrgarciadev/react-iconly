@@ -17,7 +17,7 @@ const Category = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       <path
         d='M2.539,0H5.924A2.549,2.549,0,0,1,8.463,2.56V5.975a2.549,2.549,0,0,1-2.539,2.56H2.539A2.549,2.549,0,0,1,0,5.975V2.56A2.549,2.549,0,0,1,2.539,0'
         transform='translate(11.537 0)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

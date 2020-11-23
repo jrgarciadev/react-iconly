@@ -18,7 +18,7 @@ const Bookmark = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       <path
         d='M7.991,4.913,1.5,8.155a1.019,1.019,0,0,1-1.376-.4A1.09,1.09,0,0,1,0,7.258V0C0,.72.406,1.164,1.473,1.661Z'
         transform='translate(0 11.709)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

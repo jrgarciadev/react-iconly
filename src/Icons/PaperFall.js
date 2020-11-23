@@ -15,13 +15,13 @@ const PaperFall = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     <g transform='translate(3.5 2)'>
       <path
         d='M15.309,7.021c-.451,0-1.05-.01-1.794-.01a3.336,3.336,0,0,1-3.309-3.336V.459A.457.457,0,0,0,9.752,0H4.463A4.49,4.49,0,0,0,0,4.509V15.284A4.693,4.693,0,0,0,4.67,20h7.875A4.476,4.476,0,0,0,17,15.5V7.471a.454.454,0,0,0-.453-.458c-.423,0-.93.008-1.238.008'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path
         d='M.821.147A.477.477,0,0,0,0,.481V3.118A2.026,2.026,0,0,0,2.017,5.134c.7.008,1.665.01,2.487.008a.477.477,0,0,0,.343-.808C3.792,3.237,1.9,1.271.821.147'
         transform='translate(11.763 0.42)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

@@ -24,7 +24,7 @@ const Activity = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
         cy='2.5'
         r='2.5'
         transform='translate(15)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
     </g>
@@ -86,7 +86,7 @@ const Activity = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
         strokeLinejoin='round'
         strokeMiterlimit='10'
         strokeWidth={strokeWidth}
-        opacity='0.4'
+        opacity={opacity}
       />
       <circle
         cx='1.922'

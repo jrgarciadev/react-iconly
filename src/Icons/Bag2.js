@@ -16,7 +16,7 @@ const Bag2 = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M14.12,15H4.88A4.863,4.863,0,0,1,0,10.165V4.835A4.863,4.863,0,0,1,4.88,0H14.12A4.863,4.863,0,0,1,19,4.835v5.329A4.863,4.863,0,0,1,14.12,15'
         transform='translate(0 5)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

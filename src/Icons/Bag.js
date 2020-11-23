@@ -22,7 +22,7 @@ const Bag = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M9.974,4.774A.5.5,0,0,1,9.93,5H8.493a.649.649,0,0,1-.044-.226,3.484,3.484,0,0,0-6.968,0,.649.649,0,0,1,0,.226H.01a.649.649,0,0,1,0-.226,5,5,0,0,1,9.99,0Z'
         transform='translate(4)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
     </g>

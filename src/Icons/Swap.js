@@ -17,7 +17,7 @@ const Swap = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M1.191,0A.941.941,0,0,0,.257.948L0,5.527A1.2,1.2,0,0,0,1.191,6.734a1.2,1.2,0,0,0,1.19-1.208L2.125.948A.941.941,0,0,0,1.191,0'
         transform='translate(3.514 9.891)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path
@@ -28,7 +28,7 @@ const Swap = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M1.191,6.735a.941.941,0,0,0,.934-.948l.256-4.579A1.2,1.2,0,0,0,1.191,0,1.2,1.2,0,0,0,0,1.208L.257,5.787a.941.941,0,0,0,.934.948'
         transform='translate(14.103 1.375)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

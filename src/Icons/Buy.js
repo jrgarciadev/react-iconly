@@ -16,7 +16,7 @@ const Buy = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M11.25,1.52a1.515,1.515,0,1,1,1.52,1.51A1.52,1.52,0,0,1,11.25,1.52ZM0,1.52A1.515,1.515,0,1,1,1.52,3.03,1.52,1.52,0,0,1,0,1.52Z'
         transform='translate(3.911 16.569)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

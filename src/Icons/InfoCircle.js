@@ -16,7 +16,7 @@ const InfoCircle = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10'
         transform='translate(2 2)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

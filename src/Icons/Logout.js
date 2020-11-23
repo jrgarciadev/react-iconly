@@ -16,7 +16,7 @@ const Logout = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     <g transform='translate(2 2)'>
       <path
         d='M0,4.447A4.492,4.492,0,0,1,4.525,0H9.486A4.481,4.481,0,0,1,14,4.437V15.553A4.492,4.492,0,0,1,9.474,20H4.515A4.481,4.481,0,0,1,0,15.563V4.447Z'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

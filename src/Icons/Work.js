@@ -16,7 +16,7 @@ const Work = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M0,0C.05,2.338.19,6.337.21,6.778A4.651,4.651,0,0,0,1.2,9.346,3.689,3.689,0,0,0,4.292,10.71c1.856.01,3.9.01,5.889.01s3.931,0,5.566-.01a3.733,3.733,0,0,0,3.089-1.364,4.514,4.514,0,0,0,.974-2.568c.02-.371.12-4.712.18-6.778Z'
         transform='translate(0 9.078)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

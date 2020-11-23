@@ -21,7 +21,7 @@ const Wallet = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       <path
         d='M.037,2.4a2.018,2.018,0,0,0,2,1.6h3.25A.726.726,0,0,0,6,3.266V.734A.728.728,0,0,0,5.283,0H1.956A1.985,1.985,0,0,0,0,2.01,2.031,2.031,0,0,0,.037,2.4'
         transform='translate(14 6.9)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <circle

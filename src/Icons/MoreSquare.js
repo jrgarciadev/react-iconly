@@ -17,7 +17,7 @@ const MoreSquare = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M14.34,0H5.67C2.28,0,0,2.38,0,5.92v8.17C0,17.62,2.28,20,5.67,20h8.67C17.73,20,20,17.62,20,14.09V5.92C20,2.38,17.73,0,14.34,0'
         transform='translate(2 2)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

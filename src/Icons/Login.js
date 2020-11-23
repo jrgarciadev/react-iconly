@@ -16,7 +16,7 @@ const Login = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M0,4.446A4.526,4.526,0,0,1,4.591,0H9.624A4.515,4.515,0,0,1,14.2,4.436V15.552A4.526,4.526,0,0,1,9.613,20H4.581A4.517,4.517,0,0,1,0,15.562V4.446Z'
         transform='translate(4.796)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

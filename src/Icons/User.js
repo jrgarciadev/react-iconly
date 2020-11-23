@@ -22,7 +22,7 @@ const User = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M5.292,10.584A5.292,5.292,0,1,0,0,5.292a5.273,5.273,0,0,0,5.292,5.292'
         transform='translate(2.705 0)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
     </g>

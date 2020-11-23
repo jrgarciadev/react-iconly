@@ -17,8 +17,8 @@ const MoreCircle = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10'
         transform='translate(2 2)'
-        fill={color}
-        opacity='0.4'
+        fill={secondaryColor}
+        opacity={opacity}
       />
       <path
         d='M8.959,1.2a1.2,1.2,0,1,1,1.2,1.2A1.2,1.2,0,0,1,8.959,1.2Zm-4.479,0a1.2,1.2,0,1,1,1.2,1.2A1.2,1.2,0,0,1,4.479,1.2ZM0,1.2a1.2,1.2,0,1,1,1.2,1.2A1.2,1.2,0,0,1,0,1.2Z'

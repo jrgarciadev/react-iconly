@@ -91,7 +91,7 @@ const PaperNegative = ({
         strokeLinecap='round'
         strokeLinejoin='round'
         strokeMiterlimit='10'
-        strokeWidth='1.5'
+        strokeWidth={strokeWidth}
       />
       <path
         d='M0,0V2.909A2.575,2.575,0,0,0,2.569,5.484c1.316,0,2.663,0,2.754,0'
@@ -101,7 +101,7 @@ const PaperNegative = ({
         strokeLinecap='round'
         strokeLinejoin='round'
         strokeMiterlimit='10'
-        strokeWidth='1.5'
+        strokeWidth={strokeWidth}
       />
       <path
         d='M4.9.5H0'

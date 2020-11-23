@@ -21,13 +21,13 @@ const TwoUsers = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M4.863,9.525A4.8,4.8,0,0,0,9.726,4.762,4.8,4.8,0,0,0,4.863,0,4.8,4.8,0,0,0,0,4.762,4.8,4.8,0,0,0,4.863,9.525'
         transform='translate(2.486 0)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path
         d='M1.265,4.053A6.368,6.368,0,0,1,.128,7.7a.177.177,0,0,0,.122.275,3.968,3.968,0,0,0,.56.052,4.045,4.045,0,0,0,4.072-2.95A4.045,4.045,0,0,0,.925,0,4.159,4.159,0,0,0,.107.081.148.148,0,0,0,.012.137.111.111,0,0,0,.031.261,6.414,6.414,0,0,1,1.265,4.053'
         transform='translate(12.909 0.795)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

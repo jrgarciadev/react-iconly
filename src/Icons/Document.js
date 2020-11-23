@@ -15,7 +15,7 @@ const Document = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     <g transform='translate(3 2)'>
       <path
         d='M13.191,0H4.81C1.77,0,0,1.78,0,4.83V15.16C0,18.26,1.77,20,4.81,20h8.381C16.28,20,18,18.26,18,15.16V4.83C18,1.78,16.28,0,13.191,0'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

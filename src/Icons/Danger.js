@@ -17,7 +17,7 @@ const Danger = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M2.723,18.167H2.684a2.828,2.828,0,0,1-2.476-3.89L7.529,1.45a2.83,2.83,0,0,1,4.946.009l7.273,12.728A2.872,2.872,0,0,1,20,15.194a2.829,2.829,0,0,1-2.681,2.972H2.723Z'
         transform='translate(2 3.001)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

@@ -16,7 +16,7 @@ const Chart = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     <g transform='translate(2 2)'>
       <path
         d='M14.676,0H5.333C1.929,0,0,1.929,0,5.333v9.333C0,18.071,1.929,20,5.333,20h9.342C18.08,20,20,18.071,20,14.667V5.333C20,1.929,18.08,0,14.676,0'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

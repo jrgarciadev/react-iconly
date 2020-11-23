@@ -21,13 +21,13 @@ const People = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M4.209,8.467A4.207,4.207,0,0,0,8.419,4.234,4.209,4.209,0,1,0,0,4.234,4.207,4.207,0,0,0,4.209,8.467'
         transform='translate(6.74 0)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path
         d='M4.225,4.513A3.574,3.574,0,0,0,.8,0,3.587,3.587,0,0,0,.092.073.136.136,0,0,0,.01.122a.1.1,0,0,0,.017.11A5.807,5.807,0,0,1,1.094,3.6,5.762,5.762,0,0,1,.11,6.844a.158.158,0,0,0,.107.244A3.282,3.282,0,0,0,.7,7.135,3.513,3.513,0,0,0,4.225,4.513'
         transform='translate(15.863 0.707)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path
@@ -38,7 +38,7 @@ const People = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M4.252.073A3.514,3.514,0,0,0,3.543,0,3.573,3.573,0,0,0,.12,4.513,3.511,3.511,0,0,0,3.644,7.135a3.4,3.4,0,0,0,.484-.047.158.158,0,0,0,.107-.244A5.841,5.841,0,0,1,4.318.232a.1.1,0,0,0,.016-.11.129.129,0,0,0-.082-.05'
         transform='translate(1.793 0.707)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

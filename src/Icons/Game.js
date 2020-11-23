@@ -16,7 +16,7 @@ const Game = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M5.682,3.882v.183c-.491-.01-.981-.01-1.472-.01V3.892a1.222,1.222,0,0,0-1.227-1.2H2.012A1.994,1.994,0,0,1,0,.723.735.735,0,0,1,.736,0a.728.728,0,0,1,.736.723.532.532,0,0,0,.54.52h.972a2.7,2.7,0,0,1,2.7,2.64'
         transform='translate(5.623 0)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

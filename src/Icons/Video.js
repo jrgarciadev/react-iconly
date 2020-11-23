@@ -16,7 +16,7 @@ const Video = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M3.743.216A1.383,1.383,0,0,0,2.37.152L.888.9A1.618,1.618,0,0,0,0,2.356V8.19A1.622,1.622,0,0,0,.888,9.647l1.481.747A1.372,1.372,0,0,0,3,10.547a1.4,1.4,0,0,0,.743-.216,1.429,1.429,0,0,0,.669-1.218V1.435A1.432,1.432,0,0,0,3.743.216'
         transform='translate(15.588 2.226)'
-        fill={color}
+        fill={secondaryColor}
         opacity={opacity}
       />
       <path

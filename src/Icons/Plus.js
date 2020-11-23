@@ -16,8 +16,8 @@ const Plus = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     <g transform='translate(2 2)'>
       <path
         d='M14.667,0H5.333C1.929,0,0,1.929,0,5.333v9.333C0,18.062,1.92,20,5.333,20h9.333C18.071,20,20,18.062,20,14.667V5.333C20,1.929,18.071,0,14.667,0Z'
-        fill={color}
-        opacity='0.4'
+        fill={secondaryColor}
+        opacity={opacity}
       />
       <path
         d='M7.32,4.708H4.75V7.257a.75.75,0,0,1-1.5,0V4.708H.68a.75.75,0,0,1,0-1.494H3.242V.674a.758.758,0,0,1,1.507,0V3.214H7.32a.75.75,0,0,1,0,1.494Z'

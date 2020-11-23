@@ -22,8 +22,8 @@ const Calendar = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M0,5.767A15.855,15.855,0,0,1,.155,3.64,4.591,4.591,0,0,1,4.541,0h8.911a4.639,4.639,0,0,1,4.386,3.64,15.892,15.892,0,0,1,.154,2.127Z'
         transform='translate(0.003 1.49)'
-        fill={color}
-        opacity='0.4'
+        fill={secondaryColor}
+        opacity={opacity}
       />
       <path
         d='M.761,4.59a.747.747,0,0,0,.761-.77V.771A.748.748,0,0,0,.761,0,.748.748,0,0,0,0,.771V3.82a.747.747,0,0,0,.761.77'
