@@ -1,4 +1,4 @@
-# 🌈  React Iconly Icons - In progress...
+# 🌈  React Iconly Icons
 
 [![NPM](https://img.shields.io/npm/v/react-iconly.svg)](https://www.npmjs.com/package/react-iconly) 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
