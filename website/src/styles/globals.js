@@ -1,11 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 
 export default createGlobalStyle`
-  /*
-  -------------------------------------------------------------------------------
-  1.  Base styles
-  -------------------------------------------------------------------------------
-  */
   * {
     border: 0;
     box-sizing: inherit;
@@ -64,21 +59,6 @@ export default createGlobalStyle`
 
     &.hidden {
       overflow: hidden;
-    }
-
-    &.blur {
-      overflow: hidden;
-
-      header {
-        background-color: transparent;
-      }
-
-      #content > * {
-        filter: blur(5px) brightness(0.7);
-        transition: ${(props) => props.theme.transitions.defualt};
-        pointer-events: none;
-        user-select: none;
-      }
     }
 
   }
