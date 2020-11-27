@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import OutsideClickHandler from 'react-outside-click-handler'
+import { connectRefinementList } from 'react-instantsearch-dom'
 import {
   SelectContainer,
   SelectHeader,
@@ -11,29 +12,43 @@ import { ChevronDown } from 'react-iconly'
 import { withTheme } from 'styled-components'
 import PropTypes from 'prop-types'
 
-const Select = ({ theme, options = [] }) => {
+const Select = ({
+  theme,
+  options = [],
+  onSelectedOption,
+  items,
+  isFromSearch,
+  refine,
+  searchForItems,
+  createURL
+}) => {
+  console.log({ items, isFromSearch, refine, searchForItems, createURL })
   const [isOpen, setIsOpen] = useState(false)
   const [selectedOption, setSelectedOption] = useState(null)
   const toggling = () => setIsOpen(!isOpen)
 
-  const onOptionClicked = (value) => () => {
-    setSelectedOption(value)
+  const onOptionClicked = (option) => () => {
+    setSelectedOption(option)
     setIsOpen(false)
-    console.log({ selectedOption })
+    if (typeof onSelectedOption === 'function') {
+      onSelectedOption(option)
+    }
   }
 
   return (
     <OutsideClickHandler onOutsideClick={() => setIsOpen(false)}>
       <SelectContainer>
         <SelectHeader onClick={toggling}>
-          <span>{selectedOption || options[0] || 'Select an option..'}</span>{' '}
+          <span>
+            {selectedOption?.name || options[0]?.name || 'Select an option..'}
+          </span>
           <ChevronDown primaryColor={theme.colors.accent3} />
         </SelectHeader>
         <SelectListContainer isOpen={isOpen}>
           <SelectList>
             {options.map((option) => (
-              <ListItem onClick={onOptionClicked(option)} key={Math.random()}>
-                {option}
+              <ListItem onClick={onOptionClicked(option)} key={option.key}>
+                {option?.name}
               </ListItem>
             ))}
           </SelectList>
@@ -45,7 +60,15 @@ const Select = ({ theme, options = [] }) => {
 
 Select.propTypes = {
   theme: PropTypes.object,
-  options: PropTypes.array
+  onSelectedOption: PropTypes.func,
+  options: PropTypes.arrayOf(
+    PropTypes.shape({
+      key: PropTypes.string,
+      name: PropTypes.string
+    })
+  )
 }
 
-export default withTheme(Select)
+const CustomRefinementList = connectRefinementList(Select)
+
+export default withTheme(CustomRefinementList)
