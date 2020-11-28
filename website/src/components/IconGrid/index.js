@@ -1,30 +1,45 @@
 import { useState } from 'react'
+import { connectHits } from 'react-instantsearch-dom'
 import { AutoSizer, List, WindowScroller } from 'react-virtualized'
-import { Icon } from '@components'
 import { ICON_ROW_HEIGHT, ICON_MAX_COLUMN_WIDTH } from '@lib/constants'
 import { GridContainer, StyledGrid } from './styles'
-import PropTypes from 'prop-types'
+import { Icon } from '@components'
 
 // IconGrid might need to display a lot of icons (>200).
 // To avoid an excessive DOM size, we use react-virtualized
 // to only render the icons that are visible on the screen.
 
-const IconGrid = ({ icons = [] }) => {
+const IconGrid = ({ hits = [] }) => {
   // Initialize numColumns to an arbitrary number.
   const [numColumns, setNumColumns] = useState(1)
+
+  const renderRow = ({ key, index: rowIndex, style }) => {
+    return (
+      <StyledGrid key={key} numColumns={numColumns} style={style}>
+        {Array.from({ length: numColumns }, (value, columnIndex) => {
+          const icon = hits[rowIndex * numColumns + columnIndex]
+          if (!icon) {
+            return null
+          }
+          return <Icon key={icon.objectID} {...icon} />
+        })}
+      </StyledGrid>
+    )
+  }
+
+  const onResize = ({ width }) => {
+    if (width <= 576) {
+      setNumColumns(Math.floor(width / (ICON_MAX_COLUMN_WIDTH - 20)))
+    } else {
+      setNumColumns(Math.floor(width / ICON_MAX_COLUMN_WIDTH))
+    }
+  }
 
   return (
     <GridContainer>
       <WindowScroller>
         {({ height, isScrolling, onChildScroll, scrollTop }) => (
-          <AutoSizer
-            disableHeight
-            onResize={({ width }) =>
-              // Recompute the number of columns when the grid resizes.
-              // This function is also called on initial render.
-              setNumColumns(Math.floor(width / ICON_MAX_COLUMN_WIDTH))
-            }
-          >
+          <AutoSizer disableHeight onResize={onResize}>
             {({ width }) => (
               <List
                 tabIndex={-1}
@@ -34,35 +49,9 @@ const IconGrid = ({ icons = [] }) => {
                 isScrolling={isScrolling}
                 onScroll={onChildScroll}
                 scrollTop={scrollTop}
-                rowCount={Math.ceil(icons.length / numColumns)}
+                rowCount={hits.length}
                 rowHeight={ICON_ROW_HEIGHT}
-                rowRenderer={({ key, index: rowIndex, style }) => (
-                  <StyledGrid key={key}>
-                    {
-                      // Render each column.
-                      Array.from(
-                        { length: numColumns },
-                        (value, columnIndex) => {
-                          // Calculate the icon index using row and column indices.
-                          const icon =
-                            icons[rowIndex * numColumns + columnIndex]
-                          // The icon index we computed might be out of range.
-                          // If that's the case, render nothing.
-                          if (!icon) {
-                            return null
-                          }
-                          return (
-                            <Icon
-                              key={icon.name}
-                              name={icon.name}
-                              title={`Download ${icon.name}.svg`}
-                            />
-                          )
-                        }
-                      )
-                    }
-                  </StyledGrid>
-                )}
+                rowRenderer={renderRow}
               />
             )}
           </AutoSizer>
@@ -72,13 +61,6 @@ const IconGrid = ({ icons = [] }) => {
   )
 }
 
-IconGrid.propTypes = {
-  icons: PropTypes.arrayOf(
-    PropTypes.shape({
-      name: PropTypes.string,
-      toSvg: PropTypes.func
-    })
-  ).isRequired
-}
+const CustomHits = connectHits(IconGrid)
 
-export default IconGrid
+export default CustomHits

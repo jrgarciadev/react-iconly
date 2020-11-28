@@ -1,7 +1,9 @@
+import { useContext } from 'react'
 import { Search as SearchIcon } from 'react-iconly'
 import { Select } from '@components'
 import { withTheme } from 'styled-components'
 import { connectSearchBox } from 'react-instantsearch-dom'
+import { IconDataContext } from '@lib/context'
 import {
   StyledForm,
   StyledIconContainer,
@@ -9,24 +11,8 @@ import {
   StyledSelectContainer
 } from './styles'
 
-const Search = ({ theme, currentRefinement, isSearchStalled, refine }) => {
-  const options = [
-    {
-      key: 'all',
-      name: 'All'
-    },
-    {
-      key: 'light',
-      name: 'Light'
-    },
-    {
-      key: 'bold',
-      name: 'Bold'
-    },
-    { key: 'bulk', name: 'Bulk' },
-    { key: 'broken', name: 'Broken' },
-    { key: 'two-tone', name: 'Two Tone' }
-  ]
+const Search = ({ theme, currentRefinement, refine }) => {
+  const { removeIcon } = useContext(IconDataContext)
   return (
     <StyledForm noValidate action='' role='search'>
       <StyledIconContainer>
@@ -35,13 +21,14 @@ const Search = ({ theme, currentRefinement, isSearchStalled, refine }) => {
       <StyledInput
         autoFocus
         type='search'
+        onFocus={removeIcon}
         focusShortcuts={['s', '/']}
         value={currentRefinement}
         onChange={(event) => refine(event.currentTarget.value)}
         placeholder='Search icon...'
       />
       <StyledSelectContainer>
-        <Select attribute='set' options={options} />
+        <Select searchable attribute='set' />
       </StyledSelectContainer>
     </StyledForm>
   )

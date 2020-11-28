@@ -1,30 +1,20 @@
-import { Intro, Search } from '@components'
+import { Intro, Search, IconGrid, IconDetail } from '@components'
 import getAlgoliaClient from '@lib/algolia'
-import { InstantSearch, Highlight, Hits } from 'react-instantsearch-dom'
+import { InstantSearch } from 'react-instantsearch-dom'
 import { ALGOLIA_INDEX_NAME } from '@lib/constants'
+import IconData from '@lib/context'
 
 const searchClient = getAlgoliaClient()
 
 const Home = () => (
-  <>
+  <IconData>
     <Intro />
     <InstantSearch indexName={ALGOLIA_INDEX_NAME} searchClient={searchClient}>
       <Search />
-      <Hits hitComponent={Hit} />
+      <IconGrid />
     </InstantSearch>
-  </>
+    <IconDetail />
+  </IconData>
 )
-
-function Hit({ hit }) {
-  console.log(hit.name)
-  return (
-    <div>
-      <div dangerouslySetInnerHTML={{ __html: hit.svgPath }} />
-      <div className='hit-name'>
-        <Highlight attribute='name' hit={hit} />
-      </div>
-    </div>
-  )
-}
 
 export default Home

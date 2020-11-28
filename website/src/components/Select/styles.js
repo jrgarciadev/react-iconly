@@ -17,6 +17,7 @@ export const SelectHeader = styled.div`
   font-weight: ${(props) => props.theme.fontw.regular};
   font-size: ${(props) => props.theme.fontSize.lg};
   color: ${(props) => props.theme.colors.accent3};
+  text-transform: capitalize;
   cursor: pointer;
   span {
     padding: 0 10px;
@@ -52,13 +53,14 @@ export const SelectList = styled.ul`
   box-sizing: border-box;
   color: ${(props) => props.theme.colors.accent3};
   font-size: ${(props) => props.theme.fontSize.md};
+  text-transform: capitalize;
   font-weight: 500;
   &:first-child {
     padding-top: 0.8em;
   }
 `
 
-export const ListItem = styled.li`
+export const StyledListItem = styled.li`
   ${({ theme }) => theme.mixins.noSelect};
   cursor: pointer;
   list-style: none;
