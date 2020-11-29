@@ -14,6 +14,7 @@ export const StyledContainer = styled.div`
   border-radius: ${({ theme }) => theme.borderRadius};
   background: ${({ theme }) => theme.bg.reverse};
   transition: ${({ theme }) => theme.transitions.default};
+  overflow: auto;
   p {
     color: ${({ theme }) => theme.text.reverse};
   }
@@ -37,6 +38,25 @@ export const StyledContainer = styled.div`
       visibility: visible;
       bottom: 1rem;
     `}
+
+  @media(max-width: ${({ theme }) => theme.breakpoints.md}) {
+    margin: 0 4%;
+    .name {
+      display: none;
+    }
+    .icon-container {
+      svg {
+        margin-right: 0.5rem;
+      }
+    }
+    .download {
+      margin: 0 0.5rem;
+    }
+  }
+
+  @media (max-width: ${({ theme }) => theme.breakpoints.xl}) {
+    margin: 0 14%;
+  }
 `
 
 export const IconWrapper = styled.div`
