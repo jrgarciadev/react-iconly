@@ -8,7 +8,8 @@ import {
   StyledForm,
   StyledIconContainer,
   StyledInput,
-  StyledSelectContainer
+  StyledSelectContainer,
+  StyledAlgoliaImg
 } from './styles'
 
 const Search = ({ theme, currentRefinement, refine }) => {
@@ -27,6 +28,7 @@ const Search = ({ theme, currentRefinement, refine }) => {
         onChange={(event) => refine(event.currentTarget.value)}
         placeholder='Search icon...'
       />
+      <StyledAlgoliaImg className='algolia-logo' src='/algolia-logo.svg' />
       <StyledSelectContainer>
         <Select searchable attribute='set' />
       </StyledSelectContainer>

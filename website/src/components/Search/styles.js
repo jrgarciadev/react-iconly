@@ -62,3 +62,10 @@ export const StyledSelectContainer = styled.div`
     width: 100px;
   }
 `
+
+export const StyledAlgoliaImg = styled.img`
+  position: relative;
+  top: 1.5rem;
+  left: 1.5rem;
+  width: 120px;
+`
