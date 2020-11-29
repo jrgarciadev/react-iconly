@@ -3,6 +3,7 @@ import Router from 'next/router'
 import DefaultLayout from '@layouts/default'
 import GlobalStyles from '@styles/globals'
 import theme from '@themes/light'
+import 'react-tippy/dist/tippy.css'
 import * as gtag from '@lib/gtag'
 
 // Notice how we track pageview when route is changed

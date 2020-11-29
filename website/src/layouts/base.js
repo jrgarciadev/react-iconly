@@ -28,12 +28,13 @@ const BaseLayout = ({ children }) => {
         <link rel='mask-icon' href='/safari-pinned-tab.svg' color='#181818' />
         <meta name='msapplication-TileColor' content='#ffffff' />
         <meta name='theme-color' content='#ffffff' />
+        <link rel='preconnect' href='https://fonts.gstatic.com' />
         <link
           href='https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap'
           rel='stylesheet'
         />
         <link
-          href='https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap'
+          href='https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500&display=swap'
           rel='stylesheet'
         />
         <meta

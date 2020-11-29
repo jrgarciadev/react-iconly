@@ -9,6 +9,7 @@ export const StyledForm = styled.form`
   height: 68px;
   @media (max-width: ${(props) => props.theme.breakpoints.sm}) {
     width: 100%;
+    height: 54px;
   }
 `
 
@@ -40,6 +41,11 @@ export const StyledInput = styled.input`
     color: ${(props) => props.theme.colors.accent3};
     opacity: 0.6;
   }
+  @media (max-width: ${(props) => props.theme.breakpoints.sm}) {
+    padding-left: 50px;
+    padding-right: 120px;
+    font-size: ${(props) => props.theme.fontSize.md};
+  }
 `
 
 export const StyledSelectContainer = styled.div`
@@ -51,4 +57,8 @@ export const StyledSelectContainer = styled.div`
   right: 0px;
   width: 200px;
   height: 100%;
+
+  @media (max-width: ${(props) => props.theme.breakpoints.sm}) {
+    width: 100px;
+  }
 `

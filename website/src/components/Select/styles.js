@@ -25,6 +25,10 @@ export const SelectHeader = styled.div`
   @media (max-width: ${(props) => props.theme.breakpoints.md}) {
     font-size: ${(props) => props.theme.fontSize.md};
   }
+
+  @media (max-width: ${(props) => props.theme.breakpoints.sm}) {
+    width: 80px;
+  }
 `
 
 export const SelectListContainer = styled.div`

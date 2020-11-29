@@ -7,7 +7,7 @@ export default {
     fontSans:
       'Open Sans, -apple-system, BlinkMacSystemFont,Segoe UI, Helvetica, Arial',
     fontMono:
-      'Space Mono, SF Mono, Fira Code, Fira Mono, Roboto Mono, monospace'
+      'Roboto Mono, SF Mono, Fira Code, Fira Mono, Roboto Mono, monospace'
   },
   colors: {
     white: '#FFFFFF',
