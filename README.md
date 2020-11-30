@@ -1,6 +1,6 @@
 # 🌈  React Iconly Icons
 
-[![NPM](https://img.shields.io/npm/v/react-iconly.svg)](https://www.npmjs.com/package/react-iconly) 
+[![NPM](https://img.shields.io/npm/v/react-iconly.svg)](https://www.npmjs.com/package/react-iconly)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![npm downloads](https://img.shields.io/npm/dm/react-iconly.svg?style=flat-round)](https://www.npmjs.com/package/react-iconly)
 
@@ -11,18 +11,20 @@
 
 ## Based on Iconly Essential Icons [Iconly v2](https://ui8.net/piqodesign/products/iconly-essential-icons)
 
+🌐 [Website](https://react-iconly.vercel.app/)
+
 ### Sets
 - Bold
-- Bulk 
+- Bulk
 - Light Border
-- Broken 
+- Broken
 - Two Tone
 
 ### Installation
     yarn add react-iconly
-    
+
   or
-    
+
     npm i react-iconly
 
 ### Usage
@@ -86,7 +88,7 @@ const App = () => {
 };
 
 export default App;
- 
+
 ```
 ## Props
 
