@@ -53,6 +53,7 @@ const App = () => {
         <Iconly.TimeSquare primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <Iconly.TimeCircle primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <Iconly.CaretRight set="bulk" primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <Iconly.ArrowDownSquare/>
       </Iconly.IconlyProvider>
     </React.Fragment>
   )

@@ -25,9 +25,10 @@ const BaseLayout = ({ children }) => {
           sizes='16x16'
           href='/favicon-16x16.png'
         />
-        <link rel='mask-icon' href='/safari-pinned-tab.svg' color='#181818' />
-        <meta name='msapplication-TileColor' content='#ffffff' />
+        <link rel='manifest' href='/site.webmanifest' />
         <meta name='theme-color' content='#ffffff' />
+        <link rel='mask-icon' href='/safari-pinned-tab.svg' color='#200E32' />
+        <meta name='msapplication-TileColor' content='#ffffff' />
         <link rel='preconnect' href='https://fonts.gstatic.com' />
         <link
           href='https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap'

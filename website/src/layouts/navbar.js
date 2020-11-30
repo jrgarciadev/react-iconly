@@ -10,7 +10,7 @@ const Navbar = () => (
       Github
     </a>
     <p>
-      Coded by &nbsp;
+      Built by &nbsp;
       <a rel='noreferrer' href='https://jrgarciadev.com' target='_blank'>
         Junior García
       </a>
