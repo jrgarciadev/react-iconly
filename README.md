@@ -11,7 +11,7 @@
 
 ## Based on Iconly Essential Icons [Iconly v2](https://ui8.net/piqodesign/products/iconly-essential-icons)
 
-🌐 [Website](https://react-iconly.vercel.app/)
+🌐 [Website](https://react-iconly.jrgarciadev.com/)
 
 ### Sets
 - Bold
