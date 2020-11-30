@@ -56,6 +56,17 @@
   },
   {
     "set": "two-tone",
+    "name": "Arrow Left",
+    "tags": [
+      "arrow",
+      "arrow left",
+      "left"
+    ],
+    "componentName": "ArrowLeft",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M4.25 12.2744L19.25 12.2744\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10.2998 18.2988L4.2498 12.2748L10.2998 6.24976\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
     "name": "Arrow Left Square",
     "tags": [
       "arrow",
@@ -67,6 +78,56 @@
     ],
     "componentName": "ArrowLeftSquare",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.75 7.66588L2.75 16.3349C2.75 19.3549 4.889 21.2499 7.916 21.2499L16.084 21.2499C19.111 21.2499 21.25 19.3649 21.25 16.3349L21.25 7.66588C21.25 4.63588 19.111 2.74988 16.084 2.74988L7.916 2.74988C4.889 2.74988 2.75 4.63588 2.75 7.66588Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7.91406 11.9999L16.0861 11.9999\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.6777 15.7478L7.91373 11.9998L11.6777 8.25183\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Arrow Right",
+    "tags": [
+      "arrow",
+      "arrow right",
+      "right"
+    ],
+    "componentName": "ArrowRight",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M19.75 11.7256L4.75 11.7256\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M13.7002 5.70124L19.7502 11.7252L13.7002 17.7502\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Arrow Right Square",
+    "tags": [
+      "arrow",
+      "arrow right",
+      "right",
+      "square",
+      "arrow square",
+      "arrow right square"
+    ],
+    "componentName": "ArrowRightSquare",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.25 16.3341V7.66512C21.25 4.64512 19.111 2.75012 16.084 2.75012H7.916C4.889 2.75012 2.75 4.63512 2.75 7.66512L2.75 16.3341C2.75 19.3641 4.889 21.2501 7.916 21.2501H16.084C19.111 21.2501 21.25 19.3641 21.25 16.3341Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M16.0859 12.0001H7.91394\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.3223 8.25217L16.0863 12.0002L12.3223 15.7482\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Arrow Up",
+    "tags": [
+      "arrow",
+      "arrow up",
+      "up"
+    ],
+    "componentName": "ArrowUp",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M11.7256 4.25L11.7256 19.25\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M5.70124 10.2998L11.7252 4.2498L17.7502 10.2998\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Arrow Up Square",
+    "tags": [
+      "arrow",
+      "arrow up",
+      "up",
+      "square",
+      "arrow square",
+      "arrow up square"
+    ],
+    "componentName": "ArrowUpSquare",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3341 2.75H7.66512C4.64512 2.75 2.75012 4.889 2.75012 7.916V16.084C2.75012 19.111 4.63512 21.25 7.66512 21.25H16.3341C19.3641 21.25 21.2501 19.111 21.2501 16.084V7.916C21.2501 4.889 19.3641 2.75 16.3341 2.75Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.0001 7.91406L12.0001 16.0861\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.25217 11.6777L12.0002 7.91373L15.7482 11.6777\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -85,89 +146,19 @@
   },
   {
     "set": "two-tone",
-    "name": "Arrow Right Square",
+    "name": "Bag 2",
     "tags": [
-      "arrow",
-      "arrow right",
-      "right",
-      "square",
-      "arrow square",
-      "arrow right square"
-    ],
-    "componentName": "ArrowRightSquare",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.25 16.3341V7.66512C21.25 4.64512 19.111 2.75012 16.084 2.75012H7.916C4.889 2.75012 2.75 4.63512 2.75 7.66512L2.75 16.3341C2.75 19.3641 4.889 21.2501 7.916 21.2501H16.084C19.111 21.2501 21.25 19.3641 21.25 16.3341Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M16.0859 12.0001H7.91394\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.3223 8.25217L16.0863 12.0002L12.3223 15.7482\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Arrow Up Square",
-    "tags": [
-      "arrow",
-      "arrow up",
-      "up",
-      "square",
-      "arrow square",
-      "arrow up square"
-    ],
-    "componentName": "ArrowUpSquare",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3341 2.75H7.66512C4.64512 2.75 2.75012 4.889 2.75012 7.916V16.084C2.75012 19.111 4.63512 21.25 7.66512 21.25H16.3341C19.3641 21.25 21.2501 19.111 21.2501 16.084V7.916C21.2501 4.889 19.3641 2.75 16.3341 2.75Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.0001 7.91406L12.0001 16.0861\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.25217 11.6777L12.0002 7.91373L15.7482 11.6777\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Arrow Right",
-    "tags": [
-      "arrow",
-      "arrow right",
-      "right"
-    ],
-    "componentName": "ArrowRight",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M19.75 11.7256L4.75 11.7256\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M13.7002 5.70124L19.7502 11.7252L13.7002 17.7502\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Calendar",
-    "tags": [
-      "calendar",
-      "date",
-      "year"
-    ],
-    "componentName": "Calendar",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M3.09264 9.40421H20.9166\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.80788 13.3097C6.80788 12.8955 7.14367 12.5597 7.55788 12.5597H7.56715C7.98136 12.5597 8.31715 12.8955 8.31715 13.3097C8.31715 13.7239 7.98136 14.0597 7.56715 14.0597H7.55788C7.14367 14.0597 6.80788 13.7239 6.80788 13.3097ZM12.0046 12.5597C11.5904 12.5597 11.2546 12.8955 11.2546 13.3097C11.2546 13.7239 11.5904 14.0597 12.0046 14.0597H12.0139C12.4281 14.0597 12.7639 13.7239 12.7639 13.3097C12.7639 12.8955 12.4281 12.5597 12.0139 12.5597H12.0046ZM16.4421 12.5597C16.0279 12.5597 15.6921 12.8955 15.6921 13.3097C15.6921 13.7239 16.0279 14.0597 16.4421 14.0597H16.4513C16.8655 14.0597 17.2013 13.7239 17.2013 13.3097C17.2013 12.8955 16.8655 12.5597 16.4513 12.5597H16.4421ZM16.4421 16.4462C16.0279 16.4462 15.6921 16.782 15.6921 17.1962C15.6921 17.6104 16.0279 17.9462 16.4421 17.9462H16.4513C16.8655 17.9462 17.2013 17.6104 17.2013 17.1962C17.2013 16.782 16.8655 16.4462 16.4513 16.4462H16.4421ZM11.2546 17.1962C11.2546 16.782 11.5904 16.4462 12.0046 16.4462H12.0139C12.4281 16.4462 12.7639 16.782 12.7639 17.1962C12.7639 17.6104 12.4281 17.9462 12.0139 17.9462H12.0046C11.5904 17.9462 11.2546 17.6104 11.2546 17.1962ZM7.55788 16.4462C7.14367 16.4462 6.80788 16.782 6.80788 17.1962C6.80788 17.6104 7.14367 17.9462 7.55788 17.9462H7.56715C7.98136 17.9462 8.31715 17.6104 8.31715 17.1962C8.31715 16.782 7.98136 16.4462 7.56715 16.4462H7.55788Z\" fill=\"#200E32\"/>\n<path d=\"M16.0437 2V5.29078\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7.9655 2V5.29078\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.2383 3.57922H7.77096C4.83427 3.57922 3 5.21516 3 8.22225V17.2719C3 20.3263 4.83427 22 7.77096 22H16.229C19.175 22 21 20.3546 21 17.3475V8.22225C21.0092 5.21516 19.1842 3.57922 16.2383 3.57922Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Arrow Up",
-    "tags": [
-      "arrow",
-      "arrow up",
-      "up"
-    ],
-    "componentName": "ArrowUp",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M11.7256 4.25L11.7256 19.25\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M5.70124 10.2998L11.7252 4.2498L17.7502 10.2998\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Call",
-    "tags": [
-      "call",
-      "ring",
-      "phone",
-      "mobile"
-    ],
-    "componentName": "Call",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.99033 4.87254C3.30665 4.34878 5.0495 2.44376 6.29322 2.50127C6.665 2.53208 6.99364 2.75699 7.26067 3.01784C7.87379 3.61656 9.62897 5.88101 9.72859 6.35753C9.97096 7.52621 8.57833 8.1999 9.00454 9.37783C10.0911 12.0366 11.9634 13.9088 14.6233 14.9943C15.8003 15.4205 16.474 14.0279 17.6428 14.2713C18.1183 14.3709 20.3839 16.126 20.9826 16.7391C21.2425 17.0051 21.4684 17.3347 21.4992 17.7065C21.5454 19.0159 19.5222 20.7833 19.1278 21.0092C18.1974 21.6747 16.9834 21.6634 15.5035 20.9753C11.3739 19.2572 4.77426 12.7822 3.02422 8.49669C2.35461 7.02505 2.30839 5.80297 2.99033 4.87254Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M4.38287 3.79431L5.85187 5.97331\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M17.8643 18.0668L20.0523 19.7768\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Buy",
-    "tags": [
-      "cart",
+      "bag",
+      "bag2",
       "shopping",
+      "shopping bag",
+      "cart",
       "ecommerce",
       "store",
       "purchase"
     ],
-    "componentName": "Buy",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.42226 19.8203C7.84426 19.8203 8.18726 20.1633 8.18726 20.5853C8.18726 21.0073 7.84426 21.3493 7.42226 21.3493C7.00026 21.3493 6.65826 21.0073 6.65826 20.5853C6.65826 20.1633 7.00026 19.8203 7.42226 19.8203Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.6747 19.8203C19.0967 19.8203 19.4397 20.1633 19.4397 20.5853C19.4397 21.0073 19.0967 21.3493 18.6747 21.3493C18.2527 21.3493 17.9097 21.0073 17.9097 20.5853C17.9097 20.1633 18.2527 19.8203 18.6747 19.8203Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.74988 3.25L4.82988 3.61L5.79288 15.083C5.87088 16.018 6.65188 16.736 7.58988 16.736H18.5019C19.3979 16.736 20.1579 16.078 20.2869 15.19L21.2359 8.632C21.3529 7.823 20.7259 7.099 19.9089 7.099H5.16388\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M14.1254 10.795H16.8984\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "Bag2",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M15.7729 9.30504V6.27304C15.7729 4.18904 14.0839 2.50004 12.0009 2.50004C9.91691 2.49104 8.21991 4.17204 8.21091 6.25604V6.27304V9.30504\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.7422 21.0004H7.25778C4.90569 21.0004 3 19.0954 3 16.7454V11.2294C3 8.87937 4.90569 6.97437 7.25778 6.97437H16.7422C19.0943 6.97437 21 8.87937 21 11.2294V16.7454C21 19.0954 19.0943 21.0004 16.7422 21.0004Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -184,6 +175,67 @@
   },
   {
     "set": "two-tone",
+    "name": "Buy",
+    "tags": [
+      "cart",
+      "shopping",
+      "ecommerce",
+      "store",
+      "purchase"
+    ],
+    "componentName": "Buy",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.42226 19.8203C7.84426 19.8203 8.18726 20.1633 8.18726 20.5853C8.18726 21.0073 7.84426 21.3493 7.42226 21.3493C7.00026 21.3493 6.65826 21.0073 6.65826 20.5853C6.65826 20.1633 7.00026 19.8203 7.42226 19.8203Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.6747 19.8203C19.0967 19.8203 19.4397 20.1633 19.4397 20.5853C19.4397 21.0073 19.0967 21.3493 18.6747 21.3493C18.2527 21.3493 17.9097 21.0073 17.9097 20.5853C17.9097 20.1633 18.2527 19.8203 18.6747 19.8203Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.74988 3.25L4.82988 3.61L5.79288 15.083C5.87088 16.018 6.65188 16.736 7.58988 16.736H18.5019C19.3979 16.736 20.1579 16.078 20.2869 15.19L21.2359 8.632C21.3529 7.823 20.7259 7.099 19.9089 7.099H5.16388\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M14.1254 10.795H16.8984\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Calendar",
+    "tags": [
+      "calendar",
+      "date",
+      "year"
+    ],
+    "componentName": "Calendar",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M3.09264 9.40421H20.9166\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.80788 13.3097C6.80788 12.8955 7.14367 12.5597 7.55788 12.5597H7.56715C7.98136 12.5597 8.31715 12.8955 8.31715 13.3097C8.31715 13.7239 7.98136 14.0597 7.56715 14.0597H7.55788C7.14367 14.0597 6.80788 13.7239 6.80788 13.3097ZM12.0046 12.5597C11.5904 12.5597 11.2546 12.8955 11.2546 13.3097C11.2546 13.7239 11.5904 14.0597 12.0046 14.0597H12.0139C12.4281 14.0597 12.7639 13.7239 12.7639 13.3097C12.7639 12.8955 12.4281 12.5597 12.0139 12.5597H12.0046ZM16.4421 12.5597C16.0279 12.5597 15.6921 12.8955 15.6921 13.3097C15.6921 13.7239 16.0279 14.0597 16.4421 14.0597H16.4513C16.8655 14.0597 17.2013 13.7239 17.2013 13.3097C17.2013 12.8955 16.8655 12.5597 16.4513 12.5597H16.4421ZM16.4421 16.4462C16.0279 16.4462 15.6921 16.782 15.6921 17.1962C15.6921 17.6104 16.0279 17.9462 16.4421 17.9462H16.4513C16.8655 17.9462 17.2013 17.6104 17.2013 17.1962C17.2013 16.782 16.8655 16.4462 16.4513 16.4462H16.4421ZM11.2546 17.1962C11.2546 16.782 11.5904 16.4462 12.0046 16.4462H12.0139C12.4281 16.4462 12.7639 16.782 12.7639 17.1962C12.7639 17.6104 12.4281 17.9462 12.0139 17.9462H12.0046C11.5904 17.9462 11.2546 17.6104 11.2546 17.1962ZM7.55788 16.4462C7.14367 16.4462 6.80788 16.782 6.80788 17.1962C6.80788 17.6104 7.14367 17.9462 7.55788 17.9462H7.56715C7.98136 17.9462 8.31715 17.6104 8.31715 17.1962C8.31715 16.782 7.98136 16.4462 7.56715 16.4462H7.55788Z\" fill=\"#200E32\"/>\n<path d=\"M16.0437 2V5.29078\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7.9655 2V5.29078\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.2383 3.57922H7.77096C4.83427 3.57922 3 5.21516 3 8.22225V17.2719C3 20.3263 4.83427 22 7.77096 22H16.229C19.175 22 21 20.3546 21 17.3475V8.22225C21.0092 5.21516 19.1842 3.57922 16.2383 3.57922Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Call",
+    "tags": [
+      "call",
+      "ring",
+      "phone",
+      "mobile"
+    ],
+    "componentName": "Call",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.99033 4.87254C3.30665 4.34878 5.0495 2.44376 6.29322 2.50127C6.665 2.53208 6.99364 2.75699 7.26067 3.01784C7.87379 3.61656 9.62897 5.88101 9.72859 6.35753C9.97096 7.52621 8.57833 8.1999 9.00454 9.37783C10.0911 12.0366 11.9634 13.9088 14.6233 14.9943C15.8003 15.4205 16.474 14.0279 17.6428 14.2713C18.1183 14.3709 20.3839 16.126 20.9826 16.7391C21.2425 17.0051 21.4684 17.3347 21.4992 17.7065C21.5454 19.0159 19.5222 20.7833 19.1278 21.0092C18.1974 21.6747 16.9834 21.6634 15.5035 20.9753C11.3739 19.2572 4.77426 12.7822 3.02422 8.49669C2.35461 7.02505 2.30839 5.80297 2.99033 4.87254Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M4.38287 3.79431L5.85187 5.97331\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M17.8643 18.0668L20.0523 19.7768\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Call Missed",
+    "tags": [
+      "call missed",
+      "missed",
+      "phone",
+      "ring"
+    ],
+    "componentName": "CallMissed",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.99033 4.87351C3.30665 4.34875 5.0495 2.44377 6.29322 2.50127C6.665 2.53311 6.99364 2.75698 7.26067 3.01783C7.87379 3.61756 9.62897 5.88094 9.72859 6.35745C9.97096 7.52611 8.57833 8.19978 9.00454 9.37769C10.0911 12.0364 11.9634 13.9086 14.6233 14.994C15.8003 15.4212 16.474 14.0287 17.6428 14.2711C18.1183 14.3707 20.3839 16.1257 20.9826 16.7388C21.2425 17.0048 21.4684 17.3344 21.4992 17.7062C21.5454 19.0155 19.5222 20.7829 19.1278 21.0088C18.1974 21.6753 16.9834 21.663 15.5035 20.975C11.3739 19.2569 4.77426 12.782 3.02422 8.49657C2.35461 7.02496 2.30839 5.8029 2.99033 4.87351Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.7799 3.28057C22.0728 2.98768 22.0728 2.51281 21.7799 2.21991C21.487 1.92702 21.0121 1.92702 20.7192 2.21991L18.2496 4.68958L15.7799 2.21991C15.487 1.92702 15.0121 1.92702 14.7192 2.21991C14.4263 2.51281 14.4263 2.98768 14.7192 3.28057L17.1889 5.75024L14.7192 8.21991C14.4263 8.51281 14.4263 8.98768 14.7192 9.28057C15.0121 9.57347 15.487 9.57347 15.7799 9.28057L18.2496 6.8109L20.7192 9.28057C21.0121 9.57347 21.487 9.57347 21.7799 9.28057C22.0728 8.98768 22.0728 8.51281 21.7799 8.21991L19.3102 5.75024L21.7799 3.28057Z\" fill=\"#200E32\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Call Silent",
+    "tags": [
+      "call silent",
+      "silence",
+      "silent",
+      "phone",
+      "ring"
+    ],
+    "componentName": "CallSilent",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M6.62858 12.7573C5.23979 11.0968 4.11704 9.42498 3.52948 7.9986C2.85152 6.52087 2.81043 5.29781 3.48839 4.37461C3.80683 3.84986 5.55309 1.94082 6.79704 2.00141C7.16581 2.03324 7.49451 2.25814 7.76262 2.51487C8.06975 2.81267 8.66553 3.53254 9.18941 4.22982C9.71329 4.92915 10.1858 5.61718 10.2269 5.85234C10.4734 7.02303 9.07642 7.70079 9.50785 8.8725C9.60338 9.10561 9.70404 9.33256 9.81293 9.55232\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.84045 15.1572C11.2236 17.5386 13.9251 19.614 16.0104 20.4766C17.4896 21.1646 18.7017 21.1739 19.6262 20.5074C20.0268 20.2805 22.0504 18.5152 21.999 17.1997C21.9682 16.831 21.7422 16.5024 21.4854 16.2354C20.8896 15.6183 18.6195 13.8622 18.147 13.7698C16.976 13.5233 16.298 14.921 15.127 14.4897C13.8019 13.9444 12.6617 13.206 11.7269 12.2705\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.74323 21.077L21.0759 2.74438\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
     "name": "Calling",
     "tags": [
       "calling",
@@ -194,18 +246,6 @@
     ],
     "componentName": "Calling",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.98995 4.87351C3.30627 4.34875 5.05018 2.44377 6.2929 2.50127C6.66469 2.53311 6.99334 2.75698 7.26037 3.01783H7.2614C7.87351 3.61756 9.62974 5.88094 9.72834 6.35745C9.97175 7.52611 8.57806 8.19978 9.00428 9.37769C10.0909 12.0364 11.9632 13.9086 14.6232 14.994C15.8002 15.4212 16.4739 14.0287 17.6427 14.2711C18.1192 14.3707 20.3839 16.1257 20.9826 16.7388V16.7388C21.2425 17.0048 21.4684 17.3344 21.4992 17.7062C21.5454 19.0155 19.5222 20.7829 19.1278 21.0088C18.1973 21.6753 16.9833 21.663 15.5034 20.975C11.3737 19.2569 4.77391 12.782 3.02384 8.49657C2.35421 7.02496 2.30902 5.8029 2.98995 4.87351Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M14.5654 2.75C18.2674 3.161 21.1904 6.081 21.6064 9.782\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M14.5654 6.29297C16.3354 6.63797 17.7184 8.02097 18.0634 9.79097\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Caret Down",
-    "tags": [
-      "caret",
-      "down",
-      "arrow",
-      "arrow down"
-    ],
-    "componentName": "CaretDown",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M12.2512 12.6998V3.74976\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.25024 12.6997L12.2512 20.6367L17.2522 12.6997H7.25024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -220,6 +260,18 @@
     ],
     "componentName": "Camera",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.6378 7.10987V7.10987C17.2648 7.10987 16.9268 6.89487 16.7678 6.55887C16.4808 5.95087 16.1158 5.17387 15.8998 4.75087C15.5808 4.12187 15.0638 3.75587 14.3478 3.75087C14.3358 3.74987 9.66382 3.74987 9.65182 3.75087C8.93582 3.75587 8.41982 4.12187 8.09982 4.75087C7.88482 5.17387 7.51982 5.95087 7.23282 6.55887C7.07382 6.89487 6.73482 7.10987 6.36282 7.10987V7.10987C4.36682 7.10987 2.74982 8.72687 2.74982 10.7219V16.6579C2.74982 18.6519 4.36682 20.2699 6.36282 20.2699H17.6378C19.6328 20.2699 21.2498 18.6519 21.2498 16.6579V10.7219C21.2498 8.72687 19.6328 7.10987 17.6378 7.10987Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.82139 13.3345C8.82039 15.0875 10.2514 16.5215 12.0014 16.5205C13.7484 16.5185 15.1754 15.0905 15.1784 13.3415C15.1814 11.5855 13.7554 10.1545 12.0034 10.1525C10.2414 10.1505 8.80739 11.6055 8.82139 13.3345Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M16.9025 10.9951C16.8059 10.9852 16.7105 10.96 16.6036 10.9169C16.4847 10.8641 16.3818 10.7969 16.2823 10.6959C16.1035 10.5057 16 10.257 16 10.0005C16 9.86422 16.0279 9.72916 16.0823 9.60681C16.1368 9.48285 16.2014 9.37829 16.3182 9.26456C16.407 9.18719 16.498 9.12493 16.6224 9.07013C16.9913 8.92396 17.4301 9.0113 17.7043 9.28541C17.7865 9.36639 17.8557 9.46411 17.8941 9.54651L17.9169 9.60494C17.9721 9.72916 18 9.86422 18 10.0005C18 10.2622 17.8978 10.5043 17.7081 10.7058C17.5442 10.8708 17.3289 10.9723 17.0992 10.9951L17 11L16.9025 10.9951Z\" fill=\"#200E32\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Caret Down",
+    "tags": [
+      "caret",
+      "down",
+      "arrow",
+      "arrow down"
+    ],
+    "componentName": "CaretDown",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M12.2512 12.6998V3.74976\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.25024 12.6997L12.2512 20.6367L17.2522 12.6997H7.25024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -247,50 +299,15 @@
   },
   {
     "set": "two-tone",
-    "name": "Call Silent",
+    "name": "Caret Up",
     "tags": [
-      "call silent",
-      "silence",
-      "silent",
-      "phone",
-      "ring"
-    ],
-    "componentName": "CallSilent",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M6.62858 12.7573C5.23979 11.0968 4.11704 9.42498 3.52948 7.9986C2.85152 6.52087 2.81043 5.29781 3.48839 4.37461C3.80683 3.84986 5.55309 1.94082 6.79704 2.00141C7.16581 2.03324 7.49451 2.25814 7.76262 2.51487C8.06975 2.81267 8.66553 3.53254 9.18941 4.22982C9.71329 4.92915 10.1858 5.61718 10.2269 5.85234C10.4734 7.02303 9.07642 7.70079 9.50785 8.8725C9.60338 9.10561 9.70404 9.33256 9.81293 9.55232\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.84045 15.1572C11.2236 17.5386 13.9251 19.614 16.0104 20.4766C17.4896 21.1646 18.7017 21.1739 19.6262 20.5074C20.0268 20.2805 22.0504 18.5152 21.999 17.1997C21.9682 16.831 21.7422 16.5024 21.4854 16.2354C20.8896 15.6183 18.6195 13.8622 18.147 13.7698C16.976 13.5233 16.298 14.921 15.127 14.4897C13.8019 13.9444 12.6617 13.206 11.7269 12.2705\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.74323 21.077L21.0759 2.74438\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Call Missed",
-    "tags": [
-      "call missed",
-      "missed",
-      "phone",
-      "ring"
-    ],
-    "componentName": "CallMissed",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.99033 4.87351C3.30665 4.34875 5.0495 2.44377 6.29322 2.50127C6.665 2.53311 6.99364 2.75698 7.26067 3.01783C7.87379 3.61756 9.62897 5.88094 9.72859 6.35745C9.97096 7.52611 8.57833 8.19978 9.00454 9.37769C10.0911 12.0364 11.9634 13.9086 14.6233 14.994C15.8003 15.4212 16.474 14.0287 17.6428 14.2711C18.1183 14.3707 20.3839 16.1257 20.9826 16.7388C21.2425 17.0048 21.4684 17.3344 21.4992 17.7062C21.5454 19.0155 19.5222 20.7829 19.1278 21.0088C18.1974 21.6753 16.9834 21.663 15.5035 20.975C11.3739 19.2569 4.77426 12.782 3.02422 8.49657C2.35461 7.02496 2.30839 5.8029 2.99033 4.87351Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.7799 3.28057C22.0728 2.98768 22.0728 2.51281 21.7799 2.21991C21.487 1.92702 21.0121 1.92702 20.7192 2.21991L18.2496 4.68958L15.7799 2.21991C15.487 1.92702 15.0121 1.92702 14.7192 2.21991C14.4263 2.51281 14.4263 2.98768 14.7192 3.28057L17.1889 5.75024L14.7192 8.21991C14.4263 8.51281 14.4263 8.98768 14.7192 9.28057C15.0121 9.57347 15.487 9.57347 15.7799 9.28057L18.2496 6.8109L20.7192 9.28057C21.0121 9.57347 21.487 9.57347 21.7799 9.28057C22.0728 8.98768 22.0728 8.51281 21.7799 8.21991L19.3102 5.75024L21.7799 3.28057Z\" fill=\"#200E32\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Arrow Left",
-    "tags": [
+      "caret",
+      "up",
       "arrow",
-      "arrow left",
-      "left"
+      "arrow up"
     ],
-    "componentName": "ArrowLeft",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M4.25 12.2744L19.25 12.2744\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10.2998 18.2988L4.2498 12.2748L10.2998 6.24976\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Chevron Down",
-    "tags": [
-      "chevron",
-      "down",
-      "arrow"
-    ],
-    "componentName": "ChevronDown",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19 8.5L12 15.5L5 8.5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "CaretUp",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M11.7488 11.3002L11.7488 20.2502\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.7498 11.3003L11.7488 3.36329L6.74776 11.3003L16.7498 11.3003Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -307,6 +324,18 @@
   },
   {
     "set": "two-tone",
+    "name": "Chart",
+    "tags": [
+      "chart",
+      "graph",
+      "statistics",
+      "diagram"
+    ],
+    "componentName": "Chart",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M7.37142 10.2017V17.0618\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M12.0381 6.91907V17.0618\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M16.6286 13.8268V17.0618\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6857 2H7.31429C4.04762 2 2 4.31208 2 7.58516V16.4148C2 19.6879 4.0381 22 7.31429 22H16.6857C19.9619 22 22 19.6879 22 16.4148V7.58516C22 4.31208 19.9619 2 16.6857 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
     "name": "Chat",
     "tags": [
       "chat",
@@ -320,15 +349,27 @@
   },
   {
     "set": "two-tone",
-    "name": "Chart",
+    "name": "Chevron Down",
     "tags": [
-      "chart",
-      "graph",
-      "statistics",
-      "diagram"
+      "chevron",
+      "down",
+      "arrow"
     ],
-    "componentName": "Chart",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M7.37142 10.2017V17.0618\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M12.0381 6.91907V17.0618\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M16.6286 13.8268V17.0618\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6857 2H7.31429C4.04762 2 2 4.31208 2 7.58516V16.4148C2 19.6879 4.0381 22 7.31429 22H16.6857C19.9619 22 22 19.6879 22 16.4148V7.58516C22 4.31208 19.9619 2 16.6857 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "ChevronDown",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19 8.5L12 15.5L5 8.5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Chevron Down Circle",
+    "tags": [
+      "round",
+      "circle",
+      "chevron",
+      "down",
+      "arrow"
+    ],
+    "componentName": "ChevronDownCircle",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.75024 12C2.75024 17.108 6.89124 21.25 12.0002 21.25C17.1082 21.25 21.2502 17.108 21.2502 12C21.2502 6.892 17.1082 2.75 12.0002 2.75C6.89124 2.75 2.75024 6.892 2.75024 12Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.52905 10.5577L12.0001 14.0437L15.4711 10.5577\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -340,18 +381,6 @@
     ],
     "componentName": "ChevronLeft",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.5 19L8.5 12L15.5 5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Caret Up",
-    "tags": [
-      "caret",
-      "up",
-      "arrow",
-      "arrow up"
-    ],
-    "componentName": "CaretUp",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M11.7488 11.3002L11.7488 20.2502\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.7498 11.3003L11.7488 3.36329L6.74776 11.3003L16.7498 11.3003Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -391,15 +420,14 @@
   },
   {
     "set": "two-tone",
-    "name": "Danger",
+    "name": "Chevron Up",
     "tags": [
-      "dialog",
-      "danger",
-      "alert",
-      "warning"
+      "chevron",
+      "up",
+      "arrow"
     ],
-    "componentName": "Danger",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M11.2503 16.2695C11.2503 15.8555 11.5863 15.5135 12.0003 15.5135C12.4143 15.5135 12.7503 15.8445 12.7503 16.2585V16.2695C12.7503 16.6835 12.4143 17.0195 12.0003 17.0195C11.5863 17.0195 11.2503 16.6835 11.2503 16.2695Z\" fill=\"#200E32\"/>\n<path d=\"M4.79572 20.4179H19.2777C20.4247 20.3579 21.3067 19.3809 21.2477 18.2339C21.2347 18.0019 21.1847 17.7729 21.0967 17.5589L13.8197 4.82285C13.2637 3.81785 11.9987 3.45385 10.9937 4.01085C10.6517 4.19885 10.3697 4.48085 10.1807 4.82285L2.90372 17.5589C2.47172 18.6229 2.98372 19.8349 4.04672 20.2679C4.26272 20.3549 4.49072 20.4049 4.72272 20.4179\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M11.9899 13.396V10.296\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "ChevronUp",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 15.5L12 8.5L19 15.5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -416,27 +444,30 @@
   },
   {
     "set": "two-tone",
-    "name": "Chevron Down Circle",
+    "name": "Close Square",
     "tags": [
-      "round",
-      "circle",
-      "chevron",
-      "down",
-      "arrow"
+      "close",
+      "cancel",
+      "delete",
+      "remove",
+      "times",
+      "clear",
+      "square"
     ],
-    "componentName": "ChevronDownCircle",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.75024 12C2.75024 17.108 6.89124 21.25 12.0002 21.25C17.1082 21.25 21.2502 17.108 21.2502 12C21.2502 6.892 17.1082 2.75 12.0002 2.75C6.89124 2.75 2.75024 6.892 2.75024 12Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.52905 10.5577L12.0001 14.0437L15.4711 10.5577\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "CloseSquare",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.1314 9.06262C9.83854 8.7697 9.36366 8.76965 9.07074 9.06251C8.77781 9.35537 8.77777 9.83025 9.07063 10.1232L10.9384 11.9914L9.07319 13.8566C8.78029 14.1495 8.78029 14.6244 9.07319 14.9173C9.36608 15.2102 9.84095 15.2102 10.1338 14.9173L11.999 13.0521L13.8666 14.9202C14.1595 15.2131 14.6344 15.2131 14.9273 14.9203C15.2202 14.6274 15.2203 14.1525 14.9274 13.8596L13.0597 11.9915L14.9258 10.1253C15.2187 9.83241 15.2187 9.35753 14.9258 9.06464C14.633 8.77175 14.1581 8.77175 13.8652 9.06464L11.9991 10.9307L10.1314 9.06262Z\" fill=\"#200E32\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3345 2.75024H7.66549C4.64449 2.75024 2.75049 4.88924 2.75049 7.91624V16.0842C2.75049 19.1112 4.63549 21.2502 7.66549 21.2502H16.3335C19.3645 21.2502 21.2505 19.1112 21.2505 16.0842V7.91624C21.2505 4.88924 19.3645 2.75024 16.3345 2.75024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
-    "name": "Chevron Up",
+    "name": "Danger",
     "tags": [
-      "chevron",
-      "up",
-      "arrow"
+      "dialog",
+      "danger",
+      "alert",
+      "warning"
     ],
-    "componentName": "ChevronUp",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 15.5L12 8.5L19 15.5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "Danger",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M11.2503 16.2695C11.2503 15.8555 11.5863 15.5135 12.0003 15.5135C12.4143 15.5135 12.7503 15.8445 12.7503 16.2585V16.2695C12.7503 16.6835 12.4143 17.0195 12.0003 17.0195C11.5863 17.0195 11.2503 16.6835 11.2503 16.2695Z\" fill=\"#200E32\"/>\n<path d=\"M4.79572 20.4179H19.2777C20.4247 20.3579 21.3067 19.3809 21.2477 18.2339C21.2347 18.0019 21.1847 17.7729 21.0967 17.5589L13.8197 4.82285C13.2637 3.81785 11.9987 3.45385 10.9937 4.01085C10.6517 4.19885 10.3697 4.48085 10.1807 4.82285L2.90372 17.5589C2.47172 18.6229 2.98372 19.8349 4.04672 20.2679C4.26272 20.3549 4.49072 20.4049 4.72272 20.4179\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M11.9899 13.396V10.296\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -454,18 +485,25 @@
   },
   {
     "set": "two-tone",
-    "name": "Close Square",
+    "name": "Discovery",
     "tags": [
-      "close",
-      "cancel",
-      "delete",
-      "remove",
-      "times",
-      "clear",
-      "square"
+      "discovery",
+      "explore",
+      "discover"
     ],
-    "componentName": "CloseSquare",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.1314 9.06262C9.83854 8.7697 9.36366 8.76965 9.07074 9.06251C8.77781 9.35537 8.77777 9.83025 9.07063 10.1232L10.9384 11.9914L9.07319 13.8566C8.78029 14.1495 8.78029 14.6244 9.07319 14.9173C9.36608 15.2102 9.84095 15.2102 10.1338 14.9173L11.999 13.0521L13.8666 14.9202C14.1595 15.2131 14.6344 15.2131 14.9273 14.9203C15.2202 14.6274 15.2203 14.1525 14.9274 13.8596L13.0597 11.9915L14.9258 10.1253C15.2187 9.83241 15.2187 9.35753 14.9258 9.06464C14.633 8.77175 14.1581 8.77175 13.8652 9.06464L11.9991 10.9307L10.1314 9.06262Z\" fill=\"#200E32\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3345 2.75024H7.66549C4.64449 2.75024 2.75049 4.88924 2.75049 7.91624V16.0842C2.75049 19.1112 4.63549 21.2502 7.66549 21.2502H16.3335C19.3645 21.2502 21.2505 19.1112 21.2505 16.0842V7.91624C21.2505 4.88924 19.3645 2.75024 16.3345 2.75024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "Discovery",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.27002 14.9519L9.8627 9.8627L14.9519 8.27002L13.3593 13.3593L8.27002 14.9519Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<circle cx=\"11.611\" cy=\"11.611\" r=\"9.61098\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Document",
+    "tags": [
+      "document",
+      "file",
+      "data"
+    ],
+    "componentName": "Document",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M15.7162 16.2234H8.4962\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M15.7162 12.0369H8.4962\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M11.2513 7.86011H8.4963\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.9086 2.74976C15.9086 2.74976 8.2316 2.75376 8.2196 2.75376C5.4596 2.77076 3.7506 4.58676 3.7506 7.35676V16.5528C3.7506 19.3368 5.4726 21.1598 8.2566 21.1598C8.2566 21.1598 15.9326 21.1568 15.9456 21.1568C18.7056 21.1398 20.4156 19.3228 20.4156 16.5528V7.35676C20.4156 4.57276 18.6926 2.74976 15.9086 2.74976Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -490,17 +528,6 @@
   },
   {
     "set": "two-tone",
-    "name": "Discovery",
-    "tags": [
-      "discovery",
-      "explore",
-      "discover"
-    ],
-    "componentName": "Discovery",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.27002 14.9519L9.8627 9.8627L14.9519 8.27002L13.3593 13.3593L8.27002 14.9519Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<circle cx=\"11.611\" cy=\"11.611\" r=\"9.61098\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
     "name": "Edit",
     "tags": [
       "edit",
@@ -509,17 +536,6 @@
     ],
     "componentName": "Edit",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M13.6996 19.8981H20.0766\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.8549 4.95573C13.5919 4.01673 14.7829 4.06573 15.7229 4.80273L17.1129 5.89273C18.0529 6.62973 18.3859 7.77273 17.6489 8.71373L9.3599 19.2887C9.0829 19.6427 8.6599 19.8517 8.2099 19.8567L5.0129 19.8977L4.2889 16.7827C4.1869 16.3457 4.2889 15.8857 4.5659 15.5307L12.8549 4.95573Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M11.3026 6.93616L16.0966 10.6942\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Document",
-    "tags": [
-      "document",
-      "file",
-      "data"
-    ],
-    "componentName": "Document",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M15.7162 16.2234H8.4962\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M15.7162 12.0369H8.4962\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M11.2513 7.86011H8.4963\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.9086 2.74976C15.9086 2.74976 8.2316 2.75376 8.2196 2.75376C5.4596 2.77076 3.7506 4.58676 3.7506 7.35676V16.5528C3.7506 19.3368 5.4726 21.1598 8.2566 21.1598C8.2566 21.1598 15.9326 21.1568 15.9456 21.1568C18.7056 21.1398 20.4156 19.3228 20.4156 16.5528V7.35676C20.4156 4.57276 18.6926 2.74976 15.9086 2.74976Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -535,19 +551,15 @@
   },
   {
     "set": "two-tone",
-    "name": "Bag 2",
+    "name": "Filter",
     "tags": [
-      "bag",
-      "bag2",
-      "shopping",
-      "shopping bag",
-      "cart",
-      "ecommerce",
-      "store",
-      "purchase"
+      "filter",
+      "search",
+      "funnel",
+      "hopper"
     ],
-    "componentName": "Bag2",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M15.7729 9.30504V6.27304C15.7729 4.18904 14.0839 2.50004 12.0009 2.50004C9.91691 2.49104 8.21991 4.17204 8.21091 6.25604V6.27304V9.30504\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.7422 21.0004H7.25778C4.90569 21.0004 3 19.0954 3 16.7454V11.2294C3 8.87937 4.90569 6.97437 7.25778 6.97437H16.7422C19.0943 6.97437 21 8.87937 21 11.2294V16.7454C21 19.0954 19.0943 21.0004 16.7422 21.0004Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "Filter",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M10.1172 17.9866H2.88306\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.1179 17.9866C21.1179 19.5772 19.8285 20.8666 18.2379 20.8666C16.6473 20.8666 15.3579 19.5772 15.3579 17.9866C15.3579 16.3948 16.6473 15.1066 18.2379 15.1066C19.8285 15.1066 21.1179 16.3948 21.1179 17.9866Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M13.8827 6.26206H21.118\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.8826 6.26208C2.8826 7.85384 4.17201 9.14208 5.7626 9.14208C7.35319 9.14208 8.6426 7.85384 8.6426 6.26208C8.6426 4.67149 7.35319 3.38208 5.7626 3.38208C4.17201 3.38208 2.8826 4.67149 2.8826 6.26208Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -561,6 +573,16 @@
     ],
     "componentName": "Filter2",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.29332 22L14.0696 19.7519V13.8603L21.5593 6.26456C21.8416 5.97995 22 5.58933 22 5.18027V3.51754C22 2.67869 21.3417 2 20.5295 2H3.47049C2.65826 2 2 2.67869 2 3.51754V5.2183C2 5.60431 2.14169 5.97534 2.39719 6.2565L9.29332 13.8603V22Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M11 6H21.5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Folder",
+    "tags": [
+      "folder",
+      "directory"
+    ],
+    "componentName": "Folder",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.9446 15.7579C21.9446 19.336 19.836 21.4446 16.2579 21.4446H8.47172C4.88443 21.4446 2.77588 19.336 2.77588 15.7579V7.9626C2.77588 4.38444 4.0903 2.27588 7.66846 2.27588H9.66749C10.3858 2.27588 11.0621 2.61406 11.4931 3.18868L12.4059 4.40269C12.8378 4.97618 13.5135 5.31406 14.2315 5.31549H17.0611C20.6484 5.31549 21.972 7.14108 21.972 10.7923L21.9446 15.7579Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M7.55893 14.4891H17.1524\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -584,28 +606,6 @@
     ],
     "componentName": "Graph",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.524 9.75284C20.8849 5.81944 17.5439 2.89321 13.5606 2.77801C13.3712 2.77059 13.1867 2.83878 13.0476 2.96755C12.9085 3.09632 12.8264 3.27511 12.8192 3.46451V3.46451V3.52859L13.2677 10.238C13.2971 10.6896 13.6854 11.0329 14.1373 11.0068L20.865 10.5583C21.0545 10.5443 21.2307 10.4553 21.3544 10.311C21.4781 10.1666 21.5392 9.97894 21.524 9.78946V9.75284Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.9016 6.76889C9.32956 6.6699 9.7675 6.88887 9.94508 7.29063C9.9916 7.38512 10.0196 7.48766 10.0275 7.59269C10.119 8.89246 10.3112 11.7391 10.4211 13.2769C10.4398 13.5539 10.5682 13.812 10.7778 13.9941C10.9873 14.1762 11.2608 14.2673 11.5378 14.2472V14.2472L17.1854 13.8993C17.4375 13.8842 17.6847 13.9739 17.8684 14.1472C18.0521 14.3205 18.1561 14.5621 18.1556 14.8147V14.8147C17.9267 18.225 15.4765 21.0761 12.1393 21.8151C8.80211 22.5541 5.37727 21.0041 3.72998 18.0092C3.23823 17.1472 2.92681 16.1943 2.81464 15.2083C2.76669 14.9056 2.7483 14.5991 2.75972 14.2929C2.76944 10.6509 5.32723 7.51285 8.89245 6.76889\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Filter",
-    "tags": [
-      "filter",
-      "search",
-      "funnel",
-      "hopper"
-    ],
-    "componentName": "Filter",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M10.1172 17.9866H2.88306\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.1179 17.9866C21.1179 19.5772 19.8285 20.8666 18.2379 20.8666C16.6473 20.8666 15.3579 19.5772 15.3579 17.9866C15.3579 16.3948 16.6473 15.1066 18.2379 15.1066C19.8285 15.1066 21.1179 16.3948 21.1179 17.9866Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M13.8827 6.26206H21.118\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.8826 6.26208C2.8826 7.85384 4.17201 9.14208 5.7626 9.14208C7.35319 9.14208 8.6426 7.85384 8.6426 6.26208C8.6426 4.67149 7.35319 3.38208 5.7626 3.38208C4.17201 3.38208 2.8826 4.67149 2.8826 6.26208Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Folder",
-    "tags": [
-      "folder",
-      "directory"
-    ],
-    "componentName": "Folder",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.9446 15.7579C21.9446 19.336 19.836 21.4446 16.2579 21.4446H8.47172C4.88443 21.4446 2.77588 19.336 2.77588 15.7579V7.9626C2.77588 4.38444 4.0903 2.27588 7.66846 2.27588H9.66749C10.3858 2.27588 11.0621 2.61406 11.4931 3.18868L12.4059 4.40269C12.8378 4.97618 13.5135 5.31406 14.2315 5.31549H17.0611C20.6484 5.31549 21.972 7.14108 21.972 10.7923L21.9446 15.7579Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M7.55893 14.4891H17.1524\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -679,22 +679,6 @@
   },
   {
     "set": "two-tone",
-    "name": "Location",
-    "tags": [
-      "location",
-      "gsp",
-      "maps",
-      "navigation",
-      "travel",
-      "marker",
-      "map",
-      "pin"
-    ],
-    "componentName": "Location",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.23913 10.3914C4.25354 6.15077 7.70289 2.72477 11.9435 2.73918C16.1841 2.75359 19.6101 6.20294 19.5957 10.4435V10.5305C19.5435 13.287 18.0043 15.8348 16.1174 17.8261C15.0382 18.9468 13.8331 19.9389 12.5261 20.7827C12.1766 21.085 11.6582 21.085 11.3087 20.7827C9.3602 19.5144 7.65007 17.9132 6.25652 16.0522C5.01448 14.4294 4.3093 12.4598 4.23913 10.4174L4.23913 10.3914Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<circle opacity=\"0.4\" cx=\"11.9174\" cy=\"10.5392\" r=\"2.46087\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
     "name": "Info Circle",
     "tags": [
       "info",
@@ -717,30 +701,19 @@
   },
   {
     "set": "two-tone",
-    "name": "Login",
+    "name": "Location",
     "tags": [
-      "login",
-      "in",
-      "sign",
-      "auth",
-      "secure",
-      "arrow"
+      "location",
+      "gsp",
+      "maps",
+      "navigation",
+      "travel",
+      "marker",
+      "map",
+      "pin"
     ],
-    "componentName": "Login",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.8125 12.0217H3.77148\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.8848 9.10571L15.8128 12.0217L12.8848 14.9377\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M8.50439 7.38897V6.45597C8.50439 4.42097 10.1534 2.77197 12.1894 2.77197H17.0734C19.1034 2.77197 20.7484 4.41697 20.7484 6.44697V17.587C20.7484 19.622 19.0984 21.272 17.0634 21.272H12.1784C10.1494 21.272 8.50439 19.626 8.50439 17.597V16.655\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Lock",
-    "tags": [
-      "lock",
-      "security",
-      "password",
-      "login",
-      "auth"
-    ],
-    "componentName": "Lock",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M16.4234 9.4478V7.3008C16.4234 4.7878 14.3854 2.7498 11.8724 2.7498C9.35937 2.7388 7.31337 4.7668 7.30237 7.2808V7.3008V9.4478\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.6832 21.2496H8.04218C5.94818 21.2496 4.25018 19.5526 4.25018 17.4576V13.1686C4.25018 11.0736 5.94818 9.37659 8.04218 9.37659H15.6832C17.7772 9.37659 19.4752 11.0736 19.4752 13.1686V17.4576C19.4752 19.5526 17.7772 21.2496 15.6832 21.2496Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.8629 14.2028V16.4238\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "Location",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.23913 10.3914C4.25354 6.15077 7.70289 2.72477 11.9435 2.73918C16.1841 2.75359 19.6101 6.20294 19.5957 10.4435V10.5305C19.5435 13.287 18.0043 15.8348 16.1174 17.8261C15.0382 18.9468 13.8331 19.9389 12.5261 20.7827C12.1766 21.085 11.6582 21.085 11.3087 20.7827C9.3602 19.5144 7.65007 17.9132 6.25652 16.0522C5.01448 14.4294 4.3093 12.4598 4.23913 10.4174L4.23913 10.3914Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<circle opacity=\"0.4\" cx=\"11.9174\" cy=\"10.5392\" r=\"2.46087\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -758,38 +731,17 @@
   },
   {
     "set": "two-tone",
-    "name": "Message",
+    "name": "Login",
     "tags": [
-      "message",
-      "chat",
-      "email",
-      "mail"
+      "login",
+      "in",
+      "sign",
+      "auth",
+      "secure",
+      "arrow"
     ],
-    "componentName": "Message",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M17.2677 8.56116L13.0023 11.9954C12.1951 12.6283 11.0635 12.6283 10.2563 11.9954L5.95424 8.56116\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.88787 3H16.3158C17.6752 3.01525 18.969 3.58993 19.896 4.5902C20.823 5.59048 21.3022 6.92903 21.222 8.29412V14.822C21.3022 16.1871 20.823 17.5256 19.896 18.5259C18.969 19.5262 17.6752 20.1009 16.3158 20.1161H6.88787C3.96796 20.1161 2 17.7407 2 14.822V8.29412C2 5.37545 3.96796 3 6.88787 3Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "More Square",
-    "tags": [
-      "more",
-      "square",
-      "dots",
-      "menu"
-    ],
-    "componentName": "MoreSquare",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3347 2.75024H7.66567C4.64467 2.75024 2.75067 4.88924 2.75067 7.91624V16.0842C2.75067 19.1112 4.63467 21.2502 7.66567 21.2502H16.3337C19.3647 21.2502 21.2507 19.1112 21.2507 16.0842V7.91624C21.2507 4.88924 19.3647 2.75024 16.3347 2.75024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M7.52075 13.1975C6.85975 13.1975 6.32275 12.6605 6.32275 12.0005C6.32275 11.3405 6.85975 10.8025 7.52075 10.8025C8.18175 10.8025 8.71875 11.3405 8.71875 12.0005C8.71875 12.6605 8.18175 13.1975 7.52075 13.1975Z\" fill=\"#200E32\"/>\n<path opacity=\"0.4\" d=\"M12.0002 13.1975C11.3392 13.1975 10.8022 12.6605 10.8022 12.0005C10.8022 11.3405 11.3392 10.8025 12.0002 10.8025C12.6612 10.8025 13.1982 11.3405 13.1982 12.0005C13.1982 12.6605 12.6612 13.1975 12.0002 13.1975Z\" fill=\"#200E32\"/>\n<path opacity=\"0.4\" d=\"M16.4792 13.1975C15.8182 13.1975 15.2812 12.6605 15.2812 12.0005C15.2812 11.3405 15.8182 10.8025 16.4792 10.8025C17.1402 10.8025 17.6772 11.3405 17.6772 12.0005C17.6772 12.6605 17.1402 13.1975 16.4792 13.1975Z\" fill=\"#200E32\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Paper",
-    "tags": [
-      "paper",
-      "document",
-      "file"
-    ],
-    "componentName": "Paper",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7367 2.76196H8.08369C6.02469 2.76196 4.24969 4.43096 4.24969 6.49096V17.204C4.24969 19.38 5.90869 21.115 8.08369 21.115H16.0727C18.1327 21.115 19.8017 19.265 19.8017 17.204V8.03796L14.7367 2.76196Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.474 2.75024V5.65924C14.474 7.07924 15.623 8.23124 17.042 8.23424C18.359 8.23724 19.706 8.23824 19.797 8.23224\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M14.284 15.5579H8.88699\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M12.2425 10.6056H8.88651\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "Login",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.8125 12.0217H3.77148\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.8848 9.10571L15.8128 12.0217L12.8848 14.9377\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M8.50439 7.38897V6.45597C8.50439 4.42097 10.1534 2.77197 12.1894 2.77197H17.0734C19.1034 2.77197 20.7484 4.41697 20.7484 6.44697V17.587C20.7484 19.622 19.0984 21.272 17.0634 21.272H12.1784C10.1494 21.272 8.50439 19.626 8.50439 17.597V16.655\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -805,6 +757,43 @@
   },
   {
     "set": "two-tone",
+    "name": "Message",
+    "tags": [
+      "message",
+      "chat",
+      "email",
+      "mail"
+    ],
+    "componentName": "Message",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M17.2677 8.56116L13.0023 11.9954C12.1951 12.6283 11.0635 12.6283 10.2563 11.9954L5.95424 8.56116\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.88787 3H16.3158C17.6752 3.01525 18.969 3.58993 19.896 4.5902C20.823 5.59048 21.3022 6.92903 21.222 8.29412V14.822C21.3022 16.1871 20.823 17.5256 19.896 18.5259C18.969 19.5262 17.6752 20.1009 16.3158 20.1161H6.88787C3.96796 20.1161 2 17.7407 2 14.822V8.29412C2 5.37545 3.96796 3 6.88787 3Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Lock",
+    "tags": [
+      "lock",
+      "security",
+      "password",
+      "login",
+      "auth"
+    ],
+    "componentName": "Lock",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M16.4234 9.4478V7.3008C16.4234 4.7878 14.3854 2.7498 11.8724 2.7498C9.35937 2.7388 7.31337 4.7668 7.30237 7.2808V7.3008V9.4478\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.6832 21.2496H8.04218C5.94818 21.2496 4.25018 19.5526 4.25018 17.4576V13.1686C4.25018 11.0736 5.94818 9.37659 8.04218 9.37659H15.6832C17.7772 9.37659 19.4752 11.0736 19.4752 13.1686V17.4576C19.4752 19.5526 17.7772 21.2496 15.6832 21.2496Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.8629 14.2028V16.4238\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "More Square",
+    "tags": [
+      "more",
+      "square",
+      "dots",
+      "menu"
+    ],
+    "componentName": "MoreSquare",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3347 2.75024H7.66567C4.64467 2.75024 2.75067 4.88924 2.75067 7.91624V16.0842C2.75067 19.1112 4.63467 21.2502 7.66567 21.2502H16.3337C19.3647 21.2502 21.2507 19.1112 21.2507 16.0842V7.91624C21.2507 4.88924 19.3647 2.75024 16.3347 2.75024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M7.52075 13.1975C6.85975 13.1975 6.32275 12.6605 6.32275 12.0005C6.32275 11.3405 6.85975 10.8025 7.52075 10.8025C8.18175 10.8025 8.71875 11.3405 8.71875 12.0005C8.71875 12.6605 8.18175 13.1975 7.52075 13.1975Z\" fill=\"#200E32\"/>\n<path opacity=\"0.4\" d=\"M12.0002 13.1975C11.3392 13.1975 10.8022 12.6605 10.8022 12.0005C10.8022 11.3405 11.3392 10.8025 12.0002 10.8025C12.6612 10.8025 13.1982 11.3405 13.1982 12.0005C13.1982 12.6605 12.6612 13.1975 12.0002 13.1975Z\" fill=\"#200E32\"/>\n<path opacity=\"0.4\" d=\"M16.4792 13.1975C15.8182 13.1975 15.2812 12.6605 15.2812 12.0005C15.2812 11.3405 15.8182 10.8025 16.4792 10.8025C17.1402 10.8025 17.6772 11.3405 17.6772 12.0005C17.6772 12.6605 17.1402 13.1975 16.4792 13.1975Z\" fill=\"#200E32\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
     "name": "Notification",
     "tags": [
       "notification",
@@ -815,6 +804,29 @@
     ],
     "componentName": "Notification",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.50083 13.7871V13.5681C3.53295 12.9202 3.7406 12.2925 4.10236 11.7496C4.7045 11.0975 5.1167 10.2983 5.29571 9.43598C5.29571 8.7695 5.29571 8.0935 5.35393 7.42703C5.65469 4.21842 8.82728 2 11.9611 2H12.0387C15.1725 2 18.345 4.21842 18.6555 7.42703C18.7137 8.0935 18.6555 8.7695 18.704 9.43598C18.8854 10.3003 19.2972 11.1019 19.8974 11.7591C20.2618 12.2972 20.4698 12.9227 20.4989 13.5681V13.7776C20.5206 14.648 20.2208 15.4968 19.6548 16.1674C18.907 16.9515 17.8921 17.4393 16.8024 17.5384C13.607 17.8812 10.383 17.8812 7.18762 17.5384C6.09914 17.435 5.08576 16.9479 4.33521 16.1674C3.778 15.4963 3.48224 14.6526 3.50083 13.7871Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M9.55493 20.8518C10.0542 21.4785 10.7874 21.884 11.5922 21.9788C12.3971 22.0735 13.2072 21.8495 13.8433 21.3564C14.0389 21.2106 14.2149 21.041 14.3672 20.8518\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Paper",
+    "tags": [
+      "paper",
+      "document",
+      "file"
+    ],
+    "componentName": "Paper",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7367 2.76196H8.08369C6.02469 2.76196 4.24969 4.43096 4.24969 6.49096V17.204C4.24969 19.38 5.90869 21.115 8.08369 21.115H16.0727C18.1327 21.115 19.8017 19.265 19.8017 17.204V8.03796L14.7367 2.76196Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.474 2.75024V5.65924C14.474 7.07924 15.623 8.23124 17.042 8.23424C18.359 8.23724 19.706 8.23824 19.797 8.23224\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M14.284 15.5579H8.88699\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M12.2425 10.6056H8.88651\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Paper Download",
+    "tags": [
+      "paper",
+      "document",
+      "file",
+      "download"
+    ],
+    "componentName": "PaperDownload",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7364 2.76196H8.08443C6.02543 2.76196 4.25043 4.43096 4.25043 6.49096V17.228C4.25043 19.404 5.90843 21.115 8.08443 21.115H16.0724C18.1324 21.115 19.8024 19.288 19.8024 17.228V8.03796L14.7364 2.76196Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.4738 2.75024V5.65924C14.4738 7.07924 15.6228 8.23124 17.0428 8.23424C18.3588 8.23724 19.7058 8.23824 19.7968 8.23224\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.3907 9.4408C12.3907 9.02658 12.055 8.6908 11.6407 8.6908C11.2265 8.6908 10.8907 9.02658 10.8907 9.4408V14.1981L9.33385 12.6341C9.04162 12.3405 8.56675 12.3394 8.27319 12.6317C7.97963 12.9239 7.97854 13.3988 8.27077 13.6923L11.1088 16.5433C11.2495 16.6847 11.4408 16.7642 11.6402 16.7642C11.8296 16.7642 12.0116 16.6926 12.15 16.5644C12.1589 16.5562 12.1676 16.5477 12.1761 16.539L15.0108 13.6924C15.303 13.3989 15.302 12.924 15.0085 12.6318C14.715 12.3395 14.2401 12.3405 13.9479 12.634L12.3907 14.1977V9.4408Z\" fill=\"#200E32\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -857,15 +869,16 @@
   },
   {
     "set": "two-tone",
-    "name": "Paper Download",
+    "name": "Paper Upload",
     "tags": [
+      "add",
       "paper",
       "document",
       "file",
-      "download"
+      "upload"
     ],
-    "componentName": "PaperDownload",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7364 2.76196H8.08443C6.02543 2.76196 4.25043 4.43096 4.25043 6.49096V17.228C4.25043 19.404 5.90843 21.115 8.08443 21.115H16.0724C18.1324 21.115 19.8024 19.288 19.8024 17.228V8.03796L14.7364 2.76196Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.4738 2.75024V5.65924C14.4738 7.07924 15.6228 8.23124 17.0428 8.23424C18.3588 8.23724 19.7058 8.23824 19.7968 8.23224\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.3907 9.4408C12.3907 9.02658 12.055 8.6908 11.6407 8.6908C11.2265 8.6908 10.8907 9.02658 10.8907 9.4408V14.1981L9.33385 12.6341C9.04162 12.3405 8.56675 12.3394 8.27319 12.6317C7.97963 12.9239 7.97854 13.3988 8.27077 13.6923L11.1088 16.5433C11.2495 16.6847 11.4408 16.7642 11.6402 16.7642C11.8296 16.7642 12.0116 16.6926 12.15 16.5644C12.1589 16.5562 12.1676 16.5477 12.1761 16.539L15.0108 13.6924C15.303 13.3989 15.302 12.924 15.0085 12.6318C14.715 12.3395 14.2401 12.3405 13.9479 12.634L12.3907 14.1977V9.4408Z\" fill=\"#200E32\"/>\n</svg>\n"
+    "componentName": "PaperUpload",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7363 2.76196H8.08431C6.02531 2.76196 4.25031 4.43096 4.25031 6.49096V17.228C4.25031 19.404 5.90831 21.115 8.08431 21.115H16.0723C18.1323 21.115 19.8023 19.288 19.8023 17.228V8.03796L14.7363 2.76196Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.4736 2.75024V5.65924C14.4736 7.07924 15.6226 8.23124 17.0426 8.23424C18.3586 8.23724 19.7056 8.23824 19.7966 8.23224\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.1716 8.91098C12.0309 8.76962 11.8396 8.69017 11.6401 8.69019C11.4406 8.6902 11.2494 8.76969 11.1086 8.91107L8.27064 11.7621C7.97842 12.0556 7.97951 12.5305 8.27307 12.8227C8.56663 13.1149 9.0415 13.1139 9.33373 12.8203L10.8906 11.2563V16.0137C10.8906 16.4279 11.2264 16.7637 11.6406 16.7637C12.0548 16.7637 12.3906 16.4279 12.3906 16.0137V11.2567L13.9477 12.8204C14.24 13.1139 14.7149 13.1149 15.0084 12.8226C15.3019 12.5304 15.3029 12.0555 15.0106 11.762L12.1716 8.91098Z\" fill=\"#200E32\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -883,27 +896,14 @@
   },
   {
     "set": "two-tone",
-    "name": "Paper Upload",
+    "name": "Play",
     "tags": [
-      "add",
-      "paper",
-      "document",
-      "file",
-      "upload"
+      "play",
+      "start",
+      "music"
     ],
-    "componentName": "PaperUpload",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7363 2.76196H8.08431C6.02531 2.76196 4.25031 4.43096 4.25031 6.49096V17.228C4.25031 19.404 5.90831 21.115 8.08431 21.115H16.0723C18.1323 21.115 19.8023 19.288 19.8023 17.228V8.03796L14.7363 2.76196Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.4736 2.75024V5.65924C14.4736 7.07924 15.6226 8.23124 17.0426 8.23424C18.3586 8.23724 19.7056 8.23824 19.7966 8.23224\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.1716 8.91098C12.0309 8.76962 11.8396 8.69017 11.6401 8.69019C11.4406 8.6902 11.2494 8.76969 11.1086 8.91107L8.27064 11.7621C7.97842 12.0556 7.97951 12.5305 8.27307 12.8227C8.56663 13.1149 9.0415 13.1139 9.33373 12.8203L10.8906 11.2563V16.0137C10.8906 16.4279 11.2264 16.7637 11.6406 16.7637C12.0548 16.7637 12.3906 16.4279 12.3906 16.0137V11.2567L13.9477 12.8204C14.24 13.1139 14.7149 13.1149 15.0084 12.8226C15.3019 12.5304 15.3029 12.0555 15.0106 11.762L12.1716 8.91098Z\" fill=\"#200E32\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "People",
-    "tags": [
-      "people",
-      "users",
-      "group"
-    ],
-    "componentName": "People",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M17.5948 10.9319C19.1972 10.9319 20.497 9.63298 20.497 8.03064C20.497 6.42831 19.1972 5.12939 17.5948 5.12939\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.9291 14.0847C19.4076 14.1177 19.8833 14.1856 20.3517 14.291C21.0026 14.4184 21.7854 14.6851 22.0641 15.2691C22.2419 15.6431 22.2419 16.0785 22.0641 16.4534C21.7863 17.0373 21.0026 17.3031 20.3517 17.437\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M6.28998 10.9319C4.68765 10.9319 3.38782 9.63298 3.38782 8.03064C3.38782 6.42831 4.68765 5.12939 6.28998 5.12939\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M4.95577 14.0847C4.47727 14.1177 4.00152 14.1856 3.5331 14.291C2.88227 14.4184 2.09943 14.6851 1.82168 15.2691C1.64293 15.6431 1.64293 16.0785 1.82168 16.4534C2.09852 17.0373 2.88227 17.3031 3.5331 17.437\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9377 14.7096C15.1846 14.7096 17.9584 15.2009 17.9584 17.1672C17.9584 19.1325 15.2029 19.6422 11.9377 19.6422C8.68997 19.6422 5.91705 19.1508 5.91705 17.1846C5.91705 15.2183 8.67255 14.7096 11.9377 14.7096Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9377 11.9049C9.79638 11.9049 8.07947 10.188 8.07947 8.04575C8.07947 5.90442 9.79638 4.1875 11.9377 4.1875C14.0791 4.1875 15.796 5.90442 15.796 8.04575C15.796 10.188 14.0791 11.9049 11.9377 11.9049Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "Play",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 2C17.5228 2 22 6.47716 22 12C22 17.5228 17.5228 22 12 22C6.47716 22 2 17.5228 2 12C2 6.47716 6.47716 2 12 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.0501 12.467C14.3211 13.253 12.3371 14.583 11.3221 15.01C11.1601 15.078 10.7471 15.222 10.6581 15.224C10.4691 15.23 10.2871 15.124 10.1991 14.954C10.1651 14.888 10.0651 14.457 10.0331 14.265C9.93811 13.681 9.88911 12.774 9.89011 11.862C9.88911 10.905 9.94211 9.95495 10.0481 9.37695C10.0761 9.22095 10.1581 8.86195 10.1821 8.80395C10.2271 8.69595 10.3091 8.61095 10.4081 8.55795C10.4841 8.51695 10.5711 8.49495 10.6581 8.49795C10.7471 8.49995 11.1091 8.62695 11.2331 8.67595C12.2111 9.05595 14.2801 10.434 15.0401 11.244C15.1081 11.317 15.2951 11.513 15.3261 11.553C15.3971 11.643 15.4321 11.752 15.4321 11.862C15.4321 11.964 15.4011 12.068 15.3371 12.155C15.3041 12.2 15.1131 12.4 15.0501 12.467Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -916,6 +916,18 @@
     ],
     "componentName": "Plus",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.75 8.32727C12.75 7.91306 12.4142 7.57727 12 7.57727C11.5858 7.57727 11.25 7.91306 11.25 8.32727V11.2405H8.33333C7.91911 11.2405 7.58333 11.5763 7.58333 11.9905C7.58333 12.4047 7.91911 12.7405 8.33333 12.7405H11.25V15.6536C11.25 16.0678 11.5858 16.4036 12 16.4036C12.4142 16.4036 12.75 16.0678 12.75 15.6536V12.7405H15.6667C16.0809 12.7405 16.4167 12.4047 16.4167 11.9905C16.4167 11.5763 16.0809 11.2405 15.6667 11.2405H12.75V8.32727Z\" fill=\"#200E32\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6857 2H7.31429C4.04762 2 2 4.31208 2 7.58516V16.4148C2 19.6879 4.0381 22 7.31429 22H16.6857C19.9619 22 22 19.6879 22 16.4148V7.58516C22 4.31208 19.9619 2 16.6857 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Search",
+    "tags": [
+      "search",
+      "find",
+      "magnifier",
+      "magnifying glass"
+    ],
+    "componentName": "Search",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"11.7666\" cy=\"11.7666\" r=\"8.98856\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M18.0183 18.4852L21.5423 22.0001\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -932,14 +944,14 @@
   },
   {
     "set": "two-tone",
-    "name": "Play",
+    "name": "People",
     "tags": [
-      "play",
-      "start",
-      "music"
+      "people",
+      "users",
+      "group"
     ],
-    "componentName": "Play",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 2C17.5228 2 22 6.47716 22 12C22 17.5228 17.5228 22 12 22C6.47716 22 2 17.5228 2 12C2 6.47716 6.47716 2 12 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.0501 12.467C14.3211 13.253 12.3371 14.583 11.3221 15.01C11.1601 15.078 10.7471 15.222 10.6581 15.224C10.4691 15.23 10.2871 15.124 10.1991 14.954C10.1651 14.888 10.0651 14.457 10.0331 14.265C9.93811 13.681 9.88911 12.774 9.89011 11.862C9.88911 10.905 9.94211 9.95495 10.0481 9.37695C10.0761 9.22095 10.1581 8.86195 10.1821 8.80395C10.2271 8.69595 10.3091 8.61095 10.4081 8.55795C10.4841 8.51695 10.5711 8.49495 10.6581 8.49795C10.7471 8.49995 11.1091 8.62695 11.2331 8.67595C12.2111 9.05595 14.2801 10.434 15.0401 11.244C15.1081 11.317 15.2951 11.513 15.3261 11.553C15.3971 11.643 15.4321 11.752 15.4321 11.862C15.4321 11.964 15.4011 12.068 15.3371 12.155C15.3041 12.2 15.1131 12.4 15.0501 12.467Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "People",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M17.5948 10.9319C19.1972 10.9319 20.497 9.63298 20.497 8.03064C20.497 6.42831 19.1972 5.12939 17.5948 5.12939\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.9291 14.0847C19.4076 14.1177 19.8833 14.1856 20.3517 14.291C21.0026 14.4184 21.7854 14.6851 22.0641 15.2691C22.2419 15.6431 22.2419 16.0785 22.0641 16.4534C21.7863 17.0373 21.0026 17.3031 20.3517 17.437\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M6.28998 10.9319C4.68765 10.9319 3.38782 9.63298 3.38782 8.03064C3.38782 6.42831 4.68765 5.12939 6.28998 5.12939\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M4.95577 14.0847C4.47727 14.1177 4.00152 14.1856 3.5331 14.291C2.88227 14.4184 2.09943 14.6851 1.82168 15.2691C1.64293 15.6431 1.64293 16.0785 1.82168 16.4534C2.09852 17.0373 2.88227 17.3031 3.5331 17.437\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9377 14.7096C15.1846 14.7096 17.9584 15.2009 17.9584 17.1672C17.9584 19.1325 15.2029 19.6422 11.9377 19.6422C8.68997 19.6422 5.91705 19.1508 5.91705 17.1846C5.91705 15.2183 8.67255 14.7096 11.9377 14.7096Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9377 11.9049C9.79638 11.9049 8.07947 10.188 8.07947 8.04575C8.07947 5.90442 9.79638 4.1875 11.9377 4.1875C14.0791 4.1875 15.796 5.90442 15.796 8.04575C15.796 10.188 14.0791 11.9049 11.9377 11.9049Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -973,15 +985,25 @@
   },
   {
     "set": "two-tone",
-    "name": "Search",
+    "name": "Shield Done",
     "tags": [
-      "search",
-      "find",
-      "magnifier",
-      "magnifying glass"
+      "shield",
+      "done",
+      "security"
     ],
-    "componentName": "Search",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"11.7666\" cy=\"11.7666\" r=\"8.98856\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M18.0183 18.4852L21.5423 22.0001\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+    "componentName": "ShieldDone",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.865 5.12377C19.302 5.27677 19.594 5.68877 19.594 6.15177V12.9248C19.594 14.8178 18.906 16.6248 17.691 18.0248C17.08 18.7298 16.307 19.2788 15.486 19.7228L11.928 21.6448L8.364 19.7218C7.542 19.2778 6.768 18.7298 6.156 18.0238C4.94 16.6238 4.25 14.8158 4.25 12.9208V6.15177C4.25 5.68877 4.542 5.27677 4.979 5.12377L11.561 2.81077C11.795 2.72877 12.05 2.72877 12.283 2.81077L18.865 5.12377Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M9.32251 11.9177L11.2145 13.8107L15.1125 9.91272\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Shield Fail",
+    "tags": [
+      "shield",
+      "fail",
+      "insecure"
+    ],
+    "componentName": "ShieldFail",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.8651 5.12377C19.3021 5.27677 19.5941 5.68877 19.5941 6.15177V12.9248C19.5941 14.8178 18.9051 16.6248 17.6911 18.0248C17.0791 18.7298 16.3071 19.2788 15.4861 19.7228L11.9281 21.6448L8.36409 19.7218C7.54109 19.2778 6.76809 18.7298 6.15609 18.0238C4.94009 16.6238 4.25009 14.8158 4.25009 12.9208V6.15177C4.25009 5.68877 4.54209 5.27677 4.97909 5.12377L11.5611 2.81077C11.7951 2.72877 12.0501 2.72877 12.2831 2.81077L18.8651 5.12377Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.5734 9.55805C10.2805 9.26516 9.80565 9.26516 9.51276 9.55805C9.21987 9.85094 9.21987 10.3258 9.51276 10.6187L10.8615 11.9675L9.51297 13.316C9.22008 13.6089 9.22008 14.0838 9.51297 14.3767C9.80587 14.6696 10.2807 14.6696 10.5736 14.3767L11.9222 13.0281L13.2708 14.3767C13.5637 14.6696 14.0385 14.6696 14.3314 14.3767C14.6243 14.0838 14.6243 13.6089 14.3314 13.316L12.9829 11.9675L14.3316 10.6187C14.6245 10.3258 14.6245 9.85094 14.3316 9.55805C14.0387 9.26516 13.5639 9.26516 13.271 9.55805L11.9222 10.9068L10.5734 9.55805Z\" fill=\"#200E32\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -1010,28 +1032,6 @@
   },
   {
     "set": "two-tone",
-    "name": "Shield Done",
-    "tags": [
-      "shield",
-      "done",
-      "security"
-    ],
-    "componentName": "ShieldDone",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.865 5.12377C19.302 5.27677 19.594 5.68877 19.594 6.15177V12.9248C19.594 14.8178 18.906 16.6248 17.691 18.0248C17.08 18.7298 16.307 19.2788 15.486 19.7228L11.928 21.6448L8.364 19.7218C7.542 19.2778 6.768 18.7298 6.156 18.0238C4.94 16.6238 4.25 14.8158 4.25 12.9208V6.15177C4.25 5.68877 4.542 5.27677 4.979 5.12377L11.561 2.81077C11.795 2.72877 12.05 2.72877 12.283 2.81077L18.865 5.12377Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M9.32251 11.9177L11.2145 13.8107L15.1125 9.91272\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Ticket",
-    "tags": [
-      "ticket",
-      "sale",
-      "event"
-    ],
-    "componentName": "Ticket",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M13.8497 4.25024V6.67024\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M13.8497 17.76V19.784\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M13.8497 14.3245V9.50354\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.7021 20C20.5242 20 22 18.5426 22 16.7431V14.1506C20.7943 14.1506 19.8233 13.1917 19.8233 12.001C19.8233 10.8104 20.7943 9.85039 22 9.85039L21.999 7.25686C21.999 5.45745 20.5221 4 18.7011 4H5.29892C3.47789 4 2.00104 5.45745 2.00104 7.25686L2 9.93485C3.20567 9.93485 4.17668 10.8104 4.17668 12.001C4.17668 13.1917 3.20567 14.1506 2 14.1506V16.7431C2 18.5426 3.4758 20 5.29787 20H18.7021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
     "name": "Swap",
     "tags": [
       "swap",
@@ -1040,69 +1040,6 @@
     ],
     "componentName": "Swap",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M16.8396 20.1642V6.54639\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M20.9172 16.068L16.8394 20.1647L12.7617 16.068\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M6.91109 3.83289V17.4507\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.83344 7.92894L6.91121 3.83228L10.989 7.92894\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Ticket Star",
-    "tags": [
-      "ticket",
-      "star",
-      "sale",
-      "event"
-    ],
-    "componentName": "TicketStar",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.8573 20.4168C19.7323 20.4168 21.2503 18.8978 21.2503 17.0238V14.3238C20.0103 14.3238 19.0103 13.3238 19.0103 12.0848C19.0103 10.8448 20.0103 9.84576 21.2503 9.84576L21.2483 7.14276C21.2483 5.26876 19.7303 3.74976 17.8563 3.74976H6.14431C4.27031 3.74976 2.75131 5.26876 2.75131 7.14276L2.75031 9.93276C3.98931 9.93276 4.98931 10.8448 4.98931 12.0848C4.98931 13.3238 3.98931 14.3238 2.75031 14.3238V17.0238C2.75031 18.8978 4.26831 20.4168 6.14231 20.4168H17.8573Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9998 13.8543L13.7398 14.7693C13.9028 14.8543 14.0938 14.7163 14.0628 14.5353L13.7298 12.5963L15.1388 11.2253C15.2708 11.0963 15.1978 10.8733 15.0158 10.8463L13.0698 10.5633L12.1988 8.79929C12.1178 8.63429 11.8828 8.63429 11.8008 8.79929L10.9298 10.5633L8.98481 10.8463C8.80281 10.8733 8.72981 11.0963 8.86181 11.2253L10.2698 12.5963L9.93681 14.5353C9.90581 14.7163 10.0968 14.8543 10.2598 14.7693L11.9998 13.8543Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Shield Fail",
-    "tags": [
-      "shield",
-      "fail",
-      "insecure"
-    ],
-    "componentName": "ShieldFail",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.8651 5.12377C19.3021 5.27677 19.5941 5.68877 19.5941 6.15177V12.9248C19.5941 14.8178 18.9051 16.6248 17.6911 18.0248C17.0791 18.7298 16.3071 19.2788 15.4861 19.7228L11.9281 21.6448L8.36409 19.7218C7.54109 19.2778 6.76809 18.7298 6.15609 18.0238C4.94009 16.6238 4.25009 14.8158 4.25009 12.9208V6.15177C4.25009 5.68877 4.54209 5.27677 4.97909 5.12377L11.5611 2.81077C11.7951 2.72877 12.0501 2.72877 12.2831 2.81077L18.8651 5.12377Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.5734 9.55805C10.2805 9.26516 9.80565 9.26516 9.51276 9.55805C9.21987 9.85094 9.21987 10.3258 9.51276 10.6187L10.8615 11.9675L9.51297 13.316C9.22008 13.6089 9.22008 14.0838 9.51297 14.3767C9.80587 14.6696 10.2807 14.6696 10.5736 14.3767L11.9222 13.0281L13.2708 14.3767C13.5637 14.6696 14.0385 14.6696 14.3314 14.3767C14.6243 14.0838 14.6243 13.6089 14.3314 13.316L12.9829 11.9675L14.3316 10.6187C14.6245 10.3258 14.6245 9.85094 14.3316 9.55805C14.0387 9.26516 13.5639 9.26516 13.271 9.55805L11.9222 10.9068L10.5734 9.55805Z\" fill=\"#200E32\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Tick Square",
-    "tags": [
-      "tick",
-      "check",
-      "square",
-      "checkbox",
-      "ok",
-      "right"
-    ],
-    "componentName": "TickSquare",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3344 2.75024H7.66543C4.64443 2.75024 2.75043 4.88924 2.75043 7.91624V16.0842C2.75043 19.1112 4.63543 21.2502 7.66543 21.2502H16.3334C19.3644 21.2502 21.2504 19.1112 21.2504 16.0842V7.91624C21.2504 4.88924 19.3644 2.75024 16.3344 2.75024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M8.43994 12.0002L10.8139 14.3732L15.5599 9.6272\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Time Square",
-    "tags": [
-      "time",
-      "square",
-      "clock",
-      "watch",
-      "alarm"
-    ],
-    "componentName": "TimeSquare",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3347 2.75024H7.6657C4.6447 2.75024 2.7507 4.88924 2.7507 7.91624V16.0842C2.7507 19.1112 4.6347 21.2502 7.6657 21.2502H16.3337C19.3647 21.2502 21.2507 19.1112 21.2507 16.0842V7.91624C21.2507 4.88924 19.3647 2.75024 16.3347 2.75024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M15.3913 14.0178L12.0003 11.9948V7.63379\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Unlock",
-    "tags": [
-      "unlock",
-      "lock",
-      "unsecure",
-      "open",
-      "password"
-    ],
-    "componentName": "Unlock",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M16.4242 5.56204C15.8072 3.78004 14.1142 2.50004 12.1222 2.50004C9.60919 2.49004 7.56319 4.51804 7.55219 7.03104V7.05104V9.19804\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.933 21.0005H8.292C6.198 21.0005 4.5 19.3025 4.5 17.2075V12.9195C4.5 10.8245 6.198 9.12646 8.292 9.12646H15.933C18.027 9.12646 19.725 10.8245 19.725 12.9195V17.2075C19.725 19.3025 18.027 21.0005 15.933 21.0005Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.1127 13.9526V16.1746\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -1119,6 +1056,19 @@
   },
   {
     "set": "two-tone",
+    "name": "Time Square",
+    "tags": [
+      "time",
+      "square",
+      "clock",
+      "watch",
+      "alarm"
+    ],
+    "componentName": "TimeSquare",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3347 2.75024H7.6657C4.6447 2.75024 2.7507 4.88924 2.7507 7.91624V16.0842C2.7507 19.1112 4.6347 21.2502 7.6657 21.2502H16.3337C19.3647 21.2502 21.2507 19.1112 21.2507 16.0842V7.91624C21.2507 4.88924 19.3647 2.75024 16.3347 2.75024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M15.3913 14.0178L12.0003 11.9948V7.63379\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
     "name": "Two Users",
     "tags": [
       "user",
@@ -1127,6 +1077,43 @@
     ],
     "componentName": "TwoUsers",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M16.0201 10.9133C17.8411 10.9133 19.3171 9.43734 19.3171 7.61634C19.3171 5.79634 17.8411 4.31934 16.0201 4.31934\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M17.5363 14.4963C18.0803 14.5333 18.6203 14.6113 19.1533 14.7293C19.8923 14.8763 20.7823 15.1793 21.0983 15.8423C21.3003 16.2673 21.3003 16.7623 21.0983 17.1873C20.7833 17.8503 19.8923 18.1533 19.1533 18.3053\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.59143 15.2063C13.2814 15.2063 16.4334 15.7653 16.4334 17.9983C16.4334 20.2323 13.3014 20.8103 9.59143 20.8103C5.90143 20.8103 2.75043 20.2523 2.75043 18.0183C2.75043 15.7843 5.88143 15.2063 9.59143 15.2063Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.5914 12.0188C7.1574 12.0188 5.2074 10.0678 5.2074 7.63376C5.2074 5.20076 7.1574 3.24976 9.5914 3.24976C12.0254 3.24976 13.9764 5.20076 13.9764 7.63376C13.9764 10.0678 12.0254 12.0188 9.5914 12.0188Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Unlock",
+    "tags": [
+      "unlock",
+      "lock",
+      "unsecure",
+      "open",
+      "password"
+    ],
+    "componentName": "Unlock",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M16.4242 5.56204C15.8072 3.78004 14.1142 2.50004 12.1222 2.50004C9.60919 2.49004 7.56319 4.51804 7.55219 7.03104V7.05104V9.19804\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.933 21.0005H8.292C6.198 21.0005 4.5 19.3025 4.5 17.2075V12.9195C4.5 10.8245 6.198 9.12646 8.292 9.12646H15.933C18.027 9.12646 19.725 10.8245 19.725 12.9195V17.2075C19.725 19.3025 18.027 21.0005 15.933 21.0005Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.1127 13.9526V16.1746\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Upload",
+    "tags": [
+      "upload",
+      "download",
+      "arrow"
+    ],
+    "componentName": "Upload",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M7.38948 8.98403H6.45648C4.42148 8.98403 2.77148 10.634 2.77148 12.669V17.544C2.77148 19.578 4.42148 21.228 6.45648 21.228H17.5865C19.6215 21.228 21.2715 19.578 21.2715 17.544V12.659C21.2715 10.63 19.6265 8.98403 17.5975 8.98403L16.6545 8.98403\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.0214 2.19057V14.2316\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M9.10626 5.11877L12.0213 2.19077L14.9373 5.11877\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "User",
+    "tags": [
+      "user",
+      "people",
+      "person",
+      "users",
+      "profile"
+    ],
+    "componentName": "User",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle opacity=\"0.4\" cx=\"11.5789\" cy=\"6.77803\" r=\"4.77803\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.00002 18.2014C3.99873 17.8655 4.07385 17.5338 4.2197 17.2312C4.67736 16.3158 5.96798 15.8307 7.03892 15.611C7.81128 15.4462 8.59431 15.3361 9.38217 15.2815C10.8408 15.1534 12.3079 15.1534 13.7666 15.2815C14.5544 15.3367 15.3374 15.4468 16.1099 15.611C17.1808 15.8307 18.4714 16.2701 18.9291 17.2312C19.2224 17.848 19.2224 18.564 18.9291 19.1808C18.4714 20.1419 17.1808 20.5813 16.1099 20.7918C15.3384 20.9635 14.5551 21.0767 13.7666 21.1305C12.5794 21.2311 11.3866 21.2495 10.1968 21.1854C9.92221 21.1854 9.65677 21.1854 9.38217 21.1305C8.59663 21.0773 7.81632 20.9641 7.04807 20.7918C5.96798 20.5813 4.68652 20.1419 4.2197 19.1808C4.0746 18.8747 3.99955 18.5402 4.00002 18.2014Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -1155,30 +1142,6 @@
   },
   {
     "set": "two-tone",
-    "name": "User",
-    "tags": [
-      "user",
-      "people",
-      "person",
-      "users",
-      "profile"
-    ],
-    "componentName": "User",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle opacity=\"0.4\" cx=\"11.5789\" cy=\"6.77803\" r=\"4.77803\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.00002 18.2014C3.99873 17.8655 4.07385 17.5338 4.2197 17.2312C4.67736 16.3158 5.96798 15.8307 7.03892 15.611C7.81128 15.4462 8.59431 15.3361 9.38217 15.2815C10.8408 15.1534 12.3079 15.1534 13.7666 15.2815C14.5544 15.3367 15.3374 15.4468 16.1099 15.611C17.1808 15.8307 18.4714 16.2701 18.9291 17.2312C19.2224 17.848 19.2224 18.564 18.9291 19.1808C18.4714 20.1419 17.1808 20.5813 16.1099 20.7918C15.3384 20.9635 14.5551 21.0767 13.7666 21.1305C12.5794 21.2311 11.3866 21.2495 10.1968 21.1854C9.92221 21.1854 9.65677 21.1854 9.38217 21.1305C8.59663 21.0773 7.81632 20.9641 7.04807 20.7918C5.96798 20.5813 4.68652 20.1419 4.2197 19.1808C4.0746 18.8747 3.99955 18.5402 4.00002 18.2014Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Upload",
-    "tags": [
-      "upload",
-      "download",
-      "arrow"
-    ],
-    "componentName": "Upload",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M7.38948 8.98403H6.45648C4.42148 8.98403 2.77148 10.634 2.77148 12.669V17.544C2.77148 19.578 4.42148 21.228 6.45648 21.228H17.5865C19.6215 21.228 21.2715 19.578 21.2715 17.544V12.659C21.2715 10.63 19.6265 8.98403 17.5975 8.98403L16.6545 8.98403\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.0214 2.19057V14.2316\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M9.10626 5.11877L12.0213 2.19077L14.9373 5.11877\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
     "name": "Voice 2",
     "tags": [
       "voice 2",
@@ -1192,31 +1155,6 @@
   },
   {
     "set": "two-tone",
-    "name": "Volume Off",
-    "tags": [
-      "volume",
-      "off",
-      "speaker",
-      "audio",
-      "music"
-    ],
-    "componentName": "VolumeOff",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.0838 15.8641C3.82544 15.7179 3.61262 15.503 3.45274 15.2288C3.29391 14.9577 3.18803 14.6252 3.14144 14.2451C2.94344 12.8326 2.9625 10.2809 3.14144 8.83876C3.28015 7.84347 3.96733 7.05994 4.98485 7.05994H7.09721L10.8105 4.02112C11.1356 3.74582 11.6967 3.48535 12.0398 3.4917C12.763 3.47053 13.4332 3.99676 13.6894 4.85547C13.8324 5.40288 13.8747 5.74488 13.9457 6.33676\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.0661 13.8984C14.047 15.2336 14.0015 16.0468 13.9432 16.5158C13.8712 17.1067 13.8501 17.6911 13.6902 18.2915C13.4329 19.1513 12.7626 19.6764 12.0395 19.6553C11.6975 19.6627 11.2136 19.4541 10.8885 19.1788L9.49194 18.0395\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M20.2018 3L3.0542 20.1476\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
-    "name": "Work",
-    "tags": [
-      "work",
-      "brief",
-      "job",
-      "finance"
-    ],
-    "componentName": "Work",
-    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M2.80408 15.4769C2.80408 15.4769 2.94608 17.2149 2.97908 17.7629C3.02308 18.4979 3.30708 19.3189 3.78108 19.8889C4.45008 20.6969 5.23808 20.9819 6.29008 20.9839C7.52708 20.9859 16.5221 20.9859 17.7591 20.9839C18.8111 20.9819 19.5991 20.6969 20.2681 19.8889C20.7421 19.3189 21.0261 18.4979 21.0711 17.7629C21.1031 17.2149 21.2451 15.4769 21.2451 15.4769\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.49597 5.32949V4.95849C8.49597 3.73849 9.48397 2.75049 10.704 2.75049H13.286C14.505 2.75049 15.494 3.73849 15.494 4.95849L15.495 5.32949\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.995 16.6782V15.3842\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.74988 8.38905V11.8561C4.66788 13.1211 6.96588 14.0071 9.48788 14.3581C9.78988 13.2571 10.7829 12.4501 11.9899 12.4501C13.1779 12.4501 14.1909 13.2571 14.4729 14.3681C17.0049 14.0171 19.3119 13.1311 21.2399 11.8561V8.38905C21.2399 6.69505 19.8769 5.33105 18.1829 5.33105H5.81688C4.12288 5.33105 2.74988 6.69505 2.74988 8.38905Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "set": "two-tone",
     "name": "Volume Down",
     "tags": [
       "volume",
@@ -1227,6 +1165,19 @@
     ],
     "componentName": "VolumeDown",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.8714 16.8919C14.7999 17.4777 14.7788 18.0542 14.619 18.6505C14.3644 19.5005 13.6986 20.0204 12.9801 19.9994C12.6393 20.0078 12.1597 19.8003 11.8367 19.5288L8.06994 16.4695H5.97144C4.96058 16.4695 4.27791 15.7799 4.14011 14.6438C3.94446 13.2456 3.96234 10.7198 4.14011 9.29336C4.27791 8.30817 4.96058 7.53156 5.97144 7.53156H8.06994L11.7589 4.52464C12.0818 4.2511 12.6393 3.99327 12.9801 4.00061C13.6986 3.97965 14.3644 4.50054 14.619 5.34948C14.761 5.89237 14.7999 6.52331 14.8714 7.10918C15.0429 8.47901 15.0429 15.522 14.8714 16.8919Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M18.7166 6.57397C19.6781 7.9568 20.2551 9.81186 20.2551 11.8766C20.2551 13.9413 19.6781 15.7953 18.7166 17.1781\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Volume Off",
+    "tags": [
+      "volume",
+      "off",
+      "speaker",
+      "audio",
+      "music"
+    ],
+    "componentName": "VolumeOff",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.0838 15.8641C3.82544 15.7179 3.61262 15.503 3.45274 15.2288C3.29391 14.9577 3.18803 14.6252 3.14144 14.2451C2.94344 12.8326 2.9625 10.2809 3.14144 8.83876C3.28015 7.84347 3.96733 7.05994 4.98485 7.05994H7.09721L10.8105 4.02112C11.1356 3.74582 11.6967 3.48535 12.0398 3.4917C12.763 3.47053 13.4332 3.99676 13.6894 4.85547C13.8324 5.40288 13.8747 5.74488 13.9457 6.33676\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.0661 13.8984C14.047 15.2336 14.0015 16.0468 13.9432 16.5158C13.8712 17.1067 13.8501 17.6911 13.6902 18.2915C13.4329 19.1513 12.7626 19.6764 12.0395 19.6553C11.6975 19.6627 11.2136 19.4541 10.8885 19.1788L9.49194 18.0395\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M20.2018 3L3.0542 20.1476\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "two-tone",
@@ -1252,5 +1203,54 @@
     ],
     "componentName": "Wallet",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21.6389 14.3957H17.5906C16.1042 14.3948 14.8994 13.1909 14.8985 11.7045C14.8985 10.218 16.1042 9.01409 17.5906 9.01318H21.6389\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.0486 11.6429H17.7369\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.74766 3H16.3911C19.2892 3 21.6388 5.34951 21.6388 8.24766V15.4247C21.6388 18.3229 19.2892 20.6724 16.3911 20.6724H7.74766C4.84951 20.6724 2.5 18.3229 2.5 15.4247V8.24766C2.5 5.34951 4.84951 3 7.74766 3Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M7.03561 7.5382H12.4346\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Work",
+    "tags": [
+      "work",
+      "brief",
+      "job",
+      "finance"
+    ],
+    "componentName": "Work",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M2.80408 15.4769C2.80408 15.4769 2.94608 17.2149 2.97908 17.7629C3.02308 18.4979 3.30708 19.3189 3.78108 19.8889C4.45008 20.6969 5.23808 20.9819 6.29008 20.9839C7.52708 20.9859 16.5221 20.9859 17.7591 20.9839C18.8111 20.9819 19.5991 20.6969 20.2681 19.8889C20.7421 19.3189 21.0261 18.4979 21.0711 17.7629C21.1031 17.2149 21.2451 15.4769 21.2451 15.4769\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.49597 5.32949V4.95849C8.49597 3.73849 9.48397 2.75049 10.704 2.75049H13.286C14.505 2.75049 15.494 3.73849 15.494 4.95849L15.495 5.32949\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.995 16.6782V15.3842\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.74988 8.38905V11.8561C4.66788 13.1211 6.96588 14.0071 9.48788 14.3581C9.78988 13.2571 10.7829 12.4501 11.9899 12.4501C13.1779 12.4501 14.1909 13.2571 14.4729 14.3681C17.0049 14.0171 19.3119 13.1311 21.2399 11.8561V8.38905C21.2399 6.69505 19.8769 5.33105 18.1829 5.33105H5.81688C4.12288 5.33105 2.74988 6.69505 2.74988 8.38905Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Tick Square",
+    "tags": [
+      "tick",
+      "check",
+      "square",
+      "checkbox",
+      "ok",
+      "right"
+    ],
+    "componentName": "TickSquare",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3344 2.75024H7.66543C4.64443 2.75024 2.75043 4.88924 2.75043 7.91624V16.0842C2.75043 19.1112 4.63543 21.2502 7.66543 21.2502H16.3334C19.3644 21.2502 21.2504 19.1112 21.2504 16.0842V7.91624C21.2504 4.88924 19.3644 2.75024 16.3344 2.75024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M8.43994 12.0002L10.8139 14.3732L15.5599 9.6272\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Ticket Star",
+    "tags": [
+      "ticket",
+      "star",
+      "sale",
+      "event"
+    ],
+    "componentName": "TicketStar",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.8573 20.4168C19.7323 20.4168 21.2503 18.8978 21.2503 17.0238V14.3238C20.0103 14.3238 19.0103 13.3238 19.0103 12.0848C19.0103 10.8448 20.0103 9.84576 21.2503 9.84576L21.2483 7.14276C21.2483 5.26876 19.7303 3.74976 17.8563 3.74976H6.14431C4.27031 3.74976 2.75131 5.26876 2.75131 7.14276L2.75031 9.93276C3.98931 9.93276 4.98931 10.8448 4.98931 12.0848C4.98931 13.3238 3.98931 14.3238 2.75031 14.3238V17.0238C2.75031 18.8978 4.26831 20.4168 6.14231 20.4168H17.8573Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9998 13.8543L13.7398 14.7693C13.9028 14.8543 14.0938 14.7163 14.0628 14.5353L13.7298 12.5963L15.1388 11.2253C15.2708 11.0963 15.1978 10.8733 15.0158 10.8463L13.0698 10.5633L12.1988 8.79929C12.1178 8.63429 11.8828 8.63429 11.8008 8.79929L10.9298 10.5633L8.98481 10.8463C8.80281 10.8733 8.72981 11.0963 8.86181 11.2253L10.2698 12.5963L9.93681 14.5353C9.90581 14.7163 10.0968 14.8543 10.2598 14.7693L11.9998 13.8543Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "set": "two-tone",
+    "name": "Ticket",
+    "tags": [
+      "ticket",
+      "sale",
+      "event"
+    ],
+    "componentName": "Ticket",
+    "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path opacity=\"0.4\" d=\"M13.8497 4.25024V6.67024\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M13.8497 17.76V19.784\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path opacity=\"0.4\" d=\"M13.8497 14.3245V9.50354\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.7021 20C20.5242 20 22 18.5426 22 16.7431V14.1506C20.7943 14.1506 19.8233 13.1917 19.8233 12.001C19.8233 10.8104 20.7943 9.85039 22 9.85039L21.999 7.25686C21.999 5.45745 20.5221 4 18.7011 4H5.29892C3.47789 4 2.00104 5.45745 2.00104 7.25686L2 9.93485C3.20567 9.93485 4.17668 10.8104 4.17668 12.001C4.17668 13.1917 3.20567 14.1506 2 14.1506V16.7431C2 18.5426 3.4758 20 5.29787 20H18.7021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   }
 ]

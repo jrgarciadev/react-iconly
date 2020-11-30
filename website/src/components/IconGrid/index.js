@@ -12,7 +12,6 @@ import { Icon } from '@components'
 const IconGrid = ({ hits = [] }) => {
   // Initialize numColumns to an arbitrary number.
   const [numColumns, setNumColumns] = useState(1)
-
   const renderRow = ({ key, index: rowIndex, style }) => {
     return (
       <StyledGrid key={key} numColumns={numColumns} style={style}>
@@ -49,7 +48,7 @@ const IconGrid = ({ hits = [] }) => {
                 isScrolling={isScrolling}
                 onScroll={onChildScroll}
                 scrollTop={scrollTop}
-                rowCount={hits.length}
+                rowCount={Math.ceil(hits.length / numColumns)}
                 rowHeight={ICON_ROW_HEIGHT}
                 rowRenderer={renderRow}
               />

@@ -19,7 +19,7 @@
           "@themes": "./src/themes",
           "@layouts": "./src/layouts",
           "@utils": "./src/utils",
-          "@lib": "./src/lib",
+          "@lib": "./src/lib"
         }
       }
     ]

@@ -1,651 +1,184 @@
 {
-    "AddUser":[
-       "add",
-       "user",
-       "person",
-       "add user",
-       "add person",
-       "people",
-       "plus"
-    ],
-    "Activity": [
-        "activity",
-        "finance",
-        "graph",
-        "metric",
-        "metrics",
-        "pulse",
-        "bars",
-        "bar"
-    ],
-    "ArrowDown": [
-        "arrow",
-        "arrow down",
-        "down"
-    ],
-    "ArrowDownSquare": [
-        "arrow",
-        "arrow down",
-        "down",
-        "square",
-        "arrow square"
-    ],
-    "ArrowLeft": [
-        "arrow",
-        "arrow left",
-        "left"
-    ],
-    "ArrowLeftSquare": [
-        "arrow",
-        "arrow left",
-        "left",
-        "square",
-        "arrow left square",
-        "arrow square"
-    ],
-    "ArrowRight": [
-        "arrow",
-        "arrow right",
-        "right"
-    ],
-    "ArrowRightSquare": [
-        "arrow",
-        "arrow right",
-        "right",
-        "square",
-        "arrow square",
-        "arrow right square"
-    ],
-    "ArrowUp": [
-        "arrow",
-        "arrow up",
-        "up"
-    ],
-    "ArrowUpSquare": [
-        "arrow",
-        "arrow up",
-        "up",
-        "square",
-        "arrow square",
-        "arrow up square"
-    ],
-    "Bag": [
-        "bag",
-        "shopping",
-        "shopping bag",
-        "cart",
-        "ecommerce",
-        "store",
-        "purchase"
-    ],
-    "Bag2": [
-        "bag",
-        "bag2",
-        "shopping",
-        "shopping bag",
-        "cart",
-        "ecommerce",
-        "store",
-        "purchase"
-    ],
-    "Bookmark": [
-        "bookmark",
-        "read",
-        "clip",
-        "marker",
-        "tag"
-    ],
-    "Buy": [
-        "cart",
-        "shopping",
-        "ecommerce",
-        "store",
-        "purchase"
-    ],
-    "Calendar": [
-        "calendar",
-        "date",
-        "year"
-    ],
-    "Call": [
-        "call",
-        "ring",
-        "phone",
-        "mobile"
-    ],
-    "Calling": [
-        "calling",
-        "call",
-        "ringing",
-        "ring",
-        "phone"
-    ],
-    "CallMissed": [
-        "call missed",
-        "missed",
-        "phone",
-        "ring"
-    ],
-    "CallSilent": [
-        "call silent",
-        "silence",
-        "silent",
-        "phone",
-        "ring"
-    ],
-    "Camera": [
-        "camera",
-        "photo",
-        "movie",
-        "film",
-        "video",
-        "image"
-    ],
-    "CaretDown": [
-        "caret",
-        "down",
-        "arrow",
-        "arrow down"
-    ],
-    "CaretLeft": [
-        "caret",
-        "left",
-        "arrow",
-        "arrow left"
-    ],
-    "CaretRight": [
-        "caret",
-        "right",
-        "arrow",
-        "arrow right"
-    ],
-    "CaretUp": [
-        "caret",
-        "up",
-        "arrow",
-        "arrow up"
-    ],
-    "Category": [
-        "category",
-        "menu",
-        "apps",
-        "applications",
-        "app"
-    ],
-    "Chart": [
-        "chart",
-        "graph",
-        "statistics",
-        "diagram"
-    ],
-    "Chat": [
-        "chat",
-        "message",
-        "messages",
-        "comment",
-        "comments"
-    ],
-    "ChevronDown": [
-        "chevron",
-        "down",
-        "arrow"
-    ],
-    "ChevronLeft": [
-        "chevron",
-        "left",
-        "arrow"
-    ],
-    "ChevronUp": [
-        "chevron",
-        "up",
-        "arrow"
-    ],
-    "ChevronRight": [
-        "chevron",
-        "right",
-        "arrow"
-    ],
-    "ChevronDownCircle": [
-        "round",
-        "circle",
-        "chevron",
-        "down",
-        "arrow"
-    ],
-    "ChevronLeftCircle": [
-        "round",
-        "circle",
-        "chevron",
-        "left",
-        "arrow"
-    ],
-    "ChevronUpCircle": [
-        "round",
-        "circle",
-        "chevron",
-        "up",
-        "arrow"
-    ],
-    "ChevronRightCircle": [
-        "round",
-        "chevron",
-        "right",
-        "arrow"
-    ],
-    "CloseSquare": [
-        "close",
-        "cancel",
-        "delete",
-        "remove",
-        "times",
-        "clear",
-        "square"
-    ],
-    "Danger": [
-        "dialog",
-        "danger",
-        "alert",
-        "warning"
-    ],
-    "Delete": [
-        "close",
-        "cancel",
-        "delete",
-        "remove",
-        "times",
-        "clear"
-    ],
-    "Discount": [
-        "discount",
-        "bargain",
-        "percent"
-
-    ],
-    "Discovery": [
-        "discovery",
-        "explore",
-        "discover"
-    ],
-    "Document": [
-        "document",
-        "file",
-        "data"
-    ],
-    "Download": [
-        "download",
-        "upload"
-    ],
-    "Edit": [
-        "edit",
-        "pencil",
-        "update"
-    ],
-    "EditSquare": [
-        "edit",
-        "pencil",
-        "update",
-        "square"
-    ],
-    "Filter": [
-        "filter",
-        "search",
-        "funnel",
-        "hopper"
-    ],
-    "Filter2": [
-        "filter 2",
-        "filter",
-        "search",
-        "funnel",
-        "hopper"
-    ],
-    "Folder": [
-        "folder",
-        "directory"
-    ],
-    "Game": [
-        "game",
-        "play",
-        "console"
-    ],
-    "Graph": [
-        "graph",
-        "activity",
-        "metrics",
-        "dashboard"
-    ],
-    "Heart": [
-        "heart",
-        "love",
-        "like",
-        "emotion"
-    ],
-    "Heart2": [
-        "heart 2",
-        "heart",
-        "love",
-        "like",
-        "emotion"
-    ],
-    "Hide": [
-        "hide",
-        "eye",
-        "visibility",
-        "hidden"
-    ],
-    "Home": [
-        "home",
-        "house",
-        "living"
-    ],
-    "Image": [
-        "image",
-        "picture",
-        "photo"
-    ],
-    "Image2": [
-        "image",
-        "picture",
-        "photo"
-    ],
-    "InfoCircle": [
-        "info",
-        "alert",
-        "circle"
-    ],
-    "InfoSquare": [
-        "info",
-        "alert",
-        "square"
-    ],
-    "Location": [
-        "location",
-        "gsp",
-        "maps",
-        "navigation",
-        "travel",
-        "marker",
-        "map",
-        "pin"
-    ],
-    "Lock": [
-        "lock",
-        "security",
-        "password",
-        "login",
-        "auth"
-    ],
-    "Login": [
-        "login",
-        "in",
-        "sign",
-        "auth",
-        "secure",
-        "arrow"
-    ],
-    "Logout": [
-        "logout",
-        "login",
-        "auth",
-        "sign",
-        "out",
-        "arrow"
-    ],
-    "Message": [
-        "message",
-        "chat",
-        "email",
-        "mail"
-    ],
-    "MoreCircle": [
-        "more",
-        "circle",
-        "dots",
-        "menu"
-    ],
-    "MoreSquare": [
-        "more",
-        "square",
-        "dots",
-        "menu"
-    ],
-    "Notification": [
-        "notification",
-        "sound",
-        "silent",
-        "bell",
-        "alarm"
-    ],
-    "Paper": [
-        "paper",
-        "document",
-        "file"
-    ],
-    "PaperDownload": [
-        "paper",
-        "document",
-        "file",
-        "download"
-    ],
-    "PaperFail": [
-        "paper",
-        "document",
-        "file",
-        "fail"
-    ],
-    "PaperNegative": [
-        "paper",
-        "document",
-        "file",
-        "negative",
-        "minus"
-    ],
-    "PaperPlus": [
-        "add",
-        "paper",
-        "document",
-        "file",
-        "positive",
-        "plus"
-    ],
-    "PaperUpload": [
-        "add",
-        "paper",
-        "document",
-        "file",
-        "upload"
-    ],
-    "Password": [
-        "password",
-        "lock",
-        "secure",
-        "auth",
-        "sign",
-        "login"
-    ],
-    "People": [
-        "people",
-        "users",
-        "group"
-    ],
-    "Play": [
-        "play",
-        "start",
-        "music"
-    ],
-    "Plus": [
-        "symbol",
-        "plus",
-        "add",
-        "positive"
-    ],
-    "Scan": [
-        "scan",
-        "read",
-        "qr",
-        "printer",
-        "scanner"
-    ],
-    "Search": [
-        "search",
-        "find",
-        "magnifier",
-        "magnifying glass"
-    ],
-    "Send": [
-        "send",
-        "paper",
-        "airplane",
-        "message",
-        "mail",
-        "email",
-        "aero",
-        "plane"
-    ],
-    "Setting": [
-        "setting",
-        "options",
-        "cog",
-        "gear",
-        "edit",
-        "preferences"
-    ],
-    "ShieldDone": [
-        "shield",
-        "done",
-        "security"
-    ],
-    "ShieldFail": [
-        "shield",
-        "fail",
-        "insecure"
-    ],
-    "Show": [
-        "show",
-        "visibility",
-        "view",
-        "watch",
-        "eye"
-    ],
-    "Star": [
-        "star",
-        "fav",
-        "like",
-        "bookmark"
-    ],
-    "Swap": [
-        "swap",
-        "switch",
-        "turn"
-    ],
-    "Ticket": [
-        "ticket",
-        "sale",
-        "event"
-    ],
-    "TicketStar": [
-        "ticket",
-        "star",
-        "sale",
-        "event"
-    ],
-    "TickSquare": [
-        "tick",
-        "check",
-        "square",
-        "checkbox",
-        "ok",
-        "right"
-    ],
-    "TimeCircle": [
-        "time",
-        "circle",
-        "clock",
-        "watch",
-        "alarm"
-    ],
-    "TimeSquare": [
-        "time",
-        "square",
-        "clock",
-        "watch",
-        "alarm"
-    ],
-    "TwoUsers":[
-        "user",
-        "people",
-        "users"
-    ],
-    "Unlock": [
-        "unlock",
-        "lock",
-        "unsecure",
-        "open",
-        "password"
-    ],
-    "Upload": [
-        "upload",
-        "download",
-        "arrow"
-    ],
-    "User": [
-        "user",
-        "people",
-        "person",
-        "users",
-        "profile"
-    ],
-    "Video": [
-        "video",
-        "camera",
-        "record",
-        "film",
-        "image"
-    ],
-    "Voice": [
-        "voice",
-        "record",
-        "mic",
-        "note"
-    ],
-    "Voice2": [
-        "voice 2",
-        "voice",
-        "record",
-        "mic",
-        "note"
-    ],
-    "VolumeDown": [
-        "volume",
-        "down",
-        "speaker",
-        "audio",
-        "music"
-    ],
-    "VolumeOff": [
-        "volume",
-        "off",
-        "speaker",
-        "audio",
-        "music"
-    ],
-    "VolumeUp": [
-        "volume",
-        "up",
-        "speaker",
-        "audio",
-        "music"
-    ],
-    "Wallet": [
-        "wallet",
-        "trader",
-        "money",
-        "cash"
-    ],
-    "Work": [
-        "work",
-        "brief",
-        "job",
-        "finance"
-    ]
+  "AddUser": [
+    "add",
+    "user",
+    "person",
+    "add user",
+    "add person",
+    "people",
+    "plus"
+  ],
+  "Activity": [
+    "activity",
+    "finance",
+    "graph",
+    "metric",
+    "metrics",
+    "pulse",
+    "bars",
+    "bar"
+  ],
+  "ArrowDown": ["arrow", "arrow down", "down"],
+  "ArrowDownSquare": ["arrow", "arrow down", "down", "square", "arrow square"],
+  "ArrowLeft": ["arrow", "arrow left", "left"],
+  "ArrowLeftSquare": [
+    "arrow",
+    "arrow left",
+    "left",
+    "square",
+    "arrow left square",
+    "arrow square"
+  ],
+  "ArrowRight": ["arrow", "arrow right", "right"],
+  "ArrowRightSquare": [
+    "arrow",
+    "arrow right",
+    "right",
+    "square",
+    "arrow square",
+    "arrow right square"
+  ],
+  "ArrowUp": ["arrow", "arrow up", "up"],
+  "ArrowUpSquare": [
+    "arrow",
+    "arrow up",
+    "up",
+    "square",
+    "arrow square",
+    "arrow up square"
+  ],
+  "Bag": [
+    "bag",
+    "shopping",
+    "shopping bag",
+    "cart",
+    "ecommerce",
+    "store",
+    "purchase"
+  ],
+  "Bag2": [
+    "bag",
+    "bag2",
+    "shopping",
+    "shopping bag",
+    "cart",
+    "ecommerce",
+    "store",
+    "purchase"
+  ],
+  "Bookmark": ["bookmark", "read", "clip", "marker", "tag"],
+  "Buy": ["cart", "shopping", "ecommerce", "store", "purchase"],
+  "Calendar": ["calendar", "date", "year"],
+  "Call": ["call", "ring", "phone", "mobile"],
+  "Calling": ["calling", "call", "ringing", "ring", "phone"],
+  "CallMissed": ["call missed", "missed", "phone", "ring"],
+  "CallSilent": ["call silent", "silence", "silent", "phone", "ring"],
+  "Camera": ["camera", "photo", "movie", "film", "video", "image"],
+  "CaretDown": ["caret", "down", "arrow", "arrow down"],
+  "CaretLeft": ["caret", "left", "arrow", "arrow left"],
+  "CaretRight": ["caret", "right", "arrow", "arrow right"],
+  "CaretUp": ["caret", "up", "arrow", "arrow up"],
+  "Category": ["category", "menu", "apps", "applications", "app"],
+  "Chart": ["chart", "graph", "statistics", "diagram"],
+  "Chat": ["chat", "message", "messages", "comment", "comments"],
+  "ChevronDown": ["chevron", "down", "arrow"],
+  "ChevronLeft": ["chevron", "left", "arrow"],
+  "ChevronUp": ["chevron", "up", "arrow"],
+  "ChevronRight": ["chevron", "right", "arrow"],
+  "ChevronDownCircle": ["round", "circle", "chevron", "down", "arrow"],
+  "ChevronLeftCircle": ["round", "circle", "chevron", "left", "arrow"],
+  "ChevronUpCircle": ["round", "circle", "chevron", "up", "arrow"],
+  "ChevronRightCircle": ["round", "chevron", "right", "arrow"],
+  "CloseSquare": [
+    "close",
+    "cancel",
+    "delete",
+    "remove",
+    "times",
+    "clear",
+    "square"
+  ],
+  "Danger": ["dialog", "danger", "alert", "warning"],
+  "Delete": ["close", "cancel", "delete", "remove", "times", "clear"],
+  "Discount": ["discount", "bargain", "percent"],
+  "Discovery": ["discovery", "explore", "discover"],
+  "Document": ["document", "file", "data"],
+  "Download": ["download", "upload"],
+  "Edit": ["edit", "pencil", "update"],
+  "EditSquare": ["edit", "pencil", "update", "square"],
+  "Filter": ["filter", "search", "funnel", "hopper"],
+  "Filter2": ["filter 2", "filter", "search", "funnel", "hopper"],
+  "Folder": ["folder", "directory"],
+  "Game": ["game", "play", "console"],
+  "Graph": ["graph", "activity", "metrics", "dashboard"],
+  "Heart": ["heart", "love", "like", "emotion"],
+  "Heart2": ["heart 2", "heart", "love", "like", "emotion"],
+  "Hide": ["hide", "eye", "visibility", "hidden"],
+  "Home": ["home", "house", "living"],
+  "Image": ["image", "picture", "photo"],
+  "Image2": ["image", "picture", "photo"],
+  "InfoCircle": ["info", "alert", "circle"],
+  "InfoSquare": ["info", "alert", "square"],
+  "Location": [
+    "location",
+    "gsp",
+    "maps",
+    "navigation",
+    "travel",
+    "marker",
+    "map",
+    "pin"
+  ],
+  "Lock": ["lock", "security", "password", "login", "auth"],
+  "Login": ["login", "in", "sign", "auth", "secure", "arrow"],
+  "Logout": ["logout", "login", "auth", "sign", "out", "arrow"],
+  "Message": ["message", "chat", "email", "mail"],
+  "MoreCircle": ["more", "circle", "dots", "menu"],
+  "MoreSquare": ["more", "square", "dots", "menu"],
+  "Notification": ["notification", "sound", "silent", "bell", "alarm"],
+  "Paper": ["paper", "document", "file"],
+  "PaperDownload": ["paper", "document", "file", "download"],
+  "PaperFail": ["paper", "document", "file", "fail"],
+  "PaperNegative": ["paper", "document", "file", "negative", "minus"],
+  "PaperPlus": ["add", "paper", "document", "file", "positive", "plus"],
+  "PaperUpload": ["add", "paper", "document", "file", "upload"],
+  "Password": ["password", "lock", "secure", "auth", "sign", "login"],
+  "People": ["people", "users", "group"],
+  "Play": ["play", "start", "music"],
+  "Plus": ["symbol", "plus", "add", "positive"],
+  "Scan": ["scan", "read", "qr", "printer", "scanner"],
+  "Search": ["search", "find", "magnifier", "magnifying glass"],
+  "Send": [
+    "send",
+    "paper",
+    "airplane",
+    "message",
+    "mail",
+    "email",
+    "aero",
+    "plane"
+  ],
+  "Setting": ["setting", "options", "cog", "gear", "edit", "preferences"],
+  "ShieldDone": ["shield", "done", "security"],
+  "ShieldFail": ["shield", "fail", "insecure"],
+  "Show": ["show", "visibility", "view", "watch", "eye"],
+  "Star": ["star", "fav", "like", "bookmark"],
+  "Swap": ["swap", "switch", "turn"],
+  "Ticket": ["ticket", "sale", "event"],
+  "TicketStar": ["ticket", "star", "sale", "event"],
+  "TickSquare": ["tick", "check", "square", "checkbox", "ok", "right"],
+  "TimeCircle": ["time", "circle", "clock", "watch", "alarm"],
+  "TimeSquare": ["time", "square", "clock", "watch", "alarm"],
+  "TwoUsers": ["user", "people", "users"],
+  "Unlock": ["unlock", "lock", "unsecure", "open", "password"],
+  "Upload": ["upload", "download", "arrow"],
+  "User": ["user", "people", "person", "users", "profile"],
+  "Video": ["video", "camera", "record", "film", "image"],
+  "Voice": ["voice", "record", "mic", "note"],
+  "Voice2": ["voice 2", "voice", "record", "mic", "note"],
+  "VolumeDown": ["volume", "down", "speaker", "audio", "music"],
+  "VolumeOff": ["volume", "off", "speaker", "audio", "music"],
+  "VolumeUp": ["volume", "up", "speaker", "audio", "music"],
+  "Wallet": ["wallet", "trader", "money", "cash"],
+  "Work": ["work", "brief", "job", "finance"]
 }

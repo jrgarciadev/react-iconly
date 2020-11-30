@@ -45,3 +45,26 @@ export const hexa = (hex, alpha) => {
     return ''
   }
 }
+
+export const getRandomId = () => {
+  return `_${Math.random().toString(36).substr(2, 9)}`
+}
+
+export const download = (url, filename) => {
+  /* eslint-disable-next-line  */
+  fetch(url, {
+    mode: 'no-cors' /* {mode:'cors'} */
+  })
+    .then((transfer) => {
+      return transfer.blob()
+    })
+    .then((bytes) => {
+      const elm = document.createElement('a')
+      elm.href = URL.createObjectURL(bytes)
+      elm.setAttribute('download', filename)
+      elm.click()
+    })
+    .catch((error) => {
+      console.log(error)
+    })
+}

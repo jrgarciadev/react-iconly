@@ -1,6 +1,6 @@
 import { useContext } from 'react'
 import { Search as SearchIcon } from 'react-iconly'
-import { Select } from '@components'
+// import { Select } from '@components'
 import { withTheme } from 'styled-components'
 import { connectSearchBox } from 'react-instantsearch-dom'
 import { IconDataContext } from '@lib/context'
@@ -8,7 +8,6 @@ import {
   StyledForm,
   StyledIconContainer,
   StyledInput,
-  StyledSelectContainer,
   StyledAlgoliaImg
 } from './styles'
 
@@ -29,9 +28,11 @@ const Search = ({ theme, currentRefinement, refine }) => {
         placeholder='Search icon...'
       />
       <StyledAlgoliaImg className='algolia-logo' src='/algolia-logo.svg' />
+      {/*
       <StyledSelectContainer>
         <Select searchable attribute='set' />
       </StyledSelectContainer>
+    */}
     </StyledForm>
   )
 }

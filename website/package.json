@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "upload-icons": "node ./scripts/upload-icons.js",
+    "generate-icons": "node ./scripts/generate-icons.js",
     "type-check": "tsc --pretty --noEmit",
     "format": "prettier --write .",
     "lint": "eslint . --ext ts --ext tsx --ext js"
