@@ -1,7 +1,9 @@
 import { connectStateResults } from 'react-instantsearch-dom'
 import { StyledContainer } from './styles'
-
-const NoResults = ({ searchResults = {} }) => {
+const NoResults = ({ searchResults }) => {
+  if (!searchResults) {
+    return null
+  }
   if (searchResults && searchResults.nbHits !== 0) {
     return null
   }
@@ -10,7 +12,9 @@ const NoResults = ({ searchResults = {} }) => {
       <p className='no-results-text'>
         No results for&nbsp;
         <span className='hightlighted'>{`"${
-          searchResults.query ? searchResults.query : 'your search'
+          searchResults && searchResults.query
+            ? searchResults.query
+            : 'your search'
         }"`}</span>
       </p>
       <p className='icon-suggest'>
