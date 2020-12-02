@@ -5,7 +5,7 @@ import { download } from '@utils'
 const Intro = () => {
   const handleDownload = () => {
     download('/icons.zip', 'Iconly.zip')
-    gtag.event({ action: 'download', category: 'all' })
+    gtag.event({ action: 'download_pack', category: 'all' })
   }
 
   return (

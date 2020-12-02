@@ -12,7 +12,7 @@ const IconDetail = () => {
 
   const handleDownload = () => {
     download(icon.svgPath, `${icon.name}.svg`, 'image/svg+xml')
-    gtag.event({ action: 'download', category: 'icon', label: icon.name })
+    gtag.event({ action: 'download_icon', category: 'icon', label: icon.name })
   }
 
   return (
