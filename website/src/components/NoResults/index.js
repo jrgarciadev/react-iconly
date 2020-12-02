@@ -2,7 +2,7 @@ import { connectStateResults } from 'react-instantsearch-dom'
 import { StyledContainer } from './styles'
 
 const NoResults = ({ searchResults }) => {
-  if (searchResults.nbHits !== 0) {
+  if (searchResults && searchResults.nbHits !== 0) {
     return null
   }
   return (
