@@ -1,21 +1,22 @@
 import { connectStateResults } from 'react-instantsearch-dom'
 import { StyledContainer } from './styles'
+
 const NoResults = ({ searchResults }) => {
-  if (!searchResults) {
+  if (!searchResults || !searchResults.query) {
     return null
   }
-  if (searchResults && searchResults.nbHits !== 0) {
+
+  const { nbHits = 0, query = '' } = searchResults
+
+  if (searchResults && nbHits !== 0) {
     return null
   }
+
   return (
     <StyledContainer>
       <p className='no-results-text'>
         No results for&nbsp;
-        <span className='hightlighted'>{`"${
-          searchResults && searchResults.query
-            ? searchResults.query
-            : 'your search'
-        }"`}</span>
+        <span className='hightlighted'>{query}</span>
       </p>
       <p className='icon-suggest'>
         Not finding an icon that you want?&nbsp;
