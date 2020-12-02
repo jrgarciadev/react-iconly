@@ -1,7 +1,7 @@
 import { connectStateResults } from 'react-instantsearch-dom'
 import { StyledContainer } from './styles'
 
-const NoResults = ({ searchResults }) => {
+const NoResults = ({ searchResults = {} }) => {
   if (searchResults && searchResults.nbHits !== 0) {
     return null
   }
@@ -9,7 +9,9 @@ const NoResults = ({ searchResults }) => {
     <StyledContainer>
       <p className='no-results-text'>
         No results for&nbsp;
-        <span className='hightlighted'>{`"${searchResults.query}"`}</span>
+        <span className='hightlighted'>{`"${
+          searchResults.query ? searchResults.query : 'your search'
+        }"`}</span>
       </p>
       <p className='icon-suggest'>
         Not finding an icon that you want?&nbsp;
@@ -19,8 +21,8 @@ const NoResults = ({ searchResults }) => {
           href='https://github.com/jrgarciadev/react-iconly/issues'
         >
           File an issue
-        </a>{' '}
-        and suggest a new icon.
+        </a>
+        &nbsp; and suggest a new icon.
       </p>
     </StyledContainer>
   )
