@@ -43,7 +43,7 @@ export const StyledInput = styled.input`
   }
   @media (max-width: ${(props) => props.theme.breakpoints.sm}) {
     padding-left: 50px;
-    padding-right: 120px;
+    padding-right: 140px;
     font-size: ${(props) => props.theme.fontSize.md};
   }
 `
@@ -68,4 +68,8 @@ export const StyledAlgoliaImg = styled.img`
   top: 40%;
   right: 1.5rem;
   width: 120px;
+
+  @media (max-width: ${(props) => props.theme.breakpoints.sm}) {
+    top: 38%;
+  }
 `

@@ -3,6 +3,7 @@ import {
   Search,
   IconGrid,
   IconDetail,
+  NoResults,
   CheckboxList,
   Loader
 } from '@components'
@@ -21,6 +22,7 @@ const Home = () => (
       <CheckboxList attribute='set' />
       <Loader />
       <IconGrid />
+      <NoResults />
     </InstantSearch>
     <IconDetail />
   </IconData>
