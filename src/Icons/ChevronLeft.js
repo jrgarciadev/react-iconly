@@ -32,7 +32,7 @@ const ChevronLeft = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       <path
         d='M14,0,7,7,0,0'
         fill='none'
-        stroke={strokeWidth}
+        stroke={color}
         strokeLinecap='round'
         strokeLinejoin='round'
         strokeMiterlimit='10'
