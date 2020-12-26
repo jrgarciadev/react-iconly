@@ -1,5 +1,5 @@
 import React from 'react'
-import Iconly, { Search } from './'
+import { Search, Iconly } from './'
 
 describe('ExampleComponent', () => {
   it('is truthy', () => {
