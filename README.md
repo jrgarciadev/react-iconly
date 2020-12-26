@@ -60,6 +60,18 @@ const App = () => {
 export default App;
 ```
 
+You can also use Iconly component and then set then icon name you prefer:
+```jsx
+import React from 'react';
+import { Iconly } from 'react-iconly';
+
+const App = () => {
+  return  <Iconly name="Search" set="bulk" primaryColor="blueviolet" size="xlarge"/>
+};
+
+export default App;
+```
+
 Icons can be configured with inline props:
 ```jsx
 <Home set="two-tone" primaryColor="blueviolet" secondaryColor="blue" stroke="bold" size="xlarge"/>
@@ -68,10 +80,10 @@ You can also include the whole icon pack:
 
 ```jsx
 import React from 'react';
-import * as Iconly from 'react-iconly';
+import * as IconlyPack from 'react-iconly';
 
 const App = () => {
-  return <Iconly.Home set="bulk" primaryColor="blueviolet" secondaryColor="blue" stroke="bold" size="xlarge"/>
+  return <IconlyPack.Home set="bulk" primaryColor="blueviolet" secondaryColor="blue" stroke="bold" size="xlarge"/>
 };
 
 export default App;

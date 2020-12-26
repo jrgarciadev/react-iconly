@@ -39,7 +39,10 @@ export const StyledContainer = styled.div`
       bottom: 1rem;
     `}
 
-  @media(max-width: ${({ theme }) => theme.breakpoints.md}) {
+  @media (max-width: ${({ theme }) => theme.breakpoints.xl}) {
+    margin: 0 14%;
+  }
+  @media (max-width: ${({ theme }) => theme.breakpoints.md}) {
     margin: 0 4%;
     .name {
       display: none;
@@ -52,10 +55,6 @@ export const StyledContainer = styled.div`
     .download {
       margin: 0 0.5rem;
     }
-  }
-
-  @media (max-width: ${({ theme }) => theme.breakpoints.xl}) {
-    margin: 0 14%;
   }
 `
 

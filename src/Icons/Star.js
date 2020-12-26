@@ -2,7 +2,7 @@ import * as React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const Star = ({ color, strokeWidth, opacity, set }) => {
+const Star = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
   const Bold = () => (
     <g transform='translate(2 2.5)'>
       <path
@@ -65,6 +65,7 @@ Star.displayName = 'IconlyStar'
 Star.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,
+  secondaryColor: PropTypes.string,
   set: PropTypes.string,
   strokeWidth: PropTypes.oneOfType([PropTypes.string, PropTypes.number])
 }
