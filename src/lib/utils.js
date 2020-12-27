@@ -1,5 +1,7 @@
 import { sizes, strokes } from './constants'
 
+export const isBrowser = typeof window !== `undefined`
+
 export const getSize = (size) => {
   if (Number.isInteger(size)) {
     return `${size}px`
