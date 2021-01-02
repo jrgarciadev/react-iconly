@@ -20,7 +20,7 @@ const App = () => {
         <IconlyPack.Paper set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <IconlyPack.PaperPlus set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <IconlyPack.PaperNegative set="two-tone" primaryColor="#d6d" secondaryColor="#d6d" stroke="bold" size="xlarge"/>
-        <IconlyPack.PaperFall set="two-tone" primaryColor="#d6d" secondaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <IconlyPack.PaperFail set="two-tone" primaryColor="#d6d" secondaryColor="#d6d" stroke="bold" size="xlarge"/>
         <IconlyPack.PaperDownload primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <IconlyPack.PaperUpload primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <IconlyPack.Send primaryColor="#d6d" stroke="bold" size="xlarge"/>

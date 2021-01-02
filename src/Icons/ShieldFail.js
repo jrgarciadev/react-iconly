@@ -2,7 +2,7 @@ import * as React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const ShieldFall = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
+const ShieldFail = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
   const Bold = () => (
     <g transform='translate(3.5 2)'>
       <path
@@ -109,8 +109,8 @@ const ShieldFall = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Light />
   }
 }
-ShieldFall.displayName = 'IconlyShieldFall'
-ShieldFall.propTypes = {
+ShieldFail.displayName = 'IconlyShieldFail'
+ShieldFail.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,
   secondaryColor: PropTypes.string,
@@ -118,4 +118,4 @@ ShieldFall.propTypes = {
   strokeWidth: PropTypes.oneOfType([PropTypes.string, PropTypes.number])
 }
 
-export default withIcon(ShieldFall)
+export default withIcon(ShieldFail)

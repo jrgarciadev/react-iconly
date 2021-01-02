@@ -2,7 +2,7 @@ import * as React from 'react'
 import PropTypes from 'prop-types'
 import withIcon from '../lib/withIcon'
 
-const PaperFall = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
+const PaperFail = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
   const Bold = () => (
     <g transform='translate(3.5 2)'>
       <path
@@ -134,8 +134,8 @@ const PaperFall = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Light />
   }
 }
-PaperFall.displayName = 'IconlyPaperFall'
-PaperFall.propTypes = {
+PaperFail.displayName = 'IconlyPaperFail'
+PaperFail.propTypes = {
   opacity: PropTypes.string,
   color: PropTypes.string,
   secondaryColor: PropTypes.string,
@@ -143,4 +143,4 @@ PaperFall.propTypes = {
   strokeWidth: PropTypes.oneOfType([PropTypes.string, PropTypes.number])
 }
 
-export default withIcon(PaperFall)
+export default withIcon(PaperFail)
