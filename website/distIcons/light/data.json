@@ -18,33 +18,21 @@
   {
     "set": "light",
     "name": "Arrow Left",
-    "tags": [
-      "arrow",
-      "arrow left",
-      "left"
-    ],
+    "tags": ["arrow", "arrow left", "left"],
     "componentName": "ArrowLeft",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.25 12.2743L19.25 12.2743\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10.2998 18.2987L4.2498 12.2747L10.2998 6.24969\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Arrow Down",
-    "tags": [
-      "arrow",
-      "arrow down",
-      "down"
-    ],
+    "tags": ["arrow", "arrow down", "down"],
     "componentName": "ArrowDown",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.2744 19.75V4.75\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.2988 13.7002L12.2748 19.7502L6.24976 13.7002\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Arrow Right",
-    "tags": [
-      "arrow",
-      "arrow right",
-      "right"
-    ],
+    "tags": ["arrow", "arrow right", "right"],
     "componentName": "ArrowRight",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19.75 11.7257L4.75 11.7257\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M13.7002 5.70131L19.7502 11.7253L13.7002 17.7503\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
@@ -79,11 +67,7 @@
   {
     "set": "light",
     "name": "Arrow Up",
-    "tags": [
-      "arrow",
-      "arrow up",
-      "up"
-    ],
+    "tags": ["arrow", "arrow up", "up"],
     "componentName": "ArrowUp",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.7256 4.25L11.7256 19.25\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M5.70124 10.2998L11.7252 4.2498L17.7502 10.2998\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
@@ -105,101 +89,56 @@
   {
     "set": "light",
     "name": "Bookmark",
-    "tags": [
-      "bookmark",
-      "read",
-      "clip",
-      "marker",
-      "tag"
-    ],
+    "tags": ["bookmark", "read", "clip", "marker", "tag"],
     "componentName": "Bookmark",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.6648 18.6316L5.73341 21.881C5.25984 22.1271 4.67641 21.9529 4.41533 21.4874V21.4874C4.3398 21.3432 4.29905 21.1834 4.29634 21.0206V6.62244C4.29634 3.87644 6.17277 2.77805 8.873 2.77805H15.2162C17.8341 2.77805 19.7929 3.80322 19.7929 6.43937V21.0206C19.7929 21.2804 19.6897 21.5295 19.506 21.7132C19.3224 21.8968 19.0733 22 18.8135 22C18.6478 21.9974 18.485 21.9567 18.3375 21.881L12.3696 18.6316C12.1497 18.5128 11.8847 18.5128 11.6648 18.6316Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.36957 9.32266H15.6648\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Buy",
-    "tags": [
-      "cart",
-      "shopping",
-      "ecommerce",
-      "store",
-      "purchase"
-    ],
+    "tags": ["cart", "shopping", "ecommerce", "store", "purchase"],
     "componentName": "Buy",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.42226 19.8203C7.84426 19.8203 8.18726 20.1633 8.18726 20.5853C8.18726 21.0073 7.84426 21.3493 7.42226 21.3493C7.00026 21.3493 6.65826 21.0073 6.65826 20.5853C6.65826 20.1633 7.00026 19.8203 7.42226 19.8203Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.6747 19.8203C19.0967 19.8203 19.4397 20.1633 19.4397 20.5853C19.4397 21.0073 19.0967 21.3493 18.6747 21.3493C18.2527 21.3493 17.9097 21.0073 17.9097 20.5853C17.9097 20.1633 18.2527 19.8203 18.6747 19.8203Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.74988 3.25L4.82988 3.61L5.79288 15.083C5.87088 16.018 6.65188 16.736 7.58988 16.736H18.5019C19.3979 16.736 20.1579 16.078 20.2869 15.19L21.2359 8.632C21.3529 7.823 20.7259 7.099 19.9089 7.099H5.16388\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.1254 10.795H16.8984\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Calendar",
-    "tags": [
-      "calendar",
-      "date",
-      "year"
-    ],
+    "tags": ["calendar", "date", "year"],
     "componentName": "Calendar",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.09264 9.40427H20.9166\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M16.4421 13.3097H16.4513\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.0046 13.3097H12.0139\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7.55789 13.3097H7.56715\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M16.4421 17.1962H16.4513\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.0046 17.1962H12.0139\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7.55789 17.1962H7.56715\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M16.0437 2V5.29078\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7.9655 2V5.29078\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.2383 3.57919H7.77096C4.83427 3.57919 3 5.21513 3 8.22222V17.2719C3 20.3262 4.83427 22 7.77096 22H16.229C19.175 22 21 20.3546 21 17.3475V8.22222C21.0092 5.21513 19.1842 3.57919 16.2383 3.57919Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Call Missed",
-    "tags": [
-      "call missed",
-      "missed",
-      "phone",
-      "ring"
-    ],
+    "tags": ["call missed", "missed", "phone", "ring"],
     "componentName": "CallMissed",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.99033 4.87351C3.30665 4.34875 5.0495 2.44377 6.29322 2.50127C6.665 2.53311 6.99364 2.75698 7.26067 3.01783C7.87379 3.61756 9.62897 5.88094 9.72859 6.35745C9.97096 7.52611 8.57833 8.19978 9.00454 9.37769C10.0911 12.0364 11.9634 13.9086 14.6233 14.994C15.8003 15.4212 16.474 14.0287 17.6428 14.2711C18.1183 14.3707 20.3839 16.1257 20.9826 16.7388C21.2425 17.0048 21.4684 17.3344 21.4992 17.7062C21.5454 19.0155 19.5222 20.7829 19.1278 21.0088C18.1974 21.6753 16.9834 21.663 15.5035 20.975C11.3739 19.2569 4.77426 12.782 3.02422 8.49657C2.35461 7.02496 2.30839 5.8029 2.99033 4.87351Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M21.2496 2.75021L15.2496 8.75021\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.2496 2.75021L21.2496 8.75021\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Call Silent",
-    "tags": [
-      "call silent",
-      "silence",
-      "silent",
-      "phone",
-      "ring"
-    ],
+    "tags": ["call silent", "silence", "silent", "phone", "ring"],
     "componentName": "CallSilent",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.2866 13.2249C4.9346 11.6079 3.8416 9.97989 3.2696 8.59089C2.6096 7.15189 2.5696 5.96089 3.2296 5.06189C3.5396 4.55089 5.2396 2.69189 6.4506 2.75089C6.8096 2.78189 7.1296 3.00089 7.3906 3.25089C7.6896 3.54089 8.2696 4.24189 8.7796 4.92089C9.2896 5.60189 9.7496 6.27189 9.7896 6.50089C10.0296 7.64088 8.6696 8.30088 9.0896 9.44188C9.1826 9.66888 9.2806 9.88989 9.3866 10.1039\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.75 21.2512L21.25 2.75119\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.43988 15.5618C10.7599 17.8808 13.3899 19.9018 15.4199 20.7418C16.8599 21.4118 18.0399 21.4208 18.9399 20.7718C19.3299 20.5508 21.2999 18.8318 21.2499 17.5508C21.2199 17.1918 20.9999 16.8718 20.7499 16.6118C20.1699 16.0108 17.9599 14.3008 17.4999 14.2108C16.3599 13.9708 15.6999 15.3318 14.5599 14.9118C13.2699 14.3808 12.1599 13.6618 11.2499 12.7508\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Calling",
-    "tags": [
-      "calling",
-      "call",
-      "ringing",
-      "ring",
-      "phone"
-    ],
+    "tags": ["calling", "call", "ringing", "ring", "phone"],
     "componentName": "Calling",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.98995 4.87351C3.30627 4.34875 5.05018 2.44377 6.2929 2.50127C6.66469 2.53311 6.99334 2.75698 7.26037 3.01783H7.2614C7.87351 3.61756 9.62974 5.88094 9.72834 6.35745C9.97175 7.52611 8.57806 8.19978 9.00428 9.37769C10.0909 12.0364 11.9632 13.9086 14.6232 14.994C15.8002 15.4212 16.4739 14.0287 17.6427 14.2711C18.1192 14.3707 20.3839 16.1257 20.9826 16.7388V16.7388C21.2425 17.0048 21.4684 17.3344 21.4992 17.7062C21.5454 19.0155 19.5222 20.7829 19.1278 21.0088C18.1973 21.6753 16.9833 21.663 15.5034 20.975C11.3737 19.2569 4.77391 12.782 3.02384 8.49657C2.35421 7.02496 2.30902 5.8029 2.98995 4.87351Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.5654 2.75C18.2674 3.161 21.1904 6.081 21.6064 9.782\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.5654 6.293C16.3354 6.638 17.7184 8.021 18.0634 9.791\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Camera",
-    "tags": [
-      "camera",
-      "photo",
-      "movie",
-      "film",
-      "video",
-      "image"
-    ],
+    "tags": ["camera", "photo", "movie", "film", "video", "image"],
     "componentName": "Camera",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.6378 7.1099V7.1099C17.2648 7.1099 16.9268 6.8949 16.7678 6.5589C16.4808 5.9509 16.1158 5.1739 15.8998 4.7509C15.5808 4.1219 15.0638 3.7559 14.3478 3.7509C14.3358 3.7499 9.66382 3.7499 9.65182 3.7509C8.93582 3.7559 8.41982 4.1219 8.09982 4.7509C7.88482 5.1739 7.51982 5.9509 7.23282 6.5589C7.07382 6.8949 6.73482 7.1099 6.36282 7.1099V7.1099C4.36682 7.1099 2.74982 8.7269 2.74982 10.7219V16.6579C2.74982 18.6519 4.36682 20.2699 6.36282 20.2699H17.6378C19.6328 20.2699 21.2498 18.6519 21.2498 16.6579V10.7219C21.2498 8.7269 19.6328 7.1099 17.6378 7.1099Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.82139 13.3345C8.82039 15.0875 10.2514 16.5215 12.0014 16.5205C13.7484 16.5185 15.1754 15.0905 15.1784 13.3415C15.1814 11.5855 13.7554 10.1545 12.0034 10.1525C10.2414 10.1505 8.80739 11.6055 8.82139 13.3345Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M16.9025 10.9951C16.8059 10.9852 16.7105 10.96 16.6036 10.9169C16.4847 10.8641 16.3818 10.7969 16.2823 10.6959C16.1035 10.5057 16 10.257 16 10.0005C16 9.86422 16.0279 9.72916 16.0823 9.60681C16.1368 9.48285 16.2014 9.37829 16.3182 9.26456C16.407 9.18719 16.498 9.12493 16.6224 9.07013C16.9913 8.92396 17.4301 9.0113 17.7043 9.28541C17.7865 9.36639 17.8557 9.46411 17.8941 9.54651L17.9169 9.60494C17.9721 9.72916 18 9.86422 18 10.0005C18 10.2622 17.8978 10.5043 17.7081 10.7058C17.5442 10.8708 17.3289 10.9723 17.0992 10.9951L17 11L16.9025 10.9951Z\" fill=\"#200E32\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Call",
-    "tags": [
-      "call",
-      "ring",
-      "phone",
-      "mobile"
-    ],
+    "tags": ["call", "ring", "phone", "mobile"],
     "componentName": "Call",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.99033 4.87254C3.30665 4.34878 5.0495 2.44376 6.29322 2.50127C6.665 2.53208 6.99364 2.75699 7.26067 3.01784C7.87379 3.61656 9.62897 5.88101 9.72859 6.35753C9.97096 7.52621 8.57833 8.1999 9.00454 9.37783C10.0911 12.0366 11.9634 13.9088 14.6233 14.9943C15.8003 15.4205 16.474 14.0279 17.6428 14.2713C18.1183 14.3709 20.3839 16.126 20.9826 16.7391C21.2425 17.0051 21.4684 17.3347 21.4992 17.7065C21.5454 19.0159 19.5222 20.7833 19.1278 21.0092C18.1974 21.6747 16.9834 21.6634 15.5035 20.9753C11.3739 19.2572 4.77426 12.7822 3.02422 8.49669C2.35461 7.02505 2.30839 5.80297 2.99033 4.87254Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
@@ -221,48 +160,28 @@
   {
     "set": "light",
     "name": "Caret Down",
-    "tags": [
-      "caret",
-      "down",
-      "arrow",
-      "arrow down"
-    ],
+    "tags": ["caret", "down", "arrow", "arrow down"],
     "componentName": "CaretDown",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.2512 12.6998V3.74979\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.25024 12.6998L12.2512 20.6368L17.2522 12.6998H7.25024Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Caret Left",
-    "tags": [
-      "caret",
-      "left",
-      "arrow",
-      "arrow left"
-    ],
+    "tags": ["caret", "left", "arrow", "arrow left"],
     "componentName": "CaretLeft",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.3002 12.2513L20.2502 12.2513\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.3003 7.25031L3.36329 12.2513L11.3003 17.2523L11.3003 7.25031Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Caret Right",
-    "tags": [
-      "caret",
-      "right",
-      "arrow",
-      "arrow right"
-    ],
+    "tags": ["caret", "right", "arrow", "arrow right"],
     "componentName": "CaretRight",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.6998 11.7487H3.74976\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.6997 16.7497L20.6367 11.7487L12.6997 6.74769V16.7497Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Caret Up",
-    "tags": [
-      "caret",
-      "up",
-      "arrow",
-      "arrow up"
-    ],
+    "tags": ["caret", "up", "arrow", "arrow up"],
     "componentName": "CaretUp",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.7488 11.3002L11.7488 20.2502\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.7498 11.3002L11.7488 3.3632L6.74776 11.3002L16.7498 11.3002Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
@@ -283,369 +202,217 @@
   {
     "set": "light",
     "name": "Arrow Down Square",
-    "tags": [
-      "arrow",
-      "arrow down",
-      "down",
-      "square",
-      "arrow square"
-    ],
+    "tags": ["arrow", "arrow down", "down", "square", "arrow square"],
     "componentName": "ArrowDownSquare",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.66588 21.25H16.3349C19.3549 21.25 21.2499 19.111 21.2499 16.084V7.916C21.2499 4.889 19.3649 2.75 16.3349 2.75H7.66588C4.63588 2.75 2.74988 4.889 2.74988 7.916V16.084C2.74988 19.111 4.63588 21.25 7.66588 21.25Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.9999 16.086V7.914\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.7478 12.3223L11.9998 16.0863L8.25183 12.3223\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Category",
-    "tags": [
-      "category",
-      "menu",
-      "apps",
-      "applications",
-      "app"
-    ],
+    "tags": ["category", "menu", "apps", "applications", "app"],
     "componentName": "Category",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.2855 2H19.5521C20.9036 2 22 3.1059 22 4.47018V7.7641C22 9.12735 20.9036 10.2343 19.5521 10.2343H16.2855C14.933 10.2343 13.8366 9.12735 13.8366 7.7641V4.47018C13.8366 3.1059 14.933 2 16.2855 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.44892 2H7.71449C9.06703 2 10.1634 3.1059 10.1634 4.47018V7.7641C10.1634 9.12735 9.06703 10.2343 7.71449 10.2343H4.44892C3.09638 10.2343 2 9.12735 2 7.7641V4.47018C2 3.1059 3.09638 2 4.44892 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.44892 13.7657H7.71449C9.06703 13.7657 10.1634 14.8716 10.1634 16.2369V19.5298C10.1634 20.8941 9.06703 22 7.71449 22H4.44892C3.09638 22 2 20.8941 2 19.5298V16.2369C2 14.8716 3.09638 13.7657 4.44892 13.7657Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.2855 13.7657H19.5521C20.9036 13.7657 22 14.8716 22 16.2369V19.5298C22 20.8941 20.9036 22 19.5521 22H16.2855C14.933 22 13.8366 20.8941 13.8366 19.5298V16.2369C13.8366 14.8716 14.933 13.7657 16.2855 13.7657Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Chat",
-    "tags": [
-      "chat",
-      "message",
-      "messages",
-      "comment",
-      "comments"
-    ],
+    "tags": ["chat", "message", "messages", "comment", "comments"],
     "componentName": "Chat",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.69524 13.3909C7.05048 13.3909 6.52667 12.8671 6.52667 12.2223C6.52667 11.5794 7.05048 11.0556 7.69524 11.0556C8.34001 11.0556 8.86382 11.5794 8.86382 12.2223C8.86382 12.8671 8.34001 13.3909 7.69524 13.3909ZM12.2381 13.3909C11.5933 13.3909 11.0695 12.8671 11.0695 12.2223C11.0695 11.5794 11.5933 11.0556 12.2381 11.0556C12.8829 11.0556 13.4067 11.5794 13.4067 12.2223C13.4067 12.8671 12.8829 13.3909 12.2381 13.3909ZM15.6125 12.2223C15.6125 12.8671 16.1363 13.3909 16.7811 13.3909C17.4258 13.3909 17.9496 12.8671 17.9496 12.2223C17.9496 11.5794 17.4258 11.0556 16.7811 11.0556C16.1363 11.0556 15.6125 11.5794 15.6125 12.2223Z\" fill=\"#200E32\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.02 2C6.21 2 2 6.74612 2 12.015C2 13.6975 2.49 15.4291 3.35 17.0115C3.51 17.2729 3.53 17.6024 3.42 17.9139L2.75 20.1572C2.6 20.698 3.06 21.0976 3.57 20.9374L5.59 20.3375C6.14 20.1572 6.57 20.3866 7.08 20.698C8.54 21.5583 10.36 22 12 22C16.96 22 22 18.1642 22 11.985C22 6.65598 17.7 2 12.02 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Chevron Down",
-    "tags": [
-      "chevron",
-      "down",
-      "arrow"
-    ],
+    "tags": ["chevron", "down", "arrow"],
     "componentName": "ChevronDown",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19 8.5L12 15.5L5 8.5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Chevron Down Circle",
-    "tags": [
-      "round",
-      "circle",
-      "chevron",
-      "down",
-      "arrow"
-    ],
+    "tags": ["round", "circle", "chevron", "down", "arrow"],
     "componentName": "ChevronDownCircle",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.75024 12C2.75024 17.108 6.89124 21.25 12.0002 21.25C17.1082 21.25 21.2502 17.108 21.2502 12C21.2502 6.892 17.1082 2.75 12.0002 2.75C6.89124 2.75 2.75024 6.892 2.75024 12Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.52905 10.5577L12.0001 14.0437L15.4711 10.5577\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Chevron Left",
-    "tags": [
-      "chevron",
-      "left",
-      "arrow"
-    ],
+    "tags": ["chevron", "left", "arrow"],
     "componentName": "ChevronLeft",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.5 19L8.5 12L15.5 5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Chevron Right",
-    "tags": [
-      "chevron",
-      "right",
-      "arrow"
-    ],
+    "tags": ["chevron", "right", "arrow"],
     "componentName": "ChevronRight",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.5 5L15.5 12L8.5 19\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Chevron Left Circle",
-    "tags": [
-      "round",
-      "circle",
-      "chevron",
-      "left",
-      "arrow"
-    ],
+    "tags": ["round", "circle", "chevron", "left", "arrow"],
     "componentName": "ChevronLeftCircle",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 2.75021C6.892 2.75021 2.75 6.89121 2.75 12.0002C2.75 17.1082 6.892 21.2502 12 21.2502C17.108 21.2502 21.25 17.1082 21.25 12.0002C21.25 6.89121 17.108 2.75021 12 2.75021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M13.4423 8.52902L9.95626 12L13.4423 15.471\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Chevron Up Circle",
-    "tags": [
-      "round",
-      "circle",
-      "chevron",
-      "up",
-      "arrow"
-    ],
+    "tags": ["round", "circle", "chevron", "up", "arrow"],
     "componentName": "ChevronUpCircle",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.2498 12C21.2498 6.892 17.1088 2.75 11.9998 2.75C6.89176 2.75 2.74976 6.892 2.74976 12C2.74976 17.108 6.89176 21.25 11.9998 21.25C17.1088 21.25 21.2498 17.108 21.2498 12Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.4709 13.4423L11.9999 9.95629L8.52895 13.4423\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Danger",
-    "tags": [
-      "dialog",
-      "danger",
-      "alert",
-      "warning"
-    ],
+    "tags": ["dialog", "danger", "alert", "warning"],
     "componentName": "Danger",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.2503 16.2696C11.2503 15.8556 11.5863 15.5136 12.0003 15.5136C12.4143 15.5136 12.7503 15.8446 12.7503 16.2586V16.2696C12.7503 16.6836 12.4143 17.0196 12.0003 17.0196C11.5863 17.0196 11.2503 16.6836 11.2503 16.2696Z\" fill=\"#200E32\"/>\n<path d=\"M4.79572 20.4179H19.2777C20.4247 20.3579 21.3067 19.3809 21.2477 18.2339C21.2347 18.0019 21.1847 17.7729 21.0967 17.5589L13.8197 4.82289C13.2637 3.81789 11.9987 3.45389 10.9937 4.01089C10.6517 4.19889 10.3697 4.48089 10.1807 4.82289L2.90372 17.5589C2.47172 18.6229 2.98372 19.8349 4.04672 20.2679C4.26272 20.3549 4.49072 20.4049 4.72272 20.4179\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.9899 13.3961V10.2961\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Close Square",
-    "tags": [
-      "close",
-      "cancel",
-      "delete",
-      "remove",
-      "times",
-      "clear",
-      "square"
-    ],
+    "tags": ["close", "cancel", "delete", "remove", "times", "clear", "square"],
     "componentName": "CloseSquare",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.3955 9.59491L9.60352 14.3869\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.397 14.3898L9.60101 9.5928\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3345 2.75021H7.66549C4.64449 2.75021 2.75049 4.88921 2.75049 7.91621V16.0842C2.75049 19.1112 4.63549 21.2502 7.66549 21.2502H16.3335C19.3645 21.2502 21.2505 19.1112 21.2505 16.0842V7.91621C21.2505 4.88921 19.3645 2.75021 16.3345 2.75021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Document",
-    "tags": [
-      "document",
-      "file",
-      "data"
-    ],
+    "tags": ["document", "file", "data"],
     "componentName": "Document",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.7162 16.2234H8.4962\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.7162 12.0369H8.4962\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.2513 7.86008H8.4963\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.9086 2.74979C15.9086 2.74979 8.2316 2.75379 8.2196 2.75379C5.4596 2.77079 3.7506 4.58679 3.7506 7.35679V16.5528C3.7506 19.3368 5.4726 21.1598 8.2566 21.1598C8.2566 21.1598 15.9326 21.1568 15.9456 21.1568C18.7056 21.1398 20.4156 19.3228 20.4156 16.5528V7.35679C20.4156 4.57279 18.6926 2.74979 15.9086 2.74979Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Discovery",
-    "tags": [
-      "discovery",
-      "explore",
-      "discover"
-    ],
+    "tags": ["discovery", "explore", "discover"],
     "componentName": "Discovery",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.27002 14.9519L9.8627 9.8627L14.9519 8.27002L13.3593 13.3593L8.27002 14.9519Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<circle cx=\"11.611\" cy=\"11.611\" r=\"9.61098\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Download",
-    "tags": [
-      "download",
-      "upload"
-    ],
+    "tags": ["download", "upload"],
     "componentName": "Download",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.1222 15.4361L12.1222 3.39511\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.0382 12.5084L12.1222 15.4364L9.20621 12.5084\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M16.755 8.12802H17.688C19.723 8.12802 21.372 9.77702 21.372 11.813V16.697C21.372 18.727 19.727 20.372 17.697 20.372L6.55701 20.372C4.52201 20.372 2.87201 18.722 2.87201 16.687V11.802C2.87201 9.77302 4.51801 8.12802 6.54701 8.12802L7.48901 8.12802\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Edit Square",
-    "tags": [
-      "edit",
-      "pencil",
-      "update",
-      "square"
-    ],
+    "tags": ["edit", "pencil", "update", "square"],
     "componentName": "EditSquare",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4923 2.789H7.7533C4.6783 2.789 2.75031 4.966 2.75031 8.048V16.362C2.75031 19.444 4.6693 21.621 7.7533 21.621H16.5773C19.6623 21.621 21.5813 19.444 21.5813 16.362V12.334\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.8278 10.9209L16.3008 3.4479C17.2318 2.5179 18.7408 2.5179 19.6718 3.4479L20.8888 4.6649C21.8198 5.5959 21.8198 7.1059 20.8888 8.0359L13.3798 15.5449C12.9728 15.9519 12.4208 16.1809 11.8448 16.1809H8.0988L8.1928 12.4009C8.2068 11.8449 8.4338 11.3149 8.8278 10.9209Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.1652 4.60251L19.7312 9.16851\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Chevron Right Circle",
-    "tags": [
-      "round",
-      "chevron",
-      "right",
-      "arrow"
-    ],
+    "tags": ["round", "chevron", "right", "arrow"],
     "componentName": "ChevronRightCircle",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 21.2498C17.108 21.2498 21.25 17.1088 21.25 11.9998C21.25 6.89179 17.108 2.74979 12 2.74979C6.892 2.74979 2.75 6.89179 2.75 11.9998C2.75 17.1088 6.892 21.2498 12 21.2498Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10.5577 15.471L14.0437 12L10.5577 8.52898\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Discount",
-    "tags": [
-      "discount",
-      "bargain",
-      "percent"
-    ],
+    "tags": ["discount", "bargain", "percent"],
     "componentName": "Discount",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.79432 7.05581C4.79432 5.80681 5.80732 4.79381 7.05532 4.79381H8.08432C8.68032 4.79381 9.25332 4.55781 9.67732 4.13681L10.3963 3.41681C11.2773 2.53181 12.7093 2.52781 13.5943 3.40881L13.6033 3.41681L14.3233 4.13681C14.7463 4.55781 15.3193 4.79381 15.9163 4.79381H16.9443C18.1933 4.79381 19.2063 5.80681 19.2063 7.05581V8.08281C19.2063 8.68081 19.4423 9.25281 19.8633 9.67681L20.5833 10.3968C21.4683 11.2778 21.4733 12.7088 20.5923 13.5948L20.5833 13.6038L19.8633 14.3238C19.4423 14.7458 19.2063 15.3198 19.2063 15.9158V16.9448C19.2063 18.1938 18.1933 19.2058 16.9443 19.2058H15.9163C15.3193 19.2058 14.7463 19.4428 14.3233 19.8638L13.6033 20.5828C12.7233 21.4688 11.2913 21.4728 10.4053 20.5918C10.4023 20.5888 10.3993 20.5858 10.3963 20.5828L9.67732 19.8638C9.25332 19.4428 8.68032 19.2058 8.08432 19.2058H7.05532C5.80732 19.2058 4.79432 18.1938 4.79432 16.9448V15.9158C4.79432 15.3198 4.55732 14.7458 4.13632 14.3238L3.41732 13.6038C2.53132 12.7228 2.52732 11.2908 3.40832 10.4058L3.41732 10.3968L4.13632 9.67681C4.55732 9.25281 4.79432 8.68081 4.79432 8.08281V7.05581\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M9.42999 14.5695L14.57 9.4295\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.5667 15.3224C14.3667 15.3224 14.1767 15.2424 14.0367 15.1024C13.9667 15.0324 13.9167 14.9424 13.8767 14.8524C13.8367 14.7624 13.8167 14.6734 13.8167 14.5724C13.8167 14.4724 13.8367 14.3724 13.8767 14.2824C13.9167 14.1924 13.9667 14.1124 14.0367 14.0424C14.3167 13.7624 14.8167 13.7624 15.0967 14.0424C15.1667 14.1124 15.2267 14.1924 15.2667 14.2824C15.2967 14.3724 15.3167 14.4724 15.3167 14.5724C15.3167 14.6734 15.2967 14.7624 15.2667 14.8524C15.2267 14.9424 15.1667 15.0324 15.0967 15.1024C14.9567 15.2424 14.7667 15.3224 14.5667 15.3224Z\" fill=\"#200E32\"/>\n<path d=\"M9.42664 10.1828C9.32664 10.1828 9.23664 10.1618 9.14664 10.1218C9.05664 10.0818 8.96664 10.0328 8.89664 9.9628C8.82664 9.8828 8.77664 9.8028 8.73664 9.7128C8.69664 9.6218 8.67664 9.5328 8.67664 9.4328C8.67664 9.3318 8.69664 9.2328 8.73664 9.1428C8.77664 9.0528 8.82664 8.9628 8.89664 8.9028C9.18664 8.6218 9.67664 8.6218 9.95664 8.9028C10.0966 9.0418 10.1766 9.2328 10.1766 9.4328C10.1766 9.5328 10.1666 9.6218 10.1266 9.7128C10.0866 9.8028 10.0266 9.8828 9.95664 9.9628C9.88664 10.0328 9.80664 10.0818 9.71664 10.1218C9.62664 10.1618 9.52664 10.1828 9.42664 10.1828Z\" fill=\"#200E32\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Edit",
-    "tags": [
-      "edit",
-      "pencil",
-      "update"
-    ],
+    "tags": ["edit", "pencil", "update"],
     "componentName": "Edit",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.6996 19.8981H20.0766\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.8549 4.9557C13.5919 4.0167 14.7829 4.0657 15.7229 4.8027L17.1129 5.8927C18.0529 6.6297 18.3859 7.7727 17.6489 8.7137L9.3599 19.2887C9.0829 19.6427 8.6599 19.8517 8.2099 19.8567L5.0129 19.8977L4.2889 16.7827C4.1869 16.3457 4.2889 15.8857 4.5659 15.5307L12.8549 4.9557Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.3026 6.9361L16.0966 10.6941\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Delete",
-    "tags": [
-      "close",
-      "cancel",
-      "delete",
-      "remove",
-      "times",
-      "clear"
-    ],
+    "tags": ["close", "cancel", "delete", "remove", "times", "clear"],
     "componentName": "Delete",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19.3249 9.4682C19.3249 9.4682 18.7819 16.2032 18.4669 19.0402C18.3169 20.3952 17.4799 21.1892 16.1089 21.2142C13.4999 21.2612 10.8879 21.2642 8.2799 21.2092C6.9609 21.1822 6.1379 20.3782 5.9909 19.0472C5.6739 16.1852 5.1339 9.4682 5.1339 9.4682\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M20.7082 6.23972H3.7502\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M17.4406 6.2397C16.6556 6.2397 15.9796 5.6847 15.8256 4.9157L15.5826 3.6997C15.4326 3.1387 14.9246 2.7507 14.3456 2.7507H10.1126C9.5336 2.7507 9.0256 3.1387 8.8756 3.6997L8.6326 4.9157C8.4786 5.6847 7.8026 6.2397 7.0176 6.2397\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Filter 2",
-    "tags": [
-      "filter 2",
-      "filter",
-      "search",
-      "funnel",
-      "hopper"
-    ],
+    "tags": ["filter 2", "filter", "search", "funnel", "hopper"],
     "componentName": "Filter2",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.29332 22L14.0696 19.7519V13.8603L21.5593 6.26456C21.8416 5.97995 22 5.58933 22 5.18027V3.51754C22 2.67869 21.3417 2 20.5295 2H3.47049C2.65826 2 2 2.67869 2 3.51754V5.2183C2 5.60431 2.14169 5.97534 2.39719 6.2565L9.29332 13.8603V22Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Filter",
-    "tags": [
-      "filter",
-      "search",
-      "funnel",
-      "hopper"
-    ],
+    "tags": ["filter", "search", "funnel", "hopper"],
     "componentName": "Filter",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.1172 17.9866H2.88306\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.1179 17.9866C21.1179 19.5772 19.8285 20.8666 18.2379 20.8666C16.6473 20.8666 15.3579 19.5772 15.3579 17.9866C15.3579 16.3948 16.6473 15.1066 18.2379 15.1066C19.8285 15.1066 21.1179 16.3948 21.1179 17.9866Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M13.8827 6.26212H21.118\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.8826 6.26211C2.8826 7.85388 4.17201 9.14211 5.7626 9.14211C7.35319 9.14211 8.6426 7.85388 8.6426 6.26211C8.6426 4.67152 7.35319 3.38211 5.7626 3.38211C4.17201 3.38211 2.8826 4.67152 2.8826 6.26211Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Folder",
-    "tags": [
-      "folder",
-      "directory"
-    ],
+    "tags": ["folder", "directory"],
     "componentName": "Folder",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.4446 15.7579C21.4446 19.336 19.336 21.4446 15.7579 21.4446H7.97172C4.38443 21.4446 2.27588 19.336 2.27588 15.7579V7.9626C2.27588 4.38444 3.5903 2.27588 7.16846 2.27588H9.16749C9.88576 2.27588 10.5621 2.61406 10.9931 3.18868L11.9059 4.40269C12.3378 4.97618 13.0135 5.31406 13.7315 5.31549H16.5611C20.1484 5.31549 21.472 7.14108 21.472 10.7923L21.4446 15.7579Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7.05893 14.4891H16.6524\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Graph",
-    "tags": [
-      "graph",
-      "activity",
-      "metrics",
-      "dashboard"
-    ],
+    "tags": ["graph", "activity", "metrics", "dashboard"],
     "componentName": "Graph",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.524 9.75287C20.8849 5.81947 17.5439 2.89324 13.5606 2.77804C13.3712 2.77062 13.1867 2.83881 13.0476 2.96758C12.9085 3.09635 12.8264 3.27514 12.8192 3.46454V3.46454V3.52862L13.2677 10.238C13.2971 10.6897 13.6854 11.033 14.1373 11.0069L20.865 10.5584C21.0545 10.5443 21.2307 10.4553 21.3544 10.311C21.4781 10.1667 21.5392 9.97897 21.524 9.78949V9.75287Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.9016 6.76889C9.32956 6.6699 9.7675 6.88887 9.94508 7.29063C9.9916 7.38512 10.0196 7.48766 10.0275 7.59269C10.119 8.89246 10.3112 11.7391 10.4211 13.2769C10.4398 13.5539 10.5682 13.812 10.7778 13.9941C10.9873 14.1762 11.2608 14.2673 11.5378 14.2472V14.2472L17.1854 13.8993C17.4375 13.8842 17.6847 13.9739 17.8684 14.1472C18.0521 14.3205 18.1561 14.5621 18.1556 14.8147V14.8147C17.9267 18.225 15.4765 21.0761 12.1393 21.8151C8.80211 22.5541 5.37727 21.0041 3.72998 18.0092C3.23823 17.1472 2.92681 16.1943 2.81464 15.2083C2.76669 14.9056 2.7483 14.5991 2.75972 14.2929C2.76944 10.6509 5.32723 7.51285 8.89245 6.76889\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Game",
-    "tags": [
-      "game",
-      "play",
-      "console"
-    ],
+    "tags": ["game", "play", "console"],
     "componentName": "Game",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.84825 12.314V16.059\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10.759 14.1867H6.9379\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.3661 12.428H15.2591\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M17.1796 16.0026H17.0726\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.07217 2C8.07217 2.74048 8.68466 3.34076 9.44019 3.34076H10.4967C11.6623 3.34492 12.6065 4.27026 12.6118 5.41266V6.08771\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.4283 21.9626C13.4231 22.0135 10.473 22.0114 7.57275 21.9626C4.3535 21.9626 2 19.6664 2 16.5113V11.8617C2 8.70661 4.3535 6.41038 7.57275 6.41038C10.4889 6.36053 13.4411 6.36157 16.4283 6.41038C19.6476 6.41038 22 8.70764 22 11.8617V16.5113C22 19.6664 19.6476 21.9626 16.4283 21.9626Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Heart 2",
-    "tags": [
-      "heart 2",
-      "heart",
-      "love",
-      "like",
-      "emotion"
-    ],
+    "tags": ["heart 2", "heart", "love", "like", "emotion"],
     "componentName": "Heart2",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.761 20.8538C9.5904 19.5179 7.57111 17.9456 5.73929 16.1652C4.45144 14.8829 3.47101 13.3198 2.8731 11.5954C1.79714 8.25031 3.05393 4.42083 6.57112 3.28752C8.41961 2.69243 10.4384 3.03255 11.9961 4.20148C13.5543 3.03398 15.5725 2.69398 17.4211 3.28752C20.9383 4.42083 22.2041 8.25031 21.1281 11.5954C20.5302 13.3198 19.5498 14.8829 18.2619 16.1652C16.4301 17.9456 14.4108 19.5179 12.2402 20.8538L12.0051 21L11.761 20.8538Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.7393 7.05301C16.8046 7.39331 17.5615 8.34971 17.6561 9.47499\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Hide",
-    "tags": [
-      "hide",
-      "eye",
-      "visibility",
-      "hidden"
-    ],
+    "tags": ["hide", "eye", "visibility", "hidden"],
     "componentName": "Hide",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.7606 14.3668C9.1856 13.7928 8.8356 13.0128 8.8356 12.1378C8.8356 10.3848 10.2476 8.9718 11.9996 8.9718C12.8666 8.9718 13.6646 9.3228 14.2296 9.8968\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.1048 12.6989C14.8728 13.9889 13.8568 15.0069 12.5678 15.2409\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.6546 17.4723C5.0676 16.2263 3.7236 14.4063 2.7496 12.1373C3.7336 9.85829 5.0866 8.02829 6.6836 6.77229C8.2706 5.51629 10.1016 4.83429 11.9996 4.83429C13.9086 4.83429 15.7386 5.52629 17.3356 6.79129\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M19.4476 8.99081C20.1356 9.90481 20.7406 10.9598 21.2496 12.1368C19.2826 16.6938 15.8066 19.4388 11.9996 19.4388C11.1366 19.4388 10.2856 19.2988 9.46759 19.0258\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M19.887 4.2496L4.11301 20.0236\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Heart",
-    "tags": [
-      "heart",
-      "love",
-      "like",
-      "emotion"
-    ],
+    "tags": ["heart", "love", "like", "emotion"],
     "componentName": "Heart",
     "svgPath": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20.539\" height=\"19.536\" viewBox=\"0 0 20.539 19.536\">\n  <g id=\"Iconly_Light_Heart\" data-name=\"Iconly/Light/Heart\" transform=\"translate(0.769 0.786)\">\n    <g id=\"Heart\">\n      <path id=\"Path_33961\" d=\"M9.261,17.854a34.84,34.84,0,0,1-6.022-4.689A11.99,11.99,0,0,1,.373,8.6C-.7,5.25.554,1.421,4.071.288A5.978,5.978,0,0,1,9.5,1.2h0A5.987,5.987,0,0,1,14.921.288C18.438,1.421,19.7,5.25,18.628,8.6a11.99,11.99,0,0,1-2.866,4.57A34.84,34.84,0,0,1,9.74,17.854L9.505,18Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#200e32\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    </g>\n  </g>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Chevron Up",
-    "tags": [
-      "chevron",
-      "up",
-      "arrow"
-    ],
+    "tags": ["chevron", "up", "arrow"],
     "componentName": "ChevronUp",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 15.5L12 8.5L19 15.5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Home",
-    "tags": [
-      "home",
-      "house",
-      "living"
-    ],
+    "tags": ["home", "house", "living"],
     "componentName": "Home",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.15722 20.7714V17.7047C9.1572 16.9246 9.79312 16.2908 10.581 16.2856H13.4671C14.2587 16.2856 14.9005 16.9209 14.9005 17.7047V17.7047V20.7809C14.9003 21.4432 15.4343 21.9845 16.103 22H18.0271C19.9451 22 21.5 20.4607 21.5 18.5618V18.5618V9.83784C21.4898 9.09083 21.1355 8.38935 20.538 7.93303L13.9577 2.6853C12.8049 1.77157 11.1662 1.77157 10.0134 2.6853L3.46203 7.94256C2.86226 8.39702 2.50739 9.09967 2.5 9.84736V18.5618C2.5 20.4607 4.05488 22 5.97291 22H7.89696C8.58235 22 9.13797 21.4499 9.13797 20.7714V20.7714\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Image",
-    "tags": [
-      "image",
-      "picture",
-      "photo"
-    ],
+    "tags": ["image", "picture", "photo"],
     "componentName": "Image",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.21 7.89979V16.0498C21.21 19.0698 19.32 21.1998 16.3 21.1998H7.65C4.63 21.1998 2.75 19.0698 2.75 16.0498V7.89979C2.75 4.87979 4.64 2.75079 7.65 2.75079H16.3C19.32 2.75079 21.21 4.87979 21.21 7.89979Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M5.28131 16.4321L6.81031 14.8191C7.36131 14.2371 8.28631 14.2341 8.84231 14.8111L9.72731 15.7141C10.3243 16.3231 11.3173 16.2791 11.8583 15.6201L14.0873 12.9091C14.7273 12.1301 15.9013 12.0821 16.6023 12.8051L18.6783 14.9471\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.3135 9.13419C10.3135 10.1022 9.52752 10.8882 8.55952 10.8882C7.59152 10.8882 6.80652 10.1022 6.80652 9.13419C6.80652 8.16619 7.59152 7.38019 8.55952 7.38019C9.52752 7.38019 10.3135 8.16619 10.3135 9.13419Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Info Square",
-    "tags": [
-      "info",
-      "alert",
-      "square"
-    ],
+    "tags": ["info", "alert", "square"],
     "componentName": "InfoSquare",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.9899 15.7961V11.3771\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.9899 8.20432H11.9999\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3346 2.75021H7.66561C4.64461 2.75021 2.75061 4.88921 2.75061 7.91621V16.0842C2.75061 19.1112 4.63561 21.2502 7.66561 21.2502H16.3336C19.3646 21.2502 21.2506 19.1112 21.2506 16.0842V7.91621C21.2506 4.88921 19.3646 2.75021 16.3346 2.75021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
@@ -668,78 +435,42 @@
   {
     "set": "light",
     "name": "Lock",
-    "tags": [
-      "lock",
-      "security",
-      "password",
-      "login",
-      "auth"
-    ],
+    "tags": ["lock", "security", "password", "login", "auth"],
     "componentName": "Lock",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16.4234 9.4478V7.3008C16.4234 4.7878 14.3854 2.7498 11.8724 2.7498C9.35937 2.7388 7.31337 4.7668 7.30237 7.2808V7.3008V9.4478\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.6832 21.2496H8.04218C5.94818 21.2496 4.25018 19.5526 4.25018 17.4576V13.1686C4.25018 11.0736 5.94818 9.37659 8.04218 9.37659H15.6832C17.7772 9.37659 19.4752 11.0736 19.4752 13.1686V17.4576C19.4752 19.5526 17.7772 21.2496 15.6832 21.2496Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.8629 14.2027V16.4237\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Login",
-    "tags": [
-      "login",
-      "in",
-      "sign",
-      "auth",
-      "secure",
-      "arrow"
-    ],
+    "tags": ["login", "in", "sign", "auth", "secure", "arrow"],
     "componentName": "Login",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.8125 12.0218H3.77148\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.8848 9.1058L15.8128 12.0218L12.8848 14.9378\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.50439 7.389V6.456C8.50439 4.421 10.1534 2.772 12.1894 2.772H17.0734C19.1034 2.772 20.7484 4.417 20.7484 6.447V17.587C20.7484 19.622 19.0984 21.272 17.0634 21.272H12.1784C10.1494 21.272 8.50439 19.626 8.50439 17.597V16.655\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Logout",
-    "tags": [
-      "logout",
-      "login",
-      "auth",
-      "sign",
-      "out",
-      "arrow"
-    ],
+    "tags": ["logout", "login", "auth", "sign", "out", "arrow"],
     "componentName": "Logout",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.016 7.38951V6.45651C15.016 4.42151 13.366 2.77151 11.331 2.77151H6.45597C4.42197 2.77151 2.77197 4.42151 2.77197 6.45651V17.5865C2.77197 19.6215 4.42197 21.2715 6.45597 21.2715H11.341C13.37 21.2715 15.016 19.6265 15.016 17.5975V16.6545\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M21.8095 12.0214H9.76849\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.8812 9.10632L21.8092 12.0213L18.8812 14.9373\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Message",
-    "tags": [
-      "message",
-      "chat",
-      "email",
-      "mail"
-    ],
+    "tags": ["message", "chat", "email", "mail"],
     "componentName": "Message",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.2677 9.06113L13.0023 12.4954C12.1951 13.1283 11.0635 13.1283 10.2563 12.4954L5.95424 9.06113\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.88787 3.5H16.3158C17.6752 3.51525 18.969 4.08993 19.896 5.0902C20.823 6.09048 21.3022 7.42903 21.222 8.79412V15.322C21.3022 16.6871 20.823 18.0256 19.896 19.0259C18.969 20.0262 17.6752 20.6009 16.3158 20.6161H6.88787C3.96796 20.6161 2 18.2407 2 15.322V8.79412C2 5.87545 3.96796 3.5 6.88787 3.5Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "More Square",
-    "tags": [
-      "more",
-      "square",
-      "dots",
-      "menu"
-    ],
+    "tags": ["more", "square", "dots", "menu"],
     "componentName": "MoreSquare",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3347 2.75021H7.66567C4.64467 2.75021 2.75067 4.88921 2.75067 7.91621V16.0842C2.75067 19.1112 4.63467 21.2502 7.66567 21.2502H16.3337C19.3647 21.2502 21.2507 19.1112 21.2507 16.0842V7.91621C21.2507 4.88921 19.3647 2.75021 16.3347 2.75021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7.52075 13.1974C6.85975 13.1974 6.32275 12.6604 6.32275 12.0004C6.32275 11.3404 6.85975 10.8024 7.52075 10.8024C8.18175 10.8024 8.71875 11.3404 8.71875 12.0004C8.71875 12.6604 8.18175 13.1974 7.52075 13.1974Z\" fill=\"#200E32\"/>\n<path d=\"M12.0002 13.1974C11.3392 13.1974 10.8022 12.6604 10.8022 12.0004C10.8022 11.3404 11.3392 10.8024 12.0002 10.8024C12.6612 10.8024 13.1982 11.3404 13.1982 12.0004C13.1982 12.6604 12.6612 13.1974 12.0002 13.1974Z\" fill=\"#200E32\"/>\n<path d=\"M16.4792 13.1974C15.8182 13.1974 15.2812 12.6604 15.2812 12.0004C15.2812 11.3404 15.8182 10.8024 16.4792 10.8024C17.1402 10.8024 17.6772 11.3404 17.6772 12.0004C17.6772 12.6604 17.1402 13.1974 16.4792 13.1974Z\" fill=\"#200E32\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Notification",
-    "tags": [
-      "notification",
-      "sound",
-      "silent",
-      "bell",
-      "alarm"
-    ],
+    "tags": ["notification", "sound", "silent", "bell", "alarm"],
     "componentName": "Notification",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.50083 13.7871V13.5681C3.53295 12.9202 3.7406 12.2925 4.10236 11.7496C4.7045 11.0975 5.1167 10.2983 5.29571 9.43598C5.29571 8.7695 5.29571 8.0935 5.35393 7.42703C5.65469 4.21842 8.82728 2 11.9611 2H12.0387C15.1725 2 18.345 4.21842 18.6555 7.42703C18.7137 8.0935 18.6555 8.7695 18.704 9.43598C18.8854 10.3003 19.2972 11.1019 19.8974 11.7591C20.2618 12.2972 20.4698 12.9227 20.4989 13.5681V13.7776C20.5206 14.648 20.2208 15.4968 19.6548 16.1674C18.907 16.9515 17.8921 17.4393 16.8024 17.5384C13.607 17.8812 10.383 17.8812 7.18762 17.5384C6.09914 17.435 5.08576 16.9479 4.33521 16.1674C3.778 15.4963 3.48224 14.6526 3.50083 13.7871Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M9.55493 20.8518C10.0542 21.4784 10.7874 21.884 11.5922 21.9787C12.3971 22.0734 13.2072 21.8495 13.8433 21.3564C14.0389 21.2106 14.2149 21.041 14.3672 20.8518\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
@@ -762,257 +493,147 @@
   {
     "set": "light",
     "name": "Image 2",
-    "tags": [
-      "image",
-      "picture",
-      "photo"
-    ],
+    "tags": ["image", "picture", "photo"],
     "componentName": "Image2",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3034 2.75031H7.65443C4.63943 2.75031 2.75043 4.88431 2.75043 7.9043V16.0533C2.75043 19.0733 4.63143 21.2073 7.65443 21.2073H16.3024C19.3264 21.2073 21.2074 19.0733 21.2074 16.0533V7.9043C21.2074 4.88431 19.3264 2.75031 16.3034 2.75031Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.7033 8.78551C10.7033 9.80451 9.87633 10.6315 8.85733 10.6315C7.83933 10.6315 7.01233 9.80451 7.01233 8.78551C7.01233 7.76651 7.83933 6.93951 8.85733 6.93951C9.87633 6.93951 10.7033 7.76651 10.7033 8.78551Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M21.2068 14.9505C20.2128 14.0855 19.3478 13.0445 18.2078 12.3575C17.0658 11.6705 15.8388 12.0945 15.0468 13.1195C14.2818 14.1105 13.8038 15.4435 12.6488 16.0685C11.2258 16.8395 10.3898 15.5965 9.20276 15.0985C7.87776 14.5435 6.87176 15.5415 6.09776 16.5005C5.32276 17.4605 4.53776 18.4105 3.74976 19.3605\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Paper Negative",
-    "tags": [
-      "paper",
-      "document",
-      "file",
-      "negative",
-      "minus"
-    ],
+    "tags": ["paper", "document", "file", "negative", "minus"],
     "componentName": "PaperNegative",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7365 2.7619H8.08449C6.02449 2.7619 4.25049 4.4309 4.25049 6.4909V17.3399C4.25049 19.5159 5.90849 21.1149 8.08449 21.1149H16.0725C18.1325 21.1149 19.8025 19.3999 19.8025 17.3399V8.0379L14.7365 2.7619Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.4738 2.75021V5.65921C14.4738 7.07921 15.6228 8.23121 17.0428 8.23421C18.3588 8.23721 19.7058 8.23821 19.7968 8.23221\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.2941 13.7472H9.39307\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "More Circle",
-    "tags": [
-      "more",
-      "circle",
-      "dots",
-      "menu"
-    ],
+    "tags": ["more", "circle", "dots", "menu"],
     "componentName": "MoreCircle",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.0002 2.75021C17.1082 2.75021 21.2502 6.89221 21.2502 12.0002C21.2502 17.1082 17.1082 21.2502 12.0002 21.2502C6.89118 21.2502 2.75018 17.1082 2.75018 12.0002C2.75018 6.89221 6.89118 2.75021 12.0002 2.75021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7.52069 13.1974C6.85969 13.1974 6.32269 12.6604 6.32269 12.0004C6.32269 11.3404 6.85969 10.8024 7.52069 10.8024C8.18169 10.8024 8.71869 11.3404 8.71869 12.0004C8.71869 12.6604 8.18169 13.1974 7.52069 13.1974Z\" fill=\"#200E32\"/>\n<path d=\"M12.0002 13.1974C11.3392 13.1974 10.8022 12.6604 10.8022 12.0004C10.8022 11.3404 11.3392 10.8024 12.0002 10.8024C12.6612 10.8024 13.1982 11.3404 13.1982 12.0004C13.1982 12.6604 12.6612 13.1974 12.0002 13.1974Z\" fill=\"#200E32\"/>\n<path d=\"M16.4792 13.1974C15.8182 13.1974 15.2812 12.6604 15.2812 12.0004C15.2812 11.3404 15.8182 10.8024 16.4792 10.8024C17.1402 10.8024 17.6772 11.3404 17.6772 12.0004C17.6772 12.6604 17.1402 13.1974 16.4792 13.1974Z\" fill=\"#200E32\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Info Circle",
-    "tags": [
-      "info",
-      "alert",
-      "circle"
-    ],
+    "tags": ["info", "alert", "circle"],
     "componentName": "InfoCircle",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9999 2.75021C17.1089 2.75021 21.2499 6.89221 21.2499 12.0002C21.2499 17.1082 17.1089 21.2502 11.9999 21.2502C6.89188 21.2502 2.74988 17.1082 2.74988 12.0002C2.74988 6.89221 6.89188 2.75021 11.9999 2.75021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.995 8.20432V12.6233\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.995 15.7961H12.005\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Paper",
-    "tags": [
-      "paper",
-      "document",
-      "file"
-    ],
+    "tags": ["paper", "document", "file"],
     "componentName": "Paper",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7367 2.7619H8.08369C6.02469 2.7619 4.24969 4.4309 4.24969 6.4909V17.2039C4.24969 19.3799 5.90869 21.1149 8.08369 21.1149H16.0727C18.1327 21.1149 19.8017 19.2649 19.8017 17.2039V8.0379L14.7367 2.7619Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.474 2.75021V5.65921C14.474 7.07921 15.623 8.23121 17.042 8.23421C18.359 8.23721 19.706 8.23821 19.797 8.23221\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.284 15.5578H8.88699\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.2425 10.6056H8.88651\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Paper Fail",
-    "tags": [
-      "paper",
-      "document",
-      "file",
-      "fail"
-    ],
+    "tags": ["paper", "document", "file", "fail"],
     "componentName": "PaperFail",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7366 2.7619H7.97857C5.91957 2.7619 4.24957 4.4309 4.24957 6.4909V17.3399C4.24957 19.5159 6.01357 21.1149 8.18957 21.1149H16.0726C18.1326 21.1149 19.8016 19.3999 19.8016 17.3399V8.0379L14.7366 2.7619Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.4739 2.75021V5.65921C14.4739 7.07921 15.6229 8.23121 17.0419 8.23421C18.3589 8.23721 19.7059 8.23821 19.7969 8.23221\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M13.5764 14.6476L10.1104 11.1816\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10.1106 14.6476L13.5766 11.1816\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Paper Download",
-    "tags": [
-      "paper",
-      "document",
-      "file",
-      "download"
-    ],
+    "tags": ["paper", "document", "file", "download"],
     "componentName": "PaperDownload",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7364 2.7619H8.08443C6.02543 2.7619 4.25043 4.4309 4.25043 6.4909V17.2279C4.25043 19.4039 5.90843 21.1149 8.08443 21.1149H16.0724C18.1324 21.1149 19.8024 19.2879 19.8024 17.2279V8.0379L14.7364 2.7619Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.4738 2.75021V5.65921C14.4738 7.07921 15.6228 8.23121 17.0428 8.23421C18.3588 8.23721 19.7058 8.23821 19.7968 8.23221\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.6407 16.0138V9.44083\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.80231 13.1632L11.6403 16.0142L14.4793 13.1632\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Password",
-    "tags": [
-      "password",
-      "lock",
-      "secure",
-      "auth",
-      "sign",
-      "login"
-    ],
+    "tags": ["password", "lock", "secure", "auth", "sign", "login"],
     "componentName": "Password",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3344 2.75021H7.66543C4.64443 2.75021 2.75043 4.88921 2.75043 7.91621V16.0842C2.75043 19.1112 4.63543 21.2502 7.66543 21.2502H16.3334C19.3644 21.2502 21.2504 19.1112 21.2504 16.0842V7.91621C21.2504 4.88921 19.3644 2.75021 16.3344 2.75021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.6923 12.0002C10.6923 13.0222 9.86332 13.8522 8.84032 13.8522C7.81832 13.8522 6.98932 13.0222 6.98932 12.0002C6.98932 10.9782 7.81832 10.1482 8.84032 10.1482C9.86332 10.1482 10.6923 10.9782 10.6923 12.0002Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10.6923 12.0002H17.0103V13.8522\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.1816 13.8517V11.9997\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Play",
-    "tags": [
-      "play",
-      "start",
-      "music"
-    ],
+    "tags": ["play", "start", "music"],
     "componentName": "Play",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 2C17.5228 2 22 6.47716 22 12C22 17.5228 17.5228 22 12 22C6.47716 22 2 17.5228 2 12C2 6.47716 6.47716 2 12 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.0501 12.4669C14.3211 13.2529 12.3371 14.5829 11.3221 15.0099C11.1601 15.0779 10.7471 15.2219 10.6581 15.2239C10.4691 15.2299 10.2871 15.1239 10.1991 14.9539C10.1651 14.8879 10.0651 14.4569 10.0331 14.2649C9.93811 13.6809 9.88911 12.7739 9.89011 11.8619C9.88911 10.9049 9.94211 9.95489 10.0481 9.37689C10.0761 9.22089 10.1581 8.86189 10.1821 8.80389C10.2271 8.69589 10.3091 8.61089 10.4081 8.55789C10.4841 8.51689 10.5711 8.49489 10.6581 8.49789C10.7471 8.49989 11.1091 8.62689 11.2331 8.67589C12.2111 9.05589 14.2801 10.4339 15.0401 11.2439C15.1081 11.3169 15.2951 11.5129 15.3261 11.5529C15.3971 11.6429 15.4321 11.7519 15.4321 11.8619C15.4321 11.9639 15.4011 12.0679 15.3371 12.1549C15.3041 12.1999 15.1131 12.3999 15.0501 12.4669Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "People",
-    "tags": [
-      "people",
-      "users",
-      "group"
-    ],
+    "tags": ["people", "users", "group"],
     "componentName": "People",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.5948 10.9319C19.1972 10.9319 20.497 9.63295 20.497 8.03061C20.497 6.42828 19.1972 5.12936 17.5948 5.12936\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.9291 14.0847C19.4076 14.1177 19.8833 14.1856 20.3517 14.291C21.0026 14.4184 21.7854 14.6852 22.0641 15.2691C22.2419 15.6431 22.2419 16.0785 22.0641 16.4534C21.7863 17.0373 21.0026 17.3032 20.3517 17.437\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.28998 10.9319C4.68765 10.9319 3.38782 9.63295 3.38782 8.03061C3.38782 6.42828 4.68765 5.12936 6.28998 5.12936\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M4.95577 14.0847C4.47727 14.1177 4.00152 14.1856 3.5331 14.291C2.88227 14.4184 2.09943 14.6852 1.82168 15.2691C1.64293 15.6431 1.64293 16.0785 1.82168 16.4534C2.09852 17.0373 2.88227 17.3032 3.5331 17.437\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9377 14.7096C15.1846 14.7096 17.9584 15.2009 17.9584 17.1671C17.9584 19.1325 15.2029 19.6421 11.9377 19.6421C8.68997 19.6421 5.91705 19.1508 5.91705 17.1846C5.91705 15.2183 8.67255 14.7096 11.9377 14.7096Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9377 11.9049C9.79638 11.9049 8.07947 10.188 8.07947 8.04575C8.07947 5.90442 9.79638 4.1875 11.9377 4.1875C14.0791 4.1875 15.796 5.90442 15.796 8.04575C15.796 10.188 14.0791 11.9049 11.9377 11.9049Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Plus",
-    "tags": [
-      "symbol",
-      "plus",
-      "add",
-      "positive"
-    ],
+    "tags": ["symbol", "plus", "add", "positive"],
     "componentName": "Plus",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 8.3273V15.6537\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.6667 11.9905H8.33333\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6857 2H7.31429C4.04762 2 2 4.31208 2 7.58516V16.4148C2 19.6879 4.0381 22 7.31429 22H16.6857C19.9619 22 22 19.6879 22 16.4148V7.58516C22 4.31208 19.9619 2 16.6857 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Paper Plus",
-    "tags": [
-      "add",
-      "paper",
-      "document",
-      "file",
-      "positive",
-      "plus"
-    ],
+    "tags": ["add", "paper", "document", "file", "positive", "plus"],
     "componentName": "PaperPlus",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7363 2.7619H8.08431C6.02531 2.7619 4.25031 4.4309 4.25031 6.4909V17.3399C4.25031 19.5159 5.90831 21.1149 8.08431 21.1149H16.0723C18.1323 21.1149 19.8023 19.3999 19.8023 17.3399V8.0379L14.7363 2.7619Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.4736 2.75021V5.65921C14.4736 7.07921 15.6226 8.23121 17.0426 8.23421C18.3586 8.23721 19.7056 8.23821 19.7966 8.23221\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.2944 12.9142H9.39343\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.8437 15.3654V10.4644\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Scan",
-    "tags": [
-      "scan",
-      "read",
-      "qr",
-      "printer",
-      "scanner"
-    ],
+    "tags": ["scan", "read", "qr", "printer", "scanner"],
     "componentName": "Scan",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M22.6315 13.0144H1.5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M20.7501 8.7779V6.82514C20.7501 4.996 19.2541 3.5 17.425 3.5H15.7812\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M3.38152 8.7779V6.82095C3.38152 4.98867 4.866 3.50314 6.69829 3.50105L8.37867 3.5\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M20.7501 13.0144V17.5453C20.7501 19.3734 19.2541 20.8705 17.425 20.8705H15.7812\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M3.38152 13.0144V17.5495C3.38152 19.3818 4.866 20.8673 6.69829 20.8694L8.37867 20.8705\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Paper Upload",
-    "tags": [
-      "add",
-      "paper",
-      "document",
-      "file",
-      "upload"
-    ],
+    "tags": ["add", "paper", "document", "file", "upload"],
     "componentName": "PaperUpload",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.7363 2.7619H8.08431C6.02531 2.7619 4.25031 4.4309 4.25031 6.4909V17.2279C4.25031 19.4039 5.90831 21.1149 8.08431 21.1149H16.0723C18.1323 21.1149 19.8023 19.2879 19.8023 17.2279V8.0379L14.7363 2.7619Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.4736 2.75021V5.65921C14.4736 7.07921 15.6226 8.23121 17.0426 8.23421C18.3586 8.23721 19.7056 8.23821 19.7966 8.23221\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.6406 9.44061V16.0136\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.80219 12.2912L11.6402 9.44022L14.4792 12.2912\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Search",
-    "tags": [
-      "search",
-      "find",
-      "magnifier",
-      "magnifying glass"
-    ],
+    "tags": ["search", "find", "magnifier", "magnifying glass"],
     "componentName": "Search",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"11.7666\" cy=\"11.7666\" r=\"8.98856\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.0183 18.4851L21.5423 22\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Shield Done",
-    "tags": [
-      "shield",
-      "done",
-      "security"
-    ],
+    "tags": ["shield", "done", "security"],
     "componentName": "ShieldDone",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.865 5.1238C19.302 5.2768 19.594 5.6888 19.594 6.1518V12.9248C19.594 14.8178 18.906 16.6248 17.691 18.0248C17.08 18.7298 16.307 19.2788 15.486 19.7228L11.928 21.6448L8.364 19.7218C7.542 19.2778 6.768 18.7298 6.156 18.0238C4.94 16.6238 4.25 14.8158 4.25 12.9208V6.1518C4.25 5.6888 4.542 5.2768 4.979 5.1238L11.561 2.8108C11.795 2.7288 12.05 2.7288 12.283 2.8108L18.865 5.1238Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M9.32251 11.9177L11.2145 13.8107L15.1125 9.91269\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Setting",
-    "tags": [
-      "setting",
-      "options",
-      "cog",
-      "gear",
-      "edit",
-      "preferences"
-    ],
+    "tags": ["setting", "options", "cog", "gear", "edit", "preferences"],
     "componentName": "Setting",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M20.8066 7.62358L20.1842 6.54349C19.6576 5.62957 18.4907 5.31429 17.5755 5.83869V5.83869C17.1399 6.09531 16.6201 6.16812 16.1307 6.04106C15.6413 5.91399 15.2226 5.59749 14.9668 5.16134C14.8023 4.88412 14.7139 4.56836 14.7105 4.24601V4.24601C14.7254 3.72919 14.5304 3.22837 14.17 2.85764C13.8096 2.48691 13.3145 2.27783 12.7975 2.27805H11.5435C11.037 2.27804 10.5513 2.47988 10.194 2.83891C9.83667 3.19795 9.63716 3.68456 9.63959 4.19109V4.19109C9.62458 5.23689 8.77246 6.07678 7.72655 6.07667C7.4042 6.07332 7.08844 5.98491 6.81122 5.82038V5.82038C5.89605 5.29598 4.7291 5.61126 4.20252 6.52519L3.53433 7.62358C3.00839 8.53636 3.31938 9.70258 4.22998 10.2323V10.2323C4.82189 10.574 5.18652 11.2056 5.18652 11.889C5.18652 12.5725 4.82189 13.204 4.22998 13.5458V13.5458C3.32054 14.0719 3.00921 15.2353 3.53433 16.1453V16.1453L4.16591 17.2346C4.41263 17.6798 4.82659 18.0083 5.31618 18.1474C5.80577 18.2866 6.33062 18.2249 6.77461 17.976V17.976C7.21106 17.7213 7.73117 17.6515 8.21932 17.7822C8.70748 17.9128 9.12322 18.233 9.37415 18.6716C9.53868 18.9489 9.62709 19.2646 9.63044 19.587V19.587C9.63044 20.6435 10.4869 21.5 11.5435 21.5H12.7975C13.8505 21.5 14.7055 20.6491 14.7105 19.5961V19.5961C14.7081 19.088 14.9089 18.6 15.2681 18.2407C15.6274 17.8814 16.1155 17.6806 16.6236 17.6831C16.9452 17.6917 17.2596 17.7797 17.5389 17.9394V17.9394C18.4517 18.4653 19.6179 18.1543 20.1476 17.2437V17.2437L20.8066 16.1453C21.0617 15.7075 21.1318 15.186 21.0012 14.6963C20.8706 14.2067 20.5502 13.7893 20.111 13.5366V13.5366C19.6717 13.2839 19.3514 12.8665 19.2208 12.3769C19.0902 11.8873 19.1602 11.3658 19.4153 10.9279C19.5812 10.6383 19.8214 10.3982 20.111 10.2323V10.2323C21.0161 9.70286 21.3264 8.54346 20.8066 7.63274V7.63274V7.62358Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<circle cx=\"12.1751\" cy=\"11.889\" r=\"2.63616\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Star",
-    "tags": [
-      "star",
-      "fav",
-      "like",
-      "bookmark"
-    ],
+    "tags": ["star", "fav", "like", "bookmark"],
     "componentName": "Star",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.7141 3.44083L15.0301 8.09983C15.1461 8.33483 15.3701 8.49883 15.6301 8.53683L20.8151 9.28583C21.0251 9.31383 21.2141 9.42383 21.3431 9.59183C21.5851 9.90683 21.5481 10.3528 21.2581 10.6238L17.5001 14.2578C17.3091 14.4378 17.2241 14.7018 17.2741 14.9588L18.1741 20.0868C18.2371 20.5118 17.9471 20.9098 17.5221 20.9788C17.3461 21.0058 17.1661 20.9778 17.0061 20.8988L12.3881 18.4778C12.1561 18.3518 11.8781 18.3518 11.6461 18.4778L6.99413 20.9118C6.60513 21.1098 6.12913 20.9628 5.91713 20.5818C5.83613 20.4278 5.80813 20.2528 5.83613 20.0818L6.73613 14.9538C6.78113 14.6978 6.69613 14.4348 6.51013 14.2538L2.73213 10.6208C2.42413 10.3148 2.42213 9.81683 2.72913 9.50883C2.73013 9.50783 2.73113 9.50583 2.73213 9.50483C2.85913 9.38983 3.01513 9.31283 3.18413 9.28283L8.37013 8.53383C8.62913 8.49283 8.85213 8.33083 8.97013 8.09583L11.2841 3.44083C11.3771 3.25183 11.5421 3.10683 11.7421 3.04083C11.9431 2.97383 12.1631 2.98983 12.3521 3.08483C12.5071 3.16183 12.6341 3.28683 12.7141 3.44083Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Swap",
-    "tags": [
-      "swap",
-      "switch",
-      "turn"
-    ],
+    "tags": ["swap", "switch", "turn"],
     "componentName": "Swap",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16.8396 20.1642V6.54645\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M20.9172 16.0681L16.8394 20.1648L12.7617 16.0681\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.91109 3.83289V17.4507\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.83344 7.929L6.91121 3.83234L10.989 7.929\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Tick Square",
-    "tags": [
-      "tick",
-      "check",
-      "square",
-      "checkbox",
-      "ok",
-      "right"
-    ],
+    "tags": ["tick", "check", "square", "checkbox", "ok", "right"],
     "componentName": "TickSquare",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3344 2.75021H7.66543C4.64443 2.75021 2.75043 4.88921 2.75043 7.91621V16.0842C2.75043 19.1112 4.63543 21.2502 7.66543 21.2502H16.3334C19.3644 21.2502 21.2504 19.1112 21.2504 16.0842V7.91621C21.2504 4.88921 19.3644 2.75021 16.3344 2.75021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.43994 12.0002L10.8139 14.3732L15.5599 9.62723\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Show",
-    "tags": [
-      "show",
-      "visibility",
-      "view",
-      "watch",
-      "eye"
-    ],
+    "tags": ["show", "visibility", "view", "watch", "eye"],
     "componentName": "Show",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.1615 12.0531C15.1615 13.7991 13.7455 15.2141 11.9995 15.2141C10.2535 15.2141 8.8385 13.7991 8.8385 12.0531C8.8385 10.3061 10.2535 8.89108 11.9995 8.89108C13.7455 8.89108 15.1615 10.3061 15.1615 12.0531Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.998 19.3549C15.806 19.3549 19.289 16.6169 21.25 12.0529C19.289 7.48888 15.806 4.75089 11.998 4.75089H12.002C8.194 4.75089 4.711 7.48888 2.75 12.0529C4.711 16.6169 8.194 19.3549 12.002 19.3549H11.998Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
@@ -1035,221 +656,126 @@
   {
     "set": "light",
     "name": "Time Square",
-    "tags": [
-      "time",
-      "square",
-      "clock",
-      "watch",
-      "alarm"
-    ],
+    "tags": ["time", "square", "clock", "watch", "alarm"],
     "componentName": "TimeSquare",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3347 2.75021H7.6657C4.6447 2.75021 2.7507 4.88921 2.7507 7.91621V16.0842C2.7507 19.1112 4.6347 21.2502 7.6657 21.2502H16.3337C19.3647 21.2502 21.2507 19.1112 21.2507 16.0842V7.91621C21.2507 4.88921 19.3647 2.75021 16.3347 2.75021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.3913 14.0177L12.0003 11.9947V7.63373\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Ticket",
-    "tags": [
-      "ticket",
-      "sale",
-      "event"
-    ],
+    "tags": ["ticket", "sale", "event"],
     "componentName": "Ticket",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.8497 4.25031V6.67031\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M13.8497 17.7601V19.7841\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M13.8497 14.3246V9.5036\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.7021 20C20.5242 20 22 18.5426 22 16.7431V14.1506C20.7943 14.1506 19.8233 13.1917 19.8233 12.001C19.8233 10.8104 20.7943 9.85039 22 9.85039L21.999 7.25686C21.999 5.45745 20.5221 4 18.7011 4H5.29892C3.47789 4 2.00104 5.45745 2.00104 7.25686L2 9.93485C3.20567 9.93485 4.17668 10.8104 4.17668 12.001C4.17668 13.1917 3.20567 14.1506 2 14.1506V16.7431C2 18.5426 3.4758 20 5.29787 20H18.7021Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Two Users",
-    "tags": [
-      "user",
-      "people",
-      "users"
-    ],
+    "tags": ["user", "people", "users"],
     "componentName": "TwoUsers",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16.0201 10.9134C17.8411 10.9134 19.3171 9.4374 19.3171 7.6164C19.3171 5.7964 17.8411 4.3194 16.0201 4.3194\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M17.5363 14.4964C18.0803 14.5334 18.6203 14.6114 19.1533 14.7294C19.8923 14.8764 20.7823 15.1794 21.0983 15.8424C21.3003 16.2674 21.3003 16.7624 21.0983 17.1874C20.7833 17.8504 19.8923 18.1534 19.1533 18.3054\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.59143 15.2063C13.2814 15.2063 16.4334 15.7653 16.4334 17.9983C16.4334 20.2323 13.3014 20.8103 9.59143 20.8103C5.90143 20.8103 2.75043 20.2523 2.75043 18.0183C2.75043 15.7843 5.88143 15.2063 9.59143 15.2063Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.5914 12.0188C7.1574 12.0188 5.2074 10.0678 5.2074 7.63379C5.2074 5.20079 7.1574 3.24979 9.5914 3.24979C12.0254 3.24979 13.9764 5.20079 13.9764 7.63379C13.9764 10.0678 12.0254 12.0188 9.5914 12.0188Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Unlock",
-    "tags": [
-      "unlock",
-      "lock",
-      "unsecure",
-      "open",
-      "password"
-    ],
+    "tags": ["unlock", "lock", "unsecure", "open", "password"],
     "componentName": "Unlock",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16.4242 5.56204C15.8072 3.78004 14.1142 2.50004 12.1222 2.50004C9.60919 2.49004 7.56319 4.51804 7.55219 7.03104V7.05104V9.19804\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.933 21.0004H8.292C6.198 21.0004 4.5 19.3024 4.5 17.2074V12.9194C4.5 10.8244 6.198 9.12643 8.292 9.12643H15.933C18.027 9.12643 19.725 10.8244 19.725 12.9194V17.2074C19.725 19.3024 18.027 21.0004 15.933 21.0004Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.1127 13.9526V16.1746\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Time Circle",
-    "tags": [
-      "time",
-      "circle",
-      "clock",
-      "watch",
-      "alarm"
-    ],
+    "tags": ["time", "circle", "clock", "watch", "alarm"],
     "componentName": "TimeCircle",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.2498 12.0005C21.2498 17.1095 17.1088 21.2505 11.9998 21.2505C6.8908 21.2505 2.7498 17.1095 2.7498 12.0005C2.7498 6.89149 6.8908 2.75049 11.9998 2.75049C17.1088 2.75049 21.2498 6.89149 21.2498 12.0005Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.4314 14.9429L11.6614 12.6939V7.84689\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Upload",
-    "tags": [
-      "upload",
-      "download",
-      "arrow"
-    ],
+    "tags": ["upload", "download", "arrow"],
     "componentName": "Upload",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.38948 8.984H6.45648C4.42148 8.984 2.77148 10.634 2.77148 12.669V17.544C2.77148 19.578 4.42148 21.228 6.45648 21.228H17.5865C19.6215 21.228 21.2715 19.578 21.2715 17.544V12.659C21.2715 10.63 19.6265 8.984 17.5975 8.984L16.6545 8.984\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.0214 2.19051V14.2315\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M9.10626 5.1188L12.0213 2.1908L14.9373 5.1188\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Video",
-    "tags": [
-      "video",
-      "camera",
-      "record",
-      "film",
-      "image"
-    ],
+    "tags": ["video", "camera", "record", "film", "image"],
     "componentName": "Video",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.8161 15.6204C15.8161 17.6134 14.4581 19.0214 12.2861 19.0214H6.06909C3.89909 19.0214 2.55009 17.6134 2.55009 15.6204V8.6604C2.55009 6.6684 3.89909 5.2504 6.08009 5.2504H12.2861C14.4581 5.2504 15.8161 6.6684 15.8161 8.6604V15.6204Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.8161 11.2766L19.9131 7.9226C20.5631 7.3876 21.5501 7.8526 21.5501 8.6996V15.5716C21.5501 16.4196 20.5631 16.8826 19.9131 16.3486L15.8161 12.9946\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "User",
-    "tags": [
-      "user",
-      "people",
-      "person",
-      "users",
-      "profile"
-    ],
+    "tags": ["user", "people", "person", "users", "profile"],
     "componentName": "User",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"11.5789\" cy=\"7.27803\" r=\"4.77803\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.00002 18.7014C3.99873 18.3655 4.07385 18.0337 4.2197 17.7311C4.67736 16.8158 5.96798 16.3307 7.03892 16.111C7.81128 15.9462 8.59431 15.836 9.38217 15.7815C10.8408 15.6533 12.3079 15.6533 13.7666 15.7815C14.5544 15.8367 15.3374 15.9468 16.1099 16.111C17.1808 16.3307 18.4714 16.77 18.9291 17.7311C19.2224 18.3479 19.2224 19.064 18.9291 19.6808C18.4714 20.6419 17.1808 21.0812 16.1099 21.2918C15.3384 21.4634 14.5551 21.5766 13.7666 21.6304C12.5794 21.7311 11.3866 21.7494 10.1968 21.6854C9.92221 21.6854 9.65677 21.6854 9.38217 21.6304C8.59663 21.5773 7.81632 21.4641 7.04807 21.2918C5.96798 21.0812 4.68652 20.6419 4.2197 19.6808C4.0746 19.3747 3.99955 19.0401 4.00002 18.7014Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Voice 2",
-    "tags": [
-      "voice 2",
-      "voice",
-      "record",
-      "mic",
-      "note"
-    ],
+    "tags": ["voice 2", "voice", "record", "mic", "note"],
     "componentName": "Voice2",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.71438 10.932C4.71438 15.0215 8.02867 18.3358 12.1182 18.3358C16.2077 18.3358 19.523 15.0215 19.523 10.932\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.1186 21.1468V18.3364\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.2446 14.5844H11.9922C9.97124 14.5844 8.33219 12.9463 8.33219 10.9244V6.3739C8.33219 4.35295 9.97124 2.7139 11.9922 2.7139H12.2446C14.2665 2.7139 15.9046 4.35295 15.9046 6.3739V10.9244C15.9046 12.9463 14.2665 14.5844 12.2446 14.5844Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.0015 6.87695H15.9044\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M13.0491 10.0485H15.9044\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Volume Down",
-    "tags": [
-      "volume",
-      "down",
-      "speaker",
-      "audio",
-      "music"
-    ],
+    "tags": ["volume", "down", "speaker", "audio", "music"],
     "componentName": "VolumeDown",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.8714 16.8919C14.7999 17.4777 14.7788 18.0542 14.619 18.6505C14.3644 19.5005 13.6986 20.0204 12.9801 19.9994C12.6393 20.0078 12.1597 19.8003 11.8367 19.5288L8.06994 16.4695H5.97144C4.96058 16.4695 4.27791 15.7799 4.14011 14.6438C3.94446 13.2456 3.96234 10.7198 4.14011 9.29336C4.27791 8.30817 4.96058 7.53156 5.97144 7.53156H8.06994L11.7589 4.52464C12.0818 4.2511 12.6393 3.99327 12.9801 4.00061C13.6986 3.97965 14.3644 4.50054 14.619 5.34948C14.761 5.89237 14.7999 6.52331 14.8714 7.10918C15.0429 8.47901 15.0429 15.522 14.8714 16.8919Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.7166 6.57394C19.6781 7.95677 20.2551 9.81183 20.2551 11.8765C20.2551 13.9412 19.6781 15.7952 18.7166 17.1781\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Ticket Star",
-    "tags": [
-      "ticket",
-      "star",
-      "sale",
-      "event"
-    ],
+    "tags": ["ticket", "star", "sale", "event"],
     "componentName": "TicketStar",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.8573 20.4168C19.7323 20.4168 21.2503 18.8978 21.2503 17.0238V14.3238C20.0103 14.3238 19.0103 13.3238 19.0103 12.0848C19.0103 10.8448 20.0103 9.84579 21.2503 9.84579L21.2483 7.14279C21.2483 5.26879 19.7303 3.74979 17.8563 3.74979H6.14431C4.27031 3.74979 2.75131 5.26879 2.75131 7.14279L2.75031 9.93279C3.98931 9.93279 4.98931 10.8448 4.98931 12.0848C4.98931 13.3238 3.98931 14.3238 2.75031 14.3238V17.0238C2.75031 18.8978 4.26831 20.4168 6.14231 20.4168H17.8573Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9998 13.8543L13.7398 14.7693C13.9028 14.8543 14.0938 14.7163 14.0628 14.5353L13.7298 12.5963L15.1388 11.2253C15.2708 11.0963 15.1978 10.8733 15.0158 10.8463L13.0698 10.5633L12.1988 8.79929C12.1178 8.63429 11.8828 8.63429 11.8008 8.79929L10.9298 10.5633L8.98481 10.8463C8.80281 10.8733 8.72981 11.0963 8.86181 11.2253L10.2698 12.5963L9.93681 14.5353C9.90581 14.7163 10.0968 14.8543 10.2598 14.7693L11.9998 13.8543Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Voice",
-    "tags": [
-      "voice",
-      "record",
-      "mic",
-      "note"
-    ],
+    "tags": ["voice", "record", "mic", "note"],
     "componentName": "Voice",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.71448 10.932C4.71448 15.0215 8.02876 18.3358 12.1183 18.3358C16.2078 18.3358 19.5221 15.0215 19.5221 10.932\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.1187 21.1468V18.3364\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.2447 14.5844H11.9923C9.97133 14.5844 8.33229 12.9463 8.33229 10.9244V6.3739C8.33229 4.35295 9.97133 2.7139 11.9923 2.7139H12.2447C14.2656 2.7139 15.9047 4.35295 15.9047 6.3739V10.9244C15.9047 12.9463 14.2656 14.5844 12.2447 14.5844Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Volume Off",
-    "tags": [
-      "volume",
-      "off",
-      "speaker",
-      "audio",
-      "music"
-    ],
+    "tags": ["volume", "off", "speaker", "audio", "music"],
     "componentName": "VolumeOff",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.8907 16.3825H5.77835C4.76082 16.3825 4.0747 15.6869 3.936 14.5391C3.738 13.1267 3.75706 10.5749 3.936 9.13278C4.0747 8.13749 4.76082 7.35396 5.77835 7.35396H7.8907L11.604 4.31619C11.9291 4.03984 12.4913 3.77937 12.8333 3.78678C13.5565 3.76454 14.2267 4.29078 14.484 5.14949C14.6259 5.6969 14.6651 6.33537 14.7371 6.92619C14.8091 7.50113 14.8514 7.44925 14.8631 9.18254\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.8599 14.1914C14.8408 15.5276 14.7953 16.3408 14.7371 16.8099C14.6651 17.4007 14.6439 17.9841 14.484 18.5855C14.2267 19.4453 13.5565 19.9705 12.8333 19.9482C12.4913 19.9567 12.0074 19.7481 11.6824 19.4728L10.2858 18.3335\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M20.9957 3.29401L3.84802 20.4417\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Volume Up",
-    "tags": [
-      "volume",
-      "up",
-      "speaker",
-      "audio",
-      "music"
-    ],
+    "tags": ["volume", "up", "speaker", "audio", "music"],
     "componentName": "VolumeUp",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.4714 17.1419C12.3999 17.7277 12.3789 18.3042 12.219 18.9005C11.9644 19.7505 11.2986 20.2704 10.5802 20.2494C10.2394 20.2578 9.75977 20.0503 9.43685 19.7788L5.6702 16.7195H3.57178C2.5599 16.7195 1.87831 16.0299 1.74052 14.8938C1.54382 13.4956 1.56276 10.9698 1.74052 9.54336C1.87831 8.55817 2.5599 7.78156 3.57178 7.78156H5.6702L9.35901 4.77464C9.68193 4.5011 10.2394 4.24327 10.5802 4.25061C11.2986 4.22965 11.9644 4.75054 12.219 5.59948C12.361 6.14237 12.3999 6.77331 12.4714 7.35918C12.6429 8.72901 12.6429 15.772 12.4714 17.1419Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M16.4434 7.06049C17.3514 8.36649 17.8964 10.1185 17.8964 12.0685C17.8964 14.0185 17.3514 15.7695 16.4434 17.0755\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M19.8745 4C21.3375 6.104 22.2155 8.926 22.2155 12.068C22.2155 15.21 21.3375 18.033 19.8745 20.137\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Wallet",
-    "tags": [
-      "wallet",
-      "trader",
-      "money",
-      "cash"
-    ],
+    "tags": ["wallet", "trader", "money", "cash"],
     "componentName": "Wallet",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21.6389 14.3958H17.5906C16.1042 14.3949 14.8994 13.1909 14.8985 11.7045C14.8985 10.218 16.1042 9.01413 17.5906 9.01321H21.6389\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.0486 11.6429H17.7369\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.74766 3H16.3911C19.2892 3 21.6388 5.34951 21.6388 8.24766V15.4247C21.6388 18.3229 19.2892 20.6724 16.3911 20.6724H7.74766C4.84951 20.6724 2.5 18.3229 2.5 15.4247V8.24766C2.5 5.34951 4.84951 3 7.74766 3Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7.03561 7.53817H12.4346\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Work",
-    "tags": [
-      "work",
-      "brief",
-      "job",
-      "finance"
-    ],
+    "tags": ["work", "brief", "job", "finance"],
     "componentName": "Work",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.80408 15.477C2.80408 15.477 2.94608 17.215 2.97908 17.763C3.02308 18.498 3.30708 19.319 3.78108 19.889C4.45008 20.697 5.23808 20.982 6.29008 20.984C7.52708 20.986 16.5221 20.986 17.7591 20.984C18.8111 20.982 19.5991 20.697 20.2681 19.889C20.7421 19.319 21.0261 18.498 21.0711 17.763C21.1031 17.215 21.2451 15.477 21.2451 15.477\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8.49597 5.32949V4.95849C8.49597 3.73849 9.48397 2.75049 10.704 2.75049H13.286C14.505 2.75049 15.494 3.73849 15.494 4.95849L15.495 5.32949\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.995 16.6782V15.3842\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.74988 8.38909V11.8561C4.66788 13.1211 6.96588 14.0071 9.48788 14.3581C9.78988 13.2571 10.7829 12.4501 11.9899 12.4501C13.1779 12.4501 14.1909 13.2571 14.4729 14.3681C17.0049 14.0171 19.3119 13.1311 21.2399 11.8561V8.38909C21.2399 6.69509 19.8769 5.33109 18.1829 5.33109H5.81688C4.12288 5.33109 2.74988 6.69509 2.74988 8.38909Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Chart",
-    "tags": [
-      "chart",
-      "graph",
-      "statistics",
-      "diagram"
-    ],
+    "tags": ["chart", "graph", "statistics", "diagram"],
     "componentName": "Chart",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.37142 10.2017V17.0619\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12.0381 6.91913V17.0618\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M16.6286 13.8268V17.0619\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6857 2H7.31429C4.04762 2 2 4.31208 2 7.58516V16.4148C2 19.6879 4.0381 22 7.31429 22H16.6857C19.9619 22 22 19.6879 22 16.4148V7.58516C22 4.31208 19.9619 2 16.6857 2Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "set": "light",
     "name": "Shield Fail",
-    "tags": [
-      "shield",
-      "fail",
-      "insecure"
-    ],
+    "tags": ["shield", "fail", "insecure"],
     "componentName": "ShieldFail",
     "svgPath": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.8651 5.1238C19.3021 5.2768 19.5941 5.6888 19.5941 6.1518V12.9248C19.5941 14.8178 18.9051 16.6248 17.6911 18.0248C17.0791 18.7298 16.3071 19.2788 15.4861 19.7228L11.9281 21.6448L8.36409 19.7218C7.54109 19.2778 6.76809 18.7298 6.15609 18.0238C4.94009 16.6238 4.25009 14.8158 4.25009 12.9208V6.1518C4.25009 5.6888 4.54209 5.2768 4.97909 5.1238L11.5611 2.8108C11.7951 2.7288 12.0501 2.7288 12.2831 2.8108L18.8651 5.1238Z\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M13.8011 13.8464L10.0431 10.0884\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10.0433 13.8464L13.8013 10.0884\" stroke=\"#200E32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   }
