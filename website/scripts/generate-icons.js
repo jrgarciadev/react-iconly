@@ -46,7 +46,9 @@ async function createSvgsDist(srcSvgDir, distSvgDir, iconSet) {
   })
   const srcJsonStr = JSON.stringify(icons, null, 2) + '\n'
   await fs.writeFile(distSvgFilePath, srcJsonStr)
-  console.log(`Icons set ${iconSet} created successfully!`)
+  console.log(
+    `Icons set ${iconSet} created successfully! [SIZE: ${icons.length}]`
+  )
 }
 
 // let's do it
