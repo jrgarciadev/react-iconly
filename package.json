@@ -7,7 +7,7 @@
   "repository": "jrgarciadev/react-iconly",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
-  "types": "react-iconly.d.ts",
+  "types": "dist/react-iconly.d.ts",
   "source": "src/index.js",
   "sideEffects": false,
   "engines": {
@@ -27,8 +27,9 @@
     "design"
   ],
   "scripts": {
-    "build": "microbundle-crl --compress --strict --format modern,cjs",
+    "build": "microbundle-crl --compress --strict --format modern,cjs && yarn copytypes",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
+    "copytypes": "cp react-iconly.d.ts dist/react-iconly.d.ts",
     "prepare": "run-s build",
     "test": "run-s test:unit test:lint test:build",
     "test:build": "run-s build",
