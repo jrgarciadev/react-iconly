@@ -106,6 +106,7 @@ const icons = {
 }
 
 const Iconly = ({
+  className,
   primaryColor,
   secondaryColor,
   strokeWidth,
@@ -121,6 +122,7 @@ const Iconly = ({
   }
   return (
     <Icon
+      className={className}
       primaryColor={primaryColor}
       secondaryColor={secondaryColor}
       strokeWidth={strokeWidth}

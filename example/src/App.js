@@ -55,7 +55,7 @@ const App = () => {
         <IconlyPack.CaretRight set="bulk" primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <IconlyPack.ArrowDownSquare/>
       </IconlyPack.IconlyProvider>
-      <IconlyPack.Iconly name="Video" set="broken" primaryColor="#d6d" stroke="bold" size="xlarge"/> {/* Get icon by name */}
+      <IconlyPack.Iconly className="video-icon" name="Video" set="broken" primaryColor="#d6d" stroke="bold" size="xlarge"/> {/* Get icon by name */}
     </React.Fragment>
   )
 }
