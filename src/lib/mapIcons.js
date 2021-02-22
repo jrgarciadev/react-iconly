@@ -114,7 +114,8 @@ const Iconly = ({
   set,
   size,
   name,
-  style
+  style,
+  ...props
 }) => {
   const Icon = icons[name]
   if (!Icon) {
@@ -130,6 +131,7 @@ const Iconly = ({
       set={set}
       size={size}
       style={style}
+      {...props}
     />
   )
 }
