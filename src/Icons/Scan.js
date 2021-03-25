@@ -146,6 +146,60 @@ const Scan = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       />
     </g>
   )
+  const Curved = () => (
+    <g transform='translate(1.45 2.95)'>
+      <path
+        d='M21.132.5H0'
+        transform='translate(0 9.35)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,5.77C.57,2.29,2.29.57,5.77,0'
+        transform='translate(1.546 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M5.981,8.186C2.5,7.606.781,5.9.211,2.416v0A17.035,17.035,0,0,1,0,0'
+        transform='translate(1.335 9.854)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M5.979,0a17.183,17.183,0,0,1-.21,2.42l0,0C5.2,5.9,3.48,7.606,0,8.186'
+        transform='translate(13.816 9.854)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,0C3.48.57,5.2,2.29,5.77,5.77'
+        transform='translate(13.816 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
 
   switch (set) {
     case 'bold':
@@ -156,6 +210,8 @@ const Scan = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

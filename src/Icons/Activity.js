@@ -112,7 +112,40 @@ const Activity = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       />
     </g>
   )
-
+  const Curved = () => (
+    <g transform='translate(2.45 2.35)'>
+      <path
+        d='M0,4.989,2.993,1.1,6.407,3.78,9.336,0'
+        transform='translate(4.468 7.515)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M1.922,0A1.922,1.922,0,1,1,0,1.922,1.921,1.921,0,0,1,1.922,0Z'
+        transform='translate(15.296 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M18.306,6.216A20.809,20.809,0,0,1,18.5,9.25c0,6.938-2.312,9.25-9.25,9.25S0,16.188,0,9.25,2.313,0,9.25,0a20.931,20.931,0,0,1,2.983.187'
+        transform='translate(0 0.703)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
   switch (set) {
     case 'bold':
       return <Bold />
@@ -122,6 +155,8 @@ const Activity = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

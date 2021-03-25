@@ -90,6 +90,30 @@ const Setting = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(3.5 2.5)'>
+      <path
+        d='M2.5,0A2.5,2.5,0,1,1,0,2.5,2.5,2.5,0,0,1,2.5,0Z'
+        transform='translate(6 7)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M16.668,4.75h0a2.464,2.464,0,0,0-3.379-.912,1.543,1.543,0,0,1-2.314-1.346A2.484,2.484,0,0,0,8.5,0h0A2.484,2.484,0,0,0,6.025,2.492,1.543,1.543,0,0,1,3.712,3.839a2.465,2.465,0,0,0-3.38.912,2.5,2.5,0,0,0,.906,3.4,1.56,1.56,0,0,1,0,2.692,2.5,2.5,0,0,0-.906,3.4,2.465,2.465,0,0,0,3.379.913h0a1.542,1.542,0,0,1,2.313,1.345h0A2.484,2.484,0,0,0,8.5,19h0a2.484,2.484,0,0,0,2.474-2.492h0a1.543,1.543,0,0,1,2.314-1.345,2.465,2.465,0,0,0,3.379-.913,2.5,2.5,0,0,0-.905-3.4h0a1.56,1.56,0,0,1,0-2.692A2.5,2.5,0,0,0,16.668,4.75Z'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -99,6 +123,8 @@ const Setting = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

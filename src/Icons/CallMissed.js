@@ -96,6 +96,41 @@ const CallMissed = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2 2)'>
+      <path
+        d='M6,0,0,6'
+        transform='translate(13.328 0.75)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,0,6,6'
+        transform='translate(13.328 0.75)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M5.7,13.3C-1.2,6.4-.217,3.241.511,2.222.6,2.059,2.906-1.388,5.375.634,11.5,5.679,3.745,4.966,8.89,10.111s4.431-2.611,9.476,3.514c2.022,2.469-1.425,4.77-1.588,4.864C15.759,19.217,12.6,20.2,5.7,13.3Z'
+        transform='translate(0 1)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -105,6 +140,8 @@ const CallMissed = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

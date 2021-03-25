@@ -208,6 +208,111 @@ const Calendar = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2.75 2.05)'>
+      <path
+        d='M0,9.274C0,2.318,2.319,0,9.274,0s9.275,2.318,9.275,9.274-2.319,9.274-9.275,9.274S0,16.23,0,9.274Z'
+        transform='translate(0 1.452)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,.5H18.008'
+        transform='translate(0.275 6.774)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.5.5H.5'
+        transform='translate(13.183 10.711)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.5.5H.5'
+        transform='translate(8.784 10.711)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.5.5H.5'
+        transform='translate(4.376 10.711)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.5.5H.5'
+        transform='translate(13.183 14.563)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.5.5H.5'
+        transform='translate(8.784 14.563)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.5.5H.5'
+        transform='translate(4.376 14.563)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.5,0V3.262'
+        transform='translate(12.783 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.5,0V3.262'
+        transform='translate(4.775 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -217,6 +322,8 @@ const Calendar = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

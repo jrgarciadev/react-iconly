@@ -105,6 +105,41 @@ const Plus = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2.3 2.3)'>
+      <path
+        d='M.526,0V7.148'
+        transform='translate(9.211 6.163)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M7.156.526H0'
+        transform='translate(6.159 9.211)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,9.737C0,2.435,2.435,0,9.737,0s9.737,2.435,9.737,9.737-2.435,9.737-9.737,9.737S0,17.039,0,9.737Z'
+        transform='translate(0 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -114,6 +149,8 @@ const Plus = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

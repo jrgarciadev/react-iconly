@@ -86,6 +86,31 @@ const Folder = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2.5 2.5)'>
+      <path
+        d='M0,.476H9.593'
+        transform='translate(4.806 11.598)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,5.3C0,2.856,1.25.759,3.622.273a8.088,8.088,0,0,1,5.67.489c1.5.808,1.069,2,2.608,2.875s4.017-.44,5.635,1.306c1.694,1.828,1.685,4.633,1.685,6.422,0,6.8-3.807,7.335-9.61,7.335S0,18.229,0,11.364Z'
+        transform='translate(0 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -95,6 +120,8 @@ const Folder = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

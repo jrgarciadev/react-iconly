@@ -130,6 +130,51 @@ const Ticket = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2.5 3)'>
+      <path
+        d='M.475,0V2.655'
+        transform='translate(10.384 0.6)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.475,0V2.22'
+        transform='translate(10.384 14.544)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.475,5.289V0'
+        transform='translate(10.384 6.255)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M19,10.55a2.051,2.051,0,0,1,0-4.1C19,1.7,19,0,9.5,0S0,1.7,0,6.449a2.051,2.051,0,0,1,0,4.1C0,15.3,0,17,9.5,17S19,15.3,19,10.55Z'
+        transform='translate(0 0.5)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -139,6 +184,8 @@ const Ticket = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

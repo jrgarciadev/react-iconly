@@ -86,6 +86,31 @@ const Message = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2.452 2.852)'>
+      <path
+        d='M11.151,0S7.941,3.853,5.593,3.853,0,0,0,0'
+        transform='translate(3.942 6.167)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,9.117C0,2.279,2.381,0,9.524,0s9.524,2.279,9.524,9.117-2.381,9.117-9.524,9.117S0,15.954,0,9.117Z'
+        transform='translate(0 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -95,6 +120,8 @@ const Message = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

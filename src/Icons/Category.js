@@ -128,6 +128,51 @@ const Category = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(3 3)'>
+      <path
+        d='M7.347,3.674A3.673,3.673,0,1,1,3.673,0,3.674,3.674,0,0,1,7.347,3.674Z'
+        transform='translate(10.654 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M7.347,3.674A3.673,3.673,0,1,1,3.673,0,3.674,3.674,0,0,1,7.347,3.674Z'
+        transform='translate(0 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M7.347,3.674A3.673,3.673,0,1,1,3.673,0,3.674,3.674,0,0,1,7.347,3.674Z'
+        transform='translate(10.654 10.588)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M7.347,3.674A3.673,3.673,0,1,1,3.673,0,3.673,3.673,0,0,1,7.347,3.674Z'
+        transform='translate(0 10.588)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -137,6 +182,8 @@ const Category = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

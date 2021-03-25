@@ -150,6 +150,70 @@ const Voice2 = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       </g>
     </g>
   )
+  const Curved = () => (
+    <g transform='translate(4.5 2.5)'>
+      <path
+        d='M0,0A5.386,5.386,0,0,0,5.386,5.386,5.385,5.385,0,0,0,10.772,0'
+        transform='translate(2.104 11.332)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M10.772,7.527V5.386A5.386,5.386,0,0,0,0,5.386V7.527'
+        transform='translate(2.104 0.713)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.475,2.044V0'
+        transform='translate(7.015 16.718)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,.475H13.556'
+        transform='translate(0.712 10.857)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,.475H2.985'
+        transform='translate(5.997 7.477)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M1,.475H0'
+        transform='translate(6.988 4.707)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
 
   switch (set) {
     case 'bold':
@@ -160,6 +224,8 @@ const Voice2 = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

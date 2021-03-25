@@ -189,6 +189,70 @@ const People = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       />
     </g>
   )
+  const Curved = () => (
+    <g transform='translate(1 3)'>
+      <path
+        d='M6.006,6.122C2.767,6.122,0,5.632,0,3.67S2.749,0,6.006,0c3.239,0,6.006,1.692,6.006,3.653S9.263,6.122,6.006,6.122Z'
+        transform='translate(4.966 11.246)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M3.85,7.7a3.837,3.837,0,1,0-.027,0Z'
+        transform='translate(7.122 0.75)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.166,5.643a2.9,2.9,0,0,0,2.149-2.8A2.9,2.9,0,0,0,0,0'
+        transform='translate(17.196 1.749)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,0C1.754,0,3.252,1.189,3.252,2.251a1.64,1.64,0,0,1-1.3,1.49'
+        transform='translate(17.943 10.544)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M2.15,5.643A2.9,2.9,0,0,1,2.315,0'
+        transform='translate(2.434 1.749)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M3.252,0C1.5,0,0,1.189,0,2.251a1.64,1.64,0,0,0,1.3,1.49'
+        transform='translate(0.75 10.544)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
 
   switch (set) {
     case 'bold':
@@ -199,6 +263,8 @@ const People = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

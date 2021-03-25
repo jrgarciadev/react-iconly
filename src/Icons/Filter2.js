@@ -35,7 +35,7 @@ const Filter2 = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
         strokeLinecap='round'
         strokeLinejoin='round'
         strokeMiterlimit='10'
-        strokeWidth='1.5'
+        strokeWidth={strokeWidth}
       />
     </g>
   )
@@ -48,6 +48,21 @@ const Filter2 = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       />
     </g>
   )
+
+  const Curved = () => (
+    <g transform='translate(3 3)'>
+      <path
+        d='M9,18c-2.011,0-2.02-2.006-2.02-5.4S0,6.827,0,3.1C0-.047,2.79,0,9,0s9-.047,9,3.1c0,3.726-6.983,6.1-6.983,9.5S11.014,18,9,18Z'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -55,6 +70,8 @@ const Filter2 = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Bulk />
     case 'broken':
       return <Broken />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

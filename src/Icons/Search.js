@@ -86,6 +86,31 @@ const Search = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2 2)'>
+      <path
+        d='M8.561,0A8.561,8.561,0,1,1,0,8.561,8.561,8.561,0,0,1,8.561,0Z'
+        transform='translate(0.714 0.714)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M1.411,0A1.411,1.411,0,1,1,0,1.41,1.411,1.411,0,0,1,1.411,0Z'
+        transform='translate(16.488 16.488)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -95,6 +120,8 @@ const Search = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

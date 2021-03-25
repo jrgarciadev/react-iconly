@@ -91,6 +91,20 @@ const Heart2 = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       />
     </g>
   )
+  const Curved = () => (
+    <g transform='translate(2.55 3.55)'>
+      <path
+        d='M.372,8.9C-.7,5.546.554,1.381,4.071.249A4.869,4.869,0,0,1,9.5,1.939a4.73,4.73,0,0,1,5.42-1.69c3.516,1.132,4.778,5.3,3.706,8.647-1.67,5.31-7.5,8.076-9.126,8.076S2.1,14.268.372,8.9Z'
+        transform='translate(0 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
 
   switch (set) {
     case 'bold':
@@ -101,6 +115,8 @@ const Heart2 = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

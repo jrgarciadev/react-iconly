@@ -86,6 +86,31 @@ const Video = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2.514 5.114)'>
+      <path
+        d='M0,2.466C1.838,1.009,4.3-.4,4.771.1c.771.829.7,8.714,0,9.467-.429.467-2.914-.943-4.771-2.39'
+        transform='translate(13.637 2.092)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,6.923C0,1.73,1.725,0,6.9,0s6.9,1.73,6.9,6.923-1.725,6.923-6.9,6.923S0,12.114,0,6.923Z'
+        transform='translate(0 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -95,6 +120,8 @@ const Video = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

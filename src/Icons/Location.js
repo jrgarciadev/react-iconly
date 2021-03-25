@@ -94,6 +94,30 @@ const Location = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(4.5 3)'>
+      <path
+        d='M5,2.5A2.5,2.5,0,1,0,2.5,5,2.5,2.5,0,0,0,5,2.5Z'
+        transform='translate(5.01 5.21)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M7.5,18C4.6,18,0,12.959,0,7.6A7.549,7.549,0,0,1,7.5,0,7.55,7.55,0,0,1,15,7.6C15,12.959,10.4,18,7.5,18Z'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -103,6 +127,8 @@ const Location = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

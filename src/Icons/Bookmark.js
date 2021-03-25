@@ -88,6 +88,31 @@ const Bookmark = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(4.5 2.5)'>
+      <path
+        d='M0,.5H6.855'
+        transform='translate(4.042 6.218)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M7.47,0C1.083,0,0,.932,0,8.429,0,16.822-.153,19,1.443,19s4.2-3.684,6.027-3.684S11.9,19,13.5,19s1.439-2.178,1.439-10.571C14.936.932,13.857,0,7.47,0Z'
+        transform='translate(0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -97,6 +122,8 @@ const Bookmark = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

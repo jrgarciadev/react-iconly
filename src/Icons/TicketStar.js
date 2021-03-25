@@ -85,6 +85,31 @@ const TicketStar = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2.65 3.411)'>
+      <path
+        d='M18.79,10.583c-2.661,0-2.661-4.114,0-4.114C18.79,1.7,18.79,0,9.4,0S0,1.7,0,6.469c2.661,0,2.661,4.114,0,4.114,0,4.768,0,6.47,9.4,6.47S18.79,15.351,18.79,10.583Z'
+        transform='translate(0 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M3.018,0C2.335,0,2.27,1.089,1.864,1.475S.194,1.42.018,2.1s.962.916,1.1,1.5S.567,5.016,1.16,5.427s1.233-.518,1.858-.518,1.264.927,1.858.518-.1-1.235.039-1.822,1.278-.819,1.1-1.5S4.579,1.86,4.172,1.475,3.7,0,3.018,0Z'
+        transform='translate(6.377 5.76)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -94,6 +119,8 @@ const TicketStar = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

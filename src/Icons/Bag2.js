@@ -86,6 +86,31 @@ const Bag2 = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2.95 2.65)'>
+      <path
+        d='M7.562,6.822V3.79A3.781,3.781,0,1,0,0,3.773V6.822'
+        transform='translate(5.238 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,7.059C0,1.765,2.255,0,9.019,0s9.019,1.765,9.019,7.059-2.255,7.058-9.019,7.058S0,12.352,0,7.059Z'
+        transform='translate(0 4.499)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -95,6 +120,8 @@ const Bag2 = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

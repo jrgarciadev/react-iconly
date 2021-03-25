@@ -87,6 +87,31 @@ const ShieldDone = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(3.5 2)'>
+      <path
+        d='M7.735,18.855a8.4,8.4,0,0,0,7.672-8.727c0-6.4.278-6.905-.337-7.521A12.6,12.6,0,0,0,7.735,0,12.589,12.589,0,0,0,.4,2.607c-.616.616-.338,1.117-.338,7.521A8.4,8.4,0,0,0,7.735,18.855Z'
+        transform='translate(0.75 0.751)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,2.005,1.892,3.9,5.79,0'
+        transform='translate(5.886 7.87)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -96,6 +121,8 @@ const ShieldDone = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }
