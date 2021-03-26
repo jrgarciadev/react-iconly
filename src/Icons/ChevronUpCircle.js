@@ -94,6 +94,31 @@ const ChevronUpCircle = ({
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(22 22) rotate(180)'>
+      <path
+        d='M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z'
+        transform='translate(0.75 0.75)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,0S2.392,3.486,3.472,3.486,6.942,0,6.942,0'
+        transform='translate(6.529 8.558)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -103,6 +128,8 @@ const ChevronUpCircle = ({
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

@@ -114,6 +114,41 @@ const Calling = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2 2)'>
+      <path
+        d='M0,0A7.971,7.971,0,0,1,7.041,7.032'
+        transform='translate(12.352 0.75)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,0A4.426,4.426,0,0,1,3.5,3.5'
+        transform='translate(12.352 4.293)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M5.7,13.3C-1.2,6.4-.217,3.241.511,2.223.6,2.059,2.906-1.388,5.375.634,11.5,5.679,3.745,4.966,8.889,10.111S13.32,7.5,18.366,13.625c2.022,2.469-1.425,4.772-1.588,4.864C15.76,19.217,12.6,20.2,5.7,13.3Z'
+        transform='translate(0 1)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -123,6 +158,8 @@ const Calling = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

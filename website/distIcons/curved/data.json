@@ -1,0 +1,1284 @@
+[
+  {
+    "set": "curved",
+    "name": "Activity",
+    "tags": [
+      "activity",
+      "finance",
+      "graph",
+      "metric",
+      "metrics",
+      "pulse",
+      "bars",
+      "bar"
+    ],
+    "componentName": "Activity",
+    "svgPath": "<svg id=\"Iconly_Curved_Activity\" data-name=\"Iconly/Curved/Activity\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Activity\" transform=\"translate(2.45 2.35)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,4.989,2.993,1.1,6.407,3.78,9.336,0\" transform=\"translate(4.468 7.515)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M1.922,0A1.922,1.922,0,1,1,0,1.922,1.921,1.921,0,0,1,1.922,0Z\" transform=\"translate(15.296 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M18.306,6.216A20.809,20.809,0,0,1,18.5,9.25c0,6.938-2.312,9.25-9.25,9.25S0,16.188,0,9.25,2.313,0,9.25,0a20.931,20.931,0,0,1,2.983.187\" transform=\"translate(0 0.703)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Add User",
+    "tags": [
+      "add",
+      "user",
+      "person",
+      "add user",
+      "add person",
+      "people",
+      "plus"
+    ],
+    "componentName": "AddUser",
+    "svgPath": "<svg id=\"Iconly_Curved_Add_User\" data-name=\"Iconly/Curved/Add User\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Add_User\" data-name=\"Add User\" transform=\"translate(2.85 2.15)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M7.072,7.3C3.258,7.3,0,6.721,0,4.411S3.237,0,7.072,0c3.814,0,7.072,2.081,7.072,4.39S10.907,7.3,7.072,7.3Z\" transform=\"translate(0 12.36)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M4.533,9.066a4.517,4.517,0,1,0-.032,0Z\" transform=\"translate(2.539 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.5,0V4.01\" transform=\"translate(15.781 5.979)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M4.09.5H0\" transform=\"translate(14.237 7.484)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Arrow Down",
+    "tags": [
+      "arrow",
+      "caret",
+      "chevron",
+      "arrow down",
+      "down"
+    ],
+    "componentName": "ArrowDown",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Down\" data-name=\"Iconly/Curved/Arrow - Down\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Down\" data-name=\"Arrow - Down\" transform=\"translate(5.5 4)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,15V0\" transform=\"translate(6.274 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M12.049,0S8.788,6.05,6.026,6.05,0,0,0,0\" transform=\"translate(0.75 9.7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Arrow Down Square",
+    "tags": [
+      "arrow",
+      "caret",
+      "chevron",
+      "arrow down",
+      "down",
+      "square",
+      "arrow square"
+    ],
+    "componentName": "ArrowDownSquare",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Down_Square\" data-name=\"Iconly/Curved/Arrow - Down Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Down_Square\" data-name=\"Arrow - Down Square\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,8.172V0\" transform=\"translate(9.5 5.914)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M7.5,0S4.972,3.764,3.748,3.764,0,0,0,0\" transform=\"translate(6.252 10.322)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Arrow Left",
+    "tags": [
+      "arrow",
+      "caret",
+      "chevron",
+      "arrow left",
+      "left"
+    ],
+    "componentName": "ArrowLeft",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Left\" data-name=\"Iconly/Curved/Arrow - Left\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Left\" data-name=\"Arrow - Left\" transform=\"translate(20 5.5) rotate(90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,15V0\" transform=\"translate(6.274 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M12.049,0S8.788,6.05,6.026,6.05,0,0,0,0\" transform=\"translate(0.75 9.7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Arrow Left Square",
+    "tags": [
+      "arrow",
+      "caret",
+      "chevron",
+      "arrow left",
+      "left",
+      "square",
+      "arrow left square",
+      "arrow square"
+    ],
+    "componentName": "ArrowLeftSquare",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Left_Square\" data-name=\"Iconly/Curved/Arrow - Left Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Left_Square\" data-name=\"Arrow - Left Square\" transform=\"translate(22 2) rotate(90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,8.172V0\" transform=\"translate(9.5 5.914)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M7.5,0S4.972,3.764,3.748,3.764,0,0,0,0\" transform=\"translate(6.252 10.322)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Arrow Right",
+    "tags": [
+      "arrow",
+      "caret",
+      "chevron",
+      "arrow right",
+      "right"
+    ],
+    "componentName": "ArrowRight",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Right\" data-name=\"Iconly/Curved/Arrow - Right\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Right\" data-name=\"Arrow - Right\" transform=\"translate(4 18.5) rotate(-90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,15V0\" transform=\"translate(6.274 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M12.049,0S8.788,6.05,6.026,6.05,0,0,0,0\" transform=\"translate(0.75 9.7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Arrow Right Square",
+    "tags": [
+      "arrow",
+      "caret",
+      "chevron",
+      "arrow right",
+      "right",
+      "square",
+      "arrow square",
+      "arrow right square"
+    ],
+    "componentName": "ArrowRightSquare",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Right_Square\" data-name=\"Iconly/Curved/Arrow - Right Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Right_Square\" data-name=\"Arrow - Right Square\" transform=\"translate(2 22) rotate(-90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,8.172V0\" transform=\"translate(9.5 5.914)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M7.5,0S4.972,3.764,3.748,3.764,0,0,0,0\" transform=\"translate(6.252 10.322)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Arrow Up",
+    "tags": [
+      "arrow",
+      "caret",
+      "chevron",
+      "arrow up",
+      "up"
+    ],
+    "componentName": "ArrowUp",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Up\" data-name=\"Iconly/Curved/Arrow - Up\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Up\" data-name=\"Arrow - Up\" transform=\"translate(18.5 20) rotate(180)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,15V0\" transform=\"translate(6.274 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M12.049,0S8.788,6.05,6.026,6.05,0,0,0,0\" transform=\"translate(0.75 9.7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Arrow Up Square",
+    "tags": [
+      "arrow",
+      "caret",
+      "chevron",
+      "arrow up",
+      "up",
+      "square",
+      "arrow square",
+      "arrow up square"
+    ],
+    "componentName": "ArrowUpSquare",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Up_Square\" data-name=\"Iconly/Curved/Arrow - Up Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Up_Square\" data-name=\"Arrow - Up Square\" transform=\"translate(22 22) rotate(180)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,8.172V0\" transform=\"translate(9.5 5.914)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M7.5,0S4.972,3.764,3.748,3.764,0,0,0,0\" transform=\"translate(6.252 10.322)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Bag",
+    "tags": [
+      "bag",
+      "shopping",
+      "shopping bag",
+      "cart",
+      "ecommerce",
+      "store",
+      "purchase"
+    ],
+    "componentName": "Bag",
+    "svgPath": "<svg id=\"Iconly_Curved_Bag\" data-name=\"Iconly/Curved/Bag\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Bag\" transform=\"translate(2.95 2.55)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M8.659,4.32A4.33,4.33,0,0,0,0,4.3V4.32\" transform=\"translate(4.755 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M.523.5H.477\" transform=\"translate(11.5 8.324)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.523.5H.477\" transform=\"translate(5.669 8.324)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M9.084,14.934c-6.508,0-7.257-2.05-8.718-7.467C-1.1,2.033,1.841,0,9.084,0S19.268,2.033,17.8,7.467C16.341,12.884,15.592,14.934,9.084,14.934Z\" transform=\"translate(0 4.006)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Bag 2",
+    "tags": [
+      "bag",
+      "bag2",
+      "shopping",
+      "shopping bag",
+      "cart",
+      "ecommerce",
+      "store",
+      "purchase"
+    ],
+    "componentName": "Bag2",
+    "svgPath": "<svg id=\"Iconly_Curved_Bag_2\" data-name=\"Iconly/Curved/Bag 2\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Bag_2\" data-name=\"Bag 2\" transform=\"translate(2.95 2.65)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M7.562,6.822V3.79A3.781,3.781,0,1,0,0,3.773V6.822\" transform=\"translate(5.238 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,7.059C0,1.765,2.255,0,9.019,0s9.019,1.765,9.019,7.059-2.255,7.058-9.019,7.058S0,12.352,0,7.059Z\" transform=\"translate(0 4.499)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Bookmark",
+    "tags": [
+      "bookmark",
+      "read",
+      "clip",
+      "marker",
+      "tag"
+    ],
+    "componentName": "Bookmark",
+    "svgPath": "<svg id=\"Iconly_Curved_Bookmark\" data-name=\"Iconly/Curved/Bookmark\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Bookmark\" transform=\"translate(4.5 2.5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,.5H6.855\" transform=\"translate(4.042 6.218)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M7.47,0C1.083,0,0,.932,0,8.429,0,16.822-.153,19,1.443,19s4.2-3.684,6.027-3.684S11.9,19,13.5,19s1.439-2.178,1.439-10.571C14.936.932,13.857,0,7.47,0Z\" transform=\"translate(0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Buy",
+    "tags": [
+      "cart",
+      "shopping",
+      "ecommerce",
+      "store",
+      "purchase"
+    ],
+    "componentName": "Buy",
+    "svgPath": "<svg id=\"Iconly_Curved_Buy\" data-name=\"Iconly/Curved/Buy\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Buy\" transform=\"translate(3.65 2.85)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M2.044,3.58c9.848-1.337,12.187-.6,13.717,1.14s1.261,6.917-.528,8.516-9.553,1.751-12.013,0C.621,11.386,2.129,5.692,2.044,2.243,2.1.313,0,0,0,0\" transform=\"translate(0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,.5H2.773\" transform=\"translate(10.506 7.37)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.545,0A.545.545,0,1,1,0,.544.545.545,0,0,1,.545,0Z\" transform=\"translate(3.069 17.277)\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M.544,0A.545.545,0,1,1,0,.544.545.545,0,0,1,.544,0Z\" transform=\"translate(13.401 17.277)\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Calendar",
+    "tags": [
+      "calendar",
+      "date",
+      "year"
+    ],
+    "componentName": "Calendar",
+    "svgPath": "<svg id=\"Iconly_Curved_Calendar\" data-name=\"Iconly/Curved/Calendar\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Calendar\" transform=\"translate(2.75 2.05)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.274C0,2.318,2.319,0,9.274,0s9.275,2.318,9.275,9.274-2.319,9.274-9.275,9.274S0,16.23,0,9.274Z\" transform=\"translate(0 1.452)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,.5H18.008\" transform=\"translate(0.275 6.774)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.5.5H.5\" transform=\"translate(13.183 10.711)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M.5.5H.5\" transform=\"translate(8.784 10.711)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_9\" data-name=\"Stroke 9\" d=\"M.5.5H.5\" transform=\"translate(4.376 10.711)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_11\" data-name=\"Stroke 11\" d=\"M.5.5H.5\" transform=\"translate(13.183 14.563)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_13\" data-name=\"Stroke 13\" d=\"M.5.5H.5\" transform=\"translate(8.784 14.563)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_15\" data-name=\"Stroke 15\" d=\"M.5.5H.5\" transform=\"translate(4.376 14.563)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_17\" data-name=\"Stroke 17\" d=\"M.5,0V3.262\" transform=\"translate(12.783 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_19\" data-name=\"Stroke 19\" d=\"M.5,0V3.262\" transform=\"translate(4.775 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Call",
+    "tags": [
+      "call",
+      "ring",
+      "phone",
+      "mobile"
+    ],
+    "componentName": "Call",
+    "svgPath": "<svg id=\"Iconly_Curved_Call\" data-name=\"Iconly/Curved/Call\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Call\" transform=\"translate(2.5 2.5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M5.7,13.3C-1.2,6.4-.217,3.241.511,2.223.6,2.059,2.906-1.388,5.375.634,11.5,5.679,3.745,4.966,8.889,10.111s4.432-2.611,9.476,3.514c2.022,2.469-1.425,4.772-1.588,4.864C15.76,19.217,12.6,20.2,5.7,13.3Z\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Call Missed",
+    "tags": [
+      "call missed",
+      "missed",
+      "phone",
+      "ring"
+    ],
+    "componentName": "CallMissed",
+    "svgPath": "<svg id=\"Iconly_Curved_Call_Missed\" data-name=\"Iconly/Curved/Call Missed\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Call_Missed\" data-name=\"Call Missed\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M6,0,0,6\" transform=\"translate(13.328 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0,6,6\" transform=\"translate(13.328 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M5.7,13.3C-1.2,6.4-.217,3.241.511,2.222.6,2.059,2.906-1.388,5.375.634,11.5,5.679,3.745,4.966,8.89,10.111s4.431-2.611,9.476,3.514c2.022,2.469-1.425,4.77-1.588,4.864C15.759,19.217,12.6,20.2,5.7,13.3Z\" transform=\"translate(0 1)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Call Silent",
+    "tags": [
+      "call silent",
+      "silence",
+      "silent",
+      "phone",
+      "ring"
+    ],
+    "componentName": "CallSilent",
+    "svgPath": "<svg id=\"Iconly_Curved_Call_Silent\" data-name=\"Iconly/Curved/Call Silent\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Call_Silent\" data-name=\"Call Silent\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M3.609,11.058C-.977,5.7-.129,3.127.509,2.225c.1-.17,2.4-3.61,4.861-1.592,4.851,4,1,4.385,1.742,6.922\" transform=\"translate(0 1)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M3.185,0c4.927,4.746,4.3-2.728,9.278,3.312C14.49,5.786,11.04,8.079,10.87,8.175,9.874,8.9,6.762,9.863,0,3.185\" transform=\"translate(5.901 11.314)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M0,18.5,18.5,0\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Calling",
+    "tags": [
+      "calling",
+      "call",
+      "ringing",
+      "ring",
+      "phone"
+    ],
+    "componentName": "Calling",
+    "svgPath": "<svg id=\"Iconly_Curved_Calling\" data-name=\"Iconly/Curved/Calling\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Calling\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,0A7.971,7.971,0,0,1,7.041,7.032\" transform=\"translate(12.352 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0A4.426,4.426,0,0,1,3.5,3.5\" transform=\"translate(12.352 4.293)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M5.7,13.3C-1.2,6.4-.217,3.241.511,2.223.6,2.059,2.906-1.388,5.375.634,11.5,5.679,3.745,4.966,8.889,10.111S13.32,7.5,18.366,13.625c2.022,2.469-1.425,4.772-1.588,4.864C15.76,19.217,12.6,20.2,5.7,13.3Z\" transform=\"translate(0 1)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Camera",
+    "tags": [
+      "camera",
+      "photo",
+      "movie",
+      "film",
+      "video",
+      "image"
+    ],
+    "componentName": "Camera",
+    "svgPath": "<svg id=\"Iconly_Curved_Camera\" data-name=\"Iconly/Curved/Camera\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Camera\" transform=\"translate(2.5 3.042)\">\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M6.291,3.145A3.145,3.145,0,1,0,3.145,6.291,3.146,3.146,0,0,0,6.291,3.145Z\" transform=\"translate(6.648 6.311)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M9,17.158c8.045,0,9-2.411,9-7.634,0-3.661-.484-5.62-3.534-6.462a1.927,1.927,0,0,1-.842-.534c-.406-.445-.7-1.813-1.684-2.226A14.475,14.475,0,0,0,6.06.3C5.1.7,4.782,2.083,4.376,2.529a1.921,1.921,0,0,1-.842.534C.484,3.9,0,5.863,0,9.525,0,14.748.958,17.158,9,17.158Z\" transform=\"translate(0.789 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_11\" data-name=\"Stroke 11\" d=\"M.5.5H.5\" transform=\"translate(14.209 5.458)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Caret Down",
+    "tags": [
+      "caret",
+      "chevron",
+      "down",
+      "arrow",
+      "arrow down"
+    ],
+    "componentName": "CaretDown",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Down_3\" data-name=\"Iconly/Curved/Arrow - Down 3\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Down_3\" data-name=\"Arrow - Down 3\" transform=\"translate(6.5 3)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,8.95V0\" transform=\"translate(4.894 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M4.65,7.654C5.906,7.654,9.921,1.29,9.2.568S.892-.223.1.568,3.395,7.654,4.65,7.654Z\" transform=\"translate(0.75 9.7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Caret Left",
+    "tags": [
+      "caret",
+      "chevron",
+      "left",
+      "arrow",
+      "arrow left"
+    ],
+    "componentName": "CaretLeft",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Left_3\" data-name=\"Iconly/Curved/Arrow - Left 3\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Left_3\" data-name=\"Arrow - Left 3\" transform=\"translate(21 6.5) rotate(90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,8.95V0\" transform=\"translate(4.894 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M4.65,7.654C5.906,7.654,9.921,1.29,9.2.568S.892-.223.1.568,3.395,7.654,4.65,7.654Z\" transform=\"translate(0.75 9.7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Caret Right",
+    "tags": [
+      "caret",
+      "chevron",
+      "right",
+      "arrow",
+      "arrow right"
+    ],
+    "componentName": "CaretRight",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Right_3\" data-name=\"Iconly/Curved/Arrow - Right 3\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Right_3\" data-name=\"Arrow - Right 3\" transform=\"translate(3 17.5) rotate(-90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,8.95V0\" transform=\"translate(4.894 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M4.65,7.654C5.906,7.654,9.921,1.29,9.2.568S.892-.223.1.568,3.395,7.654,4.65,7.654Z\" transform=\"translate(0.75 9.7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Caret Up",
+    "tags": [
+      "caret",
+      "chevron",
+      "up",
+      "arrow",
+      "arrow up"
+    ],
+    "componentName": "CaretUp",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Up_3\" data-name=\"Iconly/Curved/Arrow - Up 3\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Up_3\" data-name=\"Arrow - Up 3\" transform=\"translate(17.5 21) rotate(180)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,8.95V0\" transform=\"translate(4.894 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M4.65,7.654C5.906,7.654,9.921,1.29,9.2.568S.892-.223.1.568,3.395,7.654,4.65,7.654Z\" transform=\"translate(0.75 9.7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Category",
+    "tags": [
+      "category",
+      "menu",
+      "apps",
+      "applications",
+      "app"
+    ],
+    "componentName": "Category",
+    "svgPath": "<svg id=\"Iconly_Curved_Category\" data-name=\"Iconly/Curved/Category\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Category\" transform=\"translate(3 3)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M7.347,3.674A3.673,3.673,0,1,1,3.673,0,3.674,3.674,0,0,1,7.347,3.674Z\" transform=\"translate(10.654 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M7.347,3.674A3.673,3.673,0,1,1,3.673,0,3.674,3.674,0,0,1,7.347,3.674Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M7.347,3.674A3.673,3.673,0,1,1,3.673,0,3.674,3.674,0,0,1,7.347,3.674Z\" transform=\"translate(10.654 10.588)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M7.347,3.674A3.673,3.673,0,1,1,3.673,0,3.673,3.673,0,0,1,7.347,3.674Z\" transform=\"translate(0 10.588)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Chart",
+    "tags": [
+      "chart",
+      "graph",
+      "statistics",
+      "diagram"
+    ],
+    "componentName": "Chart",
+    "svgPath": "<svg id=\"Iconly_Curved_Chart\" data-name=\"Iconly/Curved/Chart\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Chart\" transform=\"translate(2.3 2.3)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.526,0V6.694\" transform=\"translate(4.657 7.961)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M.526,0V9.9\" transform=\"translate(9.211 4.757)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M.526,0V3.157\" transform=\"translate(13.689 11.498)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,9.737C0,2.435,2.435,0,9.737,0s9.737,2.435,9.737,9.737-2.435,9.737-9.737,9.737S0,17.039,0,9.737Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Chat",
+    "tags": [
+      "chat",
+      "message",
+      "messages",
+      "comment",
+      "comments"
+    ],
+    "componentName": "Chat",
+    "svgPath": "<svg id=\"Iconly_Curved_Chat\" data-name=\"Iconly/Curved/Chat\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Chat\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_11\" data-name=\"Stroke 11\" d=\"M.5.5H.5\" transform=\"translate(13.444 9.913)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n    <path id=\"Stroke_13\" data-name=\"Stroke 13\" d=\"M.5.5H.5\" transform=\"translate(9.435 9.913)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n    <path id=\"Stroke_15\" data-name=\"Stroke 15\" d=\"M.5.5H.5\" transform=\"translate(5.426 9.913)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M17.071,17.07a10.006,10.006,0,0,1-11.285,2c-.547-.22-4.085.76-4.853-.007s.213-4.307-.007-4.854A10,10,0,1,1,17.071,17.07Z\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Chevron Down",
+    "tags": [
+      "chevron",
+      "caret",
+      "down",
+      "arrow"
+    ],
+    "componentName": "ChevronDown",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Down_2\" data-name=\"Iconly/Curved/Arrow - Down 2\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Down_2\" data-name=\"Arrow - Down 2\" transform=\"translate(5 8.5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M14,0S9.856,7,7,7,0,0,0,0\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Chevron Down Circle",
+    "tags": [
+      "round",
+      "caret",
+      "circle",
+      "chevron",
+      "down",
+      "arrow"
+    ],
+    "componentName": "ChevronDownCircle",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Down_Circle\" data-name=\"Iconly/Curved/Arrow - Down Circle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Down_Circle\" data-name=\"Arrow - Down Circle\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0S2.392,3.486,3.472,3.486,6.942,0,6.942,0\" transform=\"translate(6.529 8.558)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Chevron Left",
+    "tags": [
+      "chevron",
+      "caret",
+      "left",
+      "arrow"
+    ],
+    "componentName": "ChevronLeft",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Left_2\" data-name=\"Iconly/Curved/Arrow - Left 2\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Left_2\" data-name=\"Arrow - Left 2\" transform=\"translate(15.5 5) rotate(90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M14,0S9.856,7,7,7,0,0,0,0\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Chevron Left Circle",
+    "tags": [
+      "round",
+      "caret",
+      "circle",
+      "chevron",
+      "left",
+      "arrow"
+    ],
+    "componentName": "ChevronLeftCircle",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Left_Circle\" data-name=\"Iconly/Curved/Arrow - Left Circle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Left_Circle\" data-name=\"Arrow - Left Circle\" transform=\"translate(22 2) rotate(90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0S2.392,3.486,3.472,3.486,6.942,0,6.942,0\" transform=\"translate(6.529 8.558)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Chevron Right",
+    "tags": [
+      "chevron",
+      "caret",
+      "right",
+      "arrow"
+    ],
+    "componentName": "ChevronRight",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Right_2\" data-name=\"Iconly/Curved/Arrow - Right 2\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Right_2\" data-name=\"Arrow - Right 2\" transform=\"translate(8.5 19) rotate(-90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M14,0S9.856,7,7,7,0,0,0,0\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Chevron Right Circle",
+    "tags": [
+      "round",
+      "caret",
+      "chevron",
+      "right",
+      "arrow"
+    ],
+    "componentName": "ChevronRightCircle",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Right_Circle\" data-name=\"Iconly/Curved/Arrow - Right Circle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Right_Circle\" data-name=\"Arrow - Right Circle\" transform=\"translate(2 22) rotate(-90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0S2.392,3.486,3.472,3.486,6.942,0,6.942,0\" transform=\"translate(6.529 8.558)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Chevron Up",
+    "tags": [
+      "chevron",
+      "caret",
+      "up",
+      "arrow"
+    ],
+    "componentName": "ChevronUp",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Up_2\" data-name=\"Iconly/Curved/Arrow - Up 2\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Up_2\" data-name=\"Arrow - Up 2\" transform=\"translate(19 15.5) rotate(180)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M14,0S9.856,7,7,7,0,0,0,0\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Close Square",
+    "tags": [
+      "close",
+      "cancel",
+      "delete",
+      "remove",
+      "times",
+      "clear",
+      "square"
+    ],
+    "componentName": "CloseSquare",
+    "svgPath": "<svg id=\"Iconly_Curved_Close_Square\" data-name=\"Iconly/Curved/Close Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Close_Square\" data-name=\"Close Square\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M4.792,0,0,4.792\" transform=\"translate(7.602 7.595)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M4.8,4.8,0,0\" transform=\"translate(7.6 7.593)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Chevron Up Circle",
+    "tags": [
+      "round",
+      "caret",
+      "circle",
+      "chevron",
+      "up",
+      "arrow"
+    ],
+    "componentName": "ChevronUpCircle",
+    "svgPath": "<svg id=\"Iconly_Curved_Arrow_-_Up_Circle\" data-name=\"Iconly/Curved/Arrow - Up Circle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Arrow_-_Up_Circle\" data-name=\"Arrow - Up Circle\" transform=\"translate(22 22) rotate(180)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0S2.392,3.486,3.472,3.486,6.942,0,6.942,0\" transform=\"translate(6.529 8.558)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Danger",
+    "tags": [
+      "dialog",
+      "danger",
+      "alert",
+      "warning"
+    ],
+    "componentName": "Danger",
+    "svgPath": "<svg id=\"Iconly_Curved_Danger_Triangle\" data-name=\"Iconly/Curved/Danger Triangle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Danger_Triangle\" data-name=\"Danger Triangle\" transform=\"translate(2.5 3)\">\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M9.5,18C3.006,18,.457,17.539.044,15.2s2.23-6.726,3.045-8.175C5.813,2.184,7.664,0,9.5,0s3.687,2.184,6.412,7.028c.815,1.449,3.458,5.839,3.045,8.175S15.994,18,9.5,18Z\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3-2\" data-name=\"Stroke 3\" d=\"M.5,0V3.895\" transform=\"translate(9 5.5)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_15\" data-name=\"Stroke 15\" d=\"M.5.5H.5\" transform=\"translate(9 12.395)\" fill=\"none\" stroke=\"#230b34\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Delete",
+    "tags": [
+      "close",
+      "cancel",
+      "delete",
+      "remove",
+      "times",
+      "clear"
+    ],
+    "componentName": "Delete",
+    "svgPath": "<svg id=\"Iconly_Curved_Delete\" data-name=\"Iconly/Curved/Delete\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Delete\" transform=\"translate(3.5 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M13.26,0c0,8.019,1.154,11.644-6.61,11.644S.064,8.019.064,0\" transform=\"translate(2.129 7.554)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M16.15.476H0\" transform=\"translate(0.715 4.004)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M6.874,3.766A3.207,3.207,0,0,0,3.448,0,3.207,3.207,0,0,0,.024,3.766\" transform=\"translate(5.341 0.714)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Discount",
+    "tags": [
+      "discount",
+      "bargain",
+      "percent"
+    ],
+    "componentName": "Discount",
+    "svgPath": "<svg id=\"Iconly_Curved_Discount\" data-name=\"Iconly/Curved/Discount\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Discount\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25C0,2.313,2.313,0,9.25,0S18.5,2.313,18.5,9.25,16.187,18.5,9.25,18.5,0,16.187,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,5.14,5.14,0\" transform=\"translate(7.43 7.43)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_15\" data-name=\"Stroke 15\" d=\"M.5.5H.5\" transform=\"translate(12 12)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n    <path id=\"Stroke_15-2\" data-name=\"Stroke 15\" d=\"M.5.5H.5\" transform=\"translate(7 7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Discovery",
+    "tags": [
+      "discovery",
+      "explore",
+      "discover"
+    ],
+    "componentName": "Discovery",
+    "svgPath": "<svg id=\"Iconly_Curved_Discovery\" data-name=\"Iconly/Curved/Discovery\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Discovery\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,6.6l1.574-5.03L6.6,0,5.03,5.029Z\" transform=\"translate(6.698 6.698)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Document",
+    "tags": [
+      "document",
+      "file",
+      "data"
+    ],
+    "componentName": "Document",
+    "svgPath": "<svg id=\"Iconly_Curved_Document\" data-name=\"Iconly/Curved/Document\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Document\" transform=\"translate(3.61 2.75)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M7.22.5H0\" transform=\"translate(4.766 12.446)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M7.22.5H0\" transform=\"translate(4.766 8.686)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M2.755.5H0\" transform=\"translate(4.766 4.927)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,9.25c0,6.937,2.1,9.25,8.391,9.25s8.391-2.313,8.391-9.25S14.685,0,8.391,0,0,2.313,0,9.25Z\" transform=\"translate(0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Download",
+    "tags": [
+      "download",
+      "upload"
+    ],
+    "componentName": "Download",
+    "svgPath": "<svg id=\"Iconly_Curved_Download\" data-name=\"Iconly/Curved/Download\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Download\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,12.041V0\" transform=\"translate(9.379 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M5.832,0,2.916,2.928,0,0\" transform=\"translate(6.963 9.864)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M13.62,0C17.2.33,18.5,1.67,18.5,7c0,7.1-2.311,7.1-9.25,7.1S0,14.1,0,7C0,1.67,1.3.33,4.88,0\" transform=\"translate(0.75 5.259)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Edit",
+    "tags": [
+      "edit",
+      "pencil",
+      "update"
+    ],
+    "componentName": "Edit",
+    "svgPath": "<svg id=\"Iconly_Curved_Edit\" data-name=\"Iconly/Curved/Edit\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Edit\" transform=\"translate(3.5 3.5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,.5H6.377\" transform=\"translate(9.835 15.508)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M11.808.609h0a3.042,3.042,0,0,0-4.258.607l-6.752,9C-.941,12.529.7,15.4.7,15.4s3.244.746,4.958-1.539l6.752-8.995A3.042,3.042,0,0,0,11.808.609Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M0,0,4.864,3.651\" transform=\"translate(7.004 3.711)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Edit Square",
+    "tags": [
+      "edit",
+      "pencil",
+      "update",
+      "square"
+    ],
+    "componentName": "EditSquare",
+    "svgPath": "<svg id=\"Iconly_Curved_Edit_Square\" data-name=\"Iconly/Curved/Edit Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Edit_Square\" data-name=\"Edit Square\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M9.25,0C2.313,0,0,2.313,0,9.25S2.313,18.5,9.25,18.5s9.25-2.313,9.25-9.25\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M10.071.6h0A2.4,2.4,0,0,0,6.682.809S2.313,5.744.8,7.457s-.4,4.077-.4,4.077,2.5.793,4-.9l5.886-6.647A2.4,2.4,0,0,0,10.071.6Z\" transform=\"translate(7.457 1.7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M0,0,3.6,3.183\" transform=\"translate(13.009 3.801)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Filter",
+    "tags": [
+      "filter",
+      "search",
+      "funnel",
+      "hopper"
+    ],
+    "componentName": "Filter",
+    "svgPath": "<svg id=\"Iconly_Curved_Filter\" data-name=\"Iconly/Curved/Filter\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Filter\" transform=\"translate(4 4)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M6.473.447H0\" transform=\"translate(0.671 13.435)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,2.722C0,4.764.681,5.444,2.722,5.444s2.722-.68,2.722-2.722S4.763,0,2.722,0,0,.68,0,2.722Z\" transform=\"translate(11.205 11.162)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M0,.447H6.472\" transform=\"translate(10.177 2.947)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M5.444,2.722C5.444.681,4.764,0,2.723,0S0,.681,0,2.722.681,5.444,2.723,5.444,5.444,4.764,5.444,2.722Z\" transform=\"translate(0.671 0.671)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Filter 2",
+    "tags": [
+      "filter 2",
+      "filter",
+      "search",
+      "funnel",
+      "hopper"
+    ],
+    "componentName": "Filter2",
+    "svgPath": "<svg id=\"Iconly_Curved_Filter_2\" data-name=\"Iconly/Curved/Filter 2\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Filter_2\" data-name=\"Filter 2\" transform=\"translate(3 3)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M9,18c-2.011,0-2.02-2.006-2.02-5.4S0,6.827,0,3.1C0-.047,2.79,0,9,0s9-.047,9,3.1c0,3.726-6.983,6.1-6.983,9.5S11.014,18,9,18Z\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Folder",
+    "tags": [
+      "folder",
+      "directory"
+    ],
+    "componentName": "Folder",
+    "svgPath": "<svg id=\"Iconly_Curved_Folder\" data-name=\"Iconly/Curved/Folder\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Folder\" transform=\"translate(2.5 2.5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,.476H9.593\" transform=\"translate(4.806 11.598)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M0,5.3C0,2.856,1.25.759,3.622.273a8.088,8.088,0,0,1,5.67.489c1.5.808,1.069,2,2.608,2.875s4.017-.44,5.635,1.306c1.694,1.828,1.685,4.633,1.685,6.422,0,6.8-3.807,7.335-9.61,7.335S0,18.229,0,11.364Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Game",
+    "tags": [
+      "game",
+      "play",
+      "console"
+    ],
+    "componentName": "Game",
+    "svgPath": "<svg id=\"Iconly_Curved_Game\" data-name=\"Iconly/Curved/Game\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Game\" transform=\"translate(2 1.977)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.477,0V3.575\" transform=\"translate(6.777 10.085)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M3.648.477H0\" transform=\"translate(5.432 11.395)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M.528.477h-.1\" transform=\"translate(12.949 9.716)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M.528.477h-.1\" transform=\"translate(14.68 13.128)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M0,0H0A1.293,1.293,0,0,0,1.306,1.28H2.314a2.005,2.005,0,0,1,2.02,1.978V4.265\" transform=\"translate(6.514 0.239)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M19.1,7.414C19.1,1.854,16.709,0,9.549,0S0,1.854,0,7.414s2.387,7.414,9.549,7.414S19.1,12.975,19.1,7.414Z\" transform=\"translate(0.716 4.504)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Graph",
+    "tags": [
+      "graph",
+      "activity",
+      "metrics",
+      "dashboard"
+    ],
+    "componentName": "Graph",
+    "svgPath": "<svg id=\"Iconly_Curved_Graph\" data-name=\"Iconly/Curved/Graph\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Graph\" transform=\"translate(2.2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.67.6C-.038,1.414-.32,6.539.5,7.363s5.768.406,6.956-.529C10.317,4.583,2.93-2,.67.6Z\" transform=\"translate(10.809 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M15.188,7.984c1.084,1.084-1.79,7.264-7.486,7.264A7.7,7.7,0,0,1,0,7.547c0-5.3,5.229-8.69,6.728-7.191.863.863-.109,4.924,1.439,6.473S14.1,6.9,15.188,7.984Z\" transform=\"translate(0.75 3.806)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Heart",
+    "tags": [
+      "heart",
+      "love",
+      "like",
+      "emotion"
+    ],
+    "componentName": "Heart",
+    "svgPath": "<svg id=\"Iconly_Curved_Heart\" data-name=\"Iconly/Curved/Heart\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Heart\" transform=\"translate(2.55 3.55)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.372,8.9C-.7,5.546.554,1.381,4.071.249A4.869,4.869,0,0,1,9.5,1.939a4.73,4.73,0,0,1,5.42-1.69c3.516,1.132,4.778,5.3,3.706,8.647-1.67,5.31-7.5,8.076-9.126,8.076S2.1,14.268.372,8.9Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0A2.154,2.154,0,0,1,1.917,2.422\" transform=\"translate(13.238 4.014)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Heart 2",
+    "tags": [
+      "heart 2",
+      "heart",
+      "love",
+      "like",
+      "emotion"
+    ],
+    "componentName": "Heart2",
+    "svgPath": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20.541\" height=\"18.561\" viewBox=\"0 0 20.541 18.561\">\n  <g id=\"Iconly_Curved_Heart\" data-name=\"Iconly/Curved/Heart\" transform=\"translate(0.772 0.839)\">\n    <g id=\"Heart\">\n      <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.372,8.9C-.7,5.546.554,1.381,4.071.249A4.869,4.869,0,0,1,9.5,1.939a4.73,4.73,0,0,1,5.42-1.69c3.516,1.132,4.778,5.3,3.706,8.647-1.67,5.31-7.5,8.076-9.126,8.076S2.1,14.268.372,8.9Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    </g>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Hide",
+    "tags": [
+      "hide",
+      "eye",
+      "visibility",
+      "hidden"
+    ],
+    "componentName": "Hide",
+    "svgPath": "<svg id=\"Iconly_Curved_Hide\" data-name=\"Iconly/Curved/Hide\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Hide\" transform=\"translate(2 3.5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M3.67,12.89C1.44,11.43,0,9.23,0,7.3,0,4.02,4.14,0,9.25,0a10.118,10.118,0,0,1,5.59,1.71\" transform=\"translate(0.75 1.34)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M10.48,0a5.9,5.9,0,0,1,1.41,3.53c0,3.28-4.15,7.3-9.26,7.3A9.888,9.888,0,0,1,0,10.47\" transform=\"translate(7.37 5.11)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.925,5.4A3.12,3.12,0,0,1,0,3.166,3.16,3.16,0,0,1,5.394.925\" transform=\"translate(6.841 5.472)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M2.537,0A3.158,3.158,0,0,1,0,2.542\" transform=\"translate(10.573 9.199)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_9\" data-name=\"Stroke 9\" d=\"M15.774,0,0,15.774\" transform=\"translate(2.118 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Home",
+    "tags": [
+      "home",
+      "house",
+      "living"
+    ],
+    "componentName": "Home",
+    "svgPath": "<svg id=\"Iconly_Curved_Home\" data-name=\"Iconly/Curved/Home\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Home\" transform=\"translate(2.4 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,.5H5.815\" transform=\"translate(6.679 13.635)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M0,11.713c0-5.631.614-5.238,3.919-8.3C5.365,2.246,7.615,0,9.558,0s4.237,2.235,5.7,3.41c3.305,3.065,3.918,2.672,3.918,8.3C19.172,20,17.213,20,9.586,20S0,20,0,11.713Z\" transform=\"translate(0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Image",
+    "tags": [
+      "image",
+      "picture",
+      "photo"
+    ],
+    "componentName": "Image",
+    "svgPath": "<svg id=\"Iconly_Curved_Image\" data-name=\"Iconly/Curved/Image\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Image\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,3.71S.812,2.073,1.994,2.073,3.78,3.448,5.09,3.448,7.868,0,9.352,0,11.9,2.391,11.9,2.391\" transform=\"translate(4.071 10.749)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M3.115,1.558A1.558,1.558,0,1,1,1.557,0,1.558,1.558,0,0,1,3.115,1.558Z\" transform=\"translate(5.024 5.547)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Image 2",
+    "tags": [
+      "image",
+      "picture",
+      "photo"
+    ],
+    "componentName": "Image2",
+    "svgPath": "<svg id=\"Iconly_Curved_Image_2\" data-name=\"Iconly/Curved/Image 2\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Image_2\" data-name=\"Image 2\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M3.522,1.761A1.761,1.761,0,1,1,1.761,0,1.76,1.76,0,0,1,3.522,1.761Z\" transform=\"translate(5.077 5.023)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M16.654,2.737C15.773,1.831,14.527,0,12.238,0S9.9,4.038,7.563,4.038s-3.278-1.371-4.8-.655S0,6.944,0,6.944\" transform=\"translate(2.466 9.93)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Info Circle",
+    "tags": [
+      "info",
+      "alert",
+      "circle"
+    ],
+    "componentName": "InfoCircle",
+    "svgPath": "<svg id=\"Iconly_Curved_Danger_Square\" data-name=\"Iconly/Curved/Danger Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Danger_Circle\" data-name=\"Danger Circle\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25C0,2.313,2.313,0,9.25,0S18.5,2.313,18.5,9.25,16.187,18.5,9.25,18.5,0,16.187,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M.5,0V3.895\" transform=\"translate(9.5 6.105)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_15\" data-name=\"Stroke 15\" d=\"M.5.5H.5\" transform=\"translate(9.5 13)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Location",
+    "tags": [
+      "location",
+      "gsp",
+      "maps",
+      "navigation",
+      "travel",
+      "marker",
+      "map",
+      "pin"
+    ],
+    "componentName": "Location",
+    "svgPath": "<svg id=\"Iconly_Curved_Location\" data-name=\"Iconly/Curved/Location\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Location\" transform=\"translate(4.5 3)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M5,2.5A2.5,2.5,0,1,0,2.5,5,2.5,2.5,0,0,0,5,2.5Z\" transform=\"translate(5.01 5.21)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M7.5,18C4.6,18,0,12.959,0,7.6A7.549,7.549,0,0,1,7.5,0,7.55,7.55,0,0,1,15,7.6C15,12.959,10.4,18,7.5,18Z\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Lock",
+    "tags": [
+      "lock",
+      "security",
+      "password",
+      "login",
+      "auth"
+    ],
+    "componentName": "Lock",
+    "svgPath": "<svg id=\"Iconly_Curved_Lock\" data-name=\"Iconly/Curved/Lock\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Lock\" transform=\"translate(3.5 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M9.121,6.653V4.5A4.561,4.561,0,0,0,0,4.484V6.653\" transform=\"translate(3.85 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M.5,0V2.221\" transform=\"translate(7.91 12.156)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M7.66,0C1.915,0,0,1.568,0,6.271s1.915,6.272,7.66,6.272,7.661-1.568,7.661-6.272S13.4,0,7.66,0Z\" transform=\"translate(0.75 6.824)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Info Square",
+    "tags": [
+      "info",
+      "alert",
+      "square"
+    ],
+    "componentName": "InfoSquare",
+    "svgPath": "<svg id=\"Iconly_Curved_Info_Square\" data-name=\"Iconly/Curved/Info Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Info_Square\" data-name=\"Info Square\" transform=\"translate(2.75 2.75)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25C0,2.313,2.313,0,9.25,0S18.5,2.313,18.5,9.25,16.187,18.5,9.25,18.5,0,16.187,0,9.25Z\" transform=\"translate(18.5 18.5) rotate(180)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M.5,0V3.895\" transform=\"translate(9.75 13.145) rotate(180)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_15\" data-name=\"Stroke 15\" d=\"M.5.5H.5\" transform=\"translate(9.75 6.25) rotate(180)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Login",
+    "tags": [
+      "login",
+      "in",
+      "sign",
+      "auth",
+      "secure",
+      "arrow"
+    ],
+    "componentName": "Login",
+    "svgPath": "<svg id=\"Iconly_Curved_Login\" data-name=\"Iconly/Curved/Login\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Login\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M12.041.5H0\" transform=\"translate(0.75 9.621)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0,2.928,2.916,0,5.832\" transform=\"translate(9.864 7.205)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,4.88C.33,1.3,1.67,0,7,0c7.1,0,7.1,2.31,7.1,9.25s0,9.25-7.1,9.25c-5.33,0-6.67-1.3-7-4.88\" transform=\"translate(5.259 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Logout",
+    "tags": [
+      "logout",
+      "login",
+      "auth",
+      "sign",
+      "out",
+      "arrow"
+    ],
+    "componentName": "Logout",
+    "svgPath": "<svg id=\"Iconly_Curved_Logout\" data-name=\"Iconly/Curved/Logout\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Logout\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M12.041.5H0\" transform=\"translate(7.75 9.621)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0,2.928,2.916,0,5.832\" transform=\"translate(16.864 7.205)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,4.88C-.33,1.3-1.67,0-7,0c-7.1,0-7.1,2.31-7.1,9.25s0,9.25,7.1,9.25c5.33,0,6.67-1.3,7-4.88\" transform=\"translate(14.36 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Message",
+    "tags": [
+      "message",
+      "chat",
+      "email",
+      "mail"
+    ],
+    "componentName": "Message",
+    "svgPath": "<svg id=\"Iconly_Curved_Message\" data-name=\"Iconly/Curved/Message\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Message\" transform=\"translate(2.452 2.852)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M11.151,0S7.941,3.853,5.593,3.853,0,0,0,0\" transform=\"translate(3.942 6.167)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,9.117C0,2.279,2.381,0,9.524,0s9.524,2.279,9.524,9.117-2.381,9.117-9.524,9.117S0,15.954,0,9.117Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "More Circle",
+    "tags": [
+      "more",
+      "circle",
+      "dots",
+      "menu"
+    ],
+    "componentName": "MoreCircle",
+    "svgPath": "<svg id=\"Iconly_Curved_More_Circle\" data-name=\"Iconly/Curved/More Circle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"More_Circle\" data-name=\"More Circle\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,9.25C0,2.313,2.313,0,9.25,0S18.5,2.313,18.5,9.25,16.187,18.5,9.25,18.5,0,16.187,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_11\" data-name=\"Stroke 11\" d=\"M.5.5H.5\" transform=\"translate(12.709 11.4)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n    <path id=\"Stroke_13\" data-name=\"Stroke 13\" d=\"M.5.5H.5\" transform=\"translate(9.709 7.4)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n    <path id=\"Stroke_15\" data-name=\"Stroke 15\" d=\"M.5.5H.5\" transform=\"translate(6.7 11.4)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Notification",
+    "tags": [
+      "notification",
+      "sound",
+      "silent",
+      "bell",
+      "alarm"
+    ],
+    "componentName": "Notification",
+    "svgPath": "<svg id=\"Iconly_Curved_Notification\" data-name=\"Iconly/Curved/Notification\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Notification\" transform=\"translate(4.615 2.514)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M7.382,0C2.947,0,1.021,4.015,1.021,6.67c0,1.984.288,1.4-.81,3.82-1.341,3.449,4.051,4.858,7.171,4.858s8.511-1.41,7.171-4.858c-1.1-2.42-.81-1.836-.81-3.82C13.743,4.015,11.815,0,7.382,0Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M4.62,0A2.992,2.992,0,0,1,0,0\" transform=\"translate(5.071 17.998)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "More Square",
+    "tags": [
+      "more",
+      "square",
+      "dots",
+      "menu"
+    ],
+    "componentName": "MoreSquare",
+    "svgPath": "<svg id=\"Iconly_Curved_More_Square\" data-name=\"Iconly/Curved/More Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"More_Square\" data-name=\"More Square\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,9.25C0,2.313,2.313,0,9.25,0S18.5,2.313,18.5,9.25,16.187,18.5,9.25,18.5,0,16.187,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_11\" data-name=\"Stroke 11\" d=\"M.5.5H.5\" transform=\"translate(13.498 9.5)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n    <path id=\"Stroke_13\" data-name=\"Stroke 13\" d=\"M.5.5H.5\" transform=\"translate(9.499 9.5)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n    <path id=\"Stroke_15\" data-name=\"Stroke 15\" d=\"M.5.5H.5\" transform=\"translate(5.5 9.5)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Paper",
+    "tags": [
+      "paper",
+      "document",
+      "file"
+    ],
+    "componentName": "Paper",
+    "svgPath": "<svg id=\"Iconly_Curved_Paper\" data-name=\"Iconly/Curved/Paper\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Paper\" transform=\"translate(3.65 2.75)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M5.4.5H0\" transform=\"translate(5.255 12.2)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M3.356.5H0\" transform=\"translate(5.255 8.189)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M16.51,5.55,10.84.15A18.2,18.2,0,0,0,8.39,0C2.1,0,0,2.32,0,9.25S2.1,18.5,8.39,18.5s8.4-2.31,8.4-9.25A21.045,21.045,0,0,0,16.51,5.55Z\" transform=\"translate(0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M0,0V2.661A3.363,3.363,0,0,0,3.364,6.024H6.315\" transform=\"translate(10.284 0.083)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Paper Download",
+    "tags": [
+      "paper",
+      "document",
+      "file",
+      "download"
+    ],
+    "componentName": "PaperDownload",
+    "svgPath": "<svg id=\"Iconly_Curved_Paper_Download\" data-name=\"Iconly/Curved/Paper Download\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Paper_Download\" data-name=\"Paper Download\" transform=\"translate(3.65 2.75)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M16.51,5.55,10.84.15A18.2,18.2,0,0,0,8.39,0C2.1,0,0,2.32,0,9.25S2.1,18.5,8.39,18.5s8.4-2.31,8.4-9.25A21.045,21.045,0,0,0,16.51,5.55Z\" transform=\"translate(0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0V2.661A3.363,3.363,0,0,0,3.364,6.024H6.315\" transform=\"translate(10.284 0.083)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.5,6.041V0\" transform=\"translate(7.51 7.226)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M0,0,2.345,2.355,4.69,0\" transform=\"translate(5.665 10.912)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Paper Negative",
+    "tags": [
+      "paper",
+      "document",
+      "file",
+      "negative",
+      "minus"
+    ],
+    "componentName": "PaperNegative",
+    "svgPath": "<svg id=\"Iconly_Curved_Paper_Negative\" data-name=\"Iconly/Curved/Paper Negative\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Paper_Negative\" data-name=\"Paper Negative\" transform=\"translate(3.65 2.75)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M16.51,5.55,10.84.15A18.2,18.2,0,0,0,8.39,0C2.1,0,0,2.32,0,9.25S2.1,18.5,8.39,18.5s8.4-2.31,8.4-9.25A21.045,21.045,0,0,0,16.51,5.55Z\" transform=\"translate(0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0V2.661A3.363,3.363,0,0,0,3.364,6.024H6.315\" transform=\"translate(10.284 0.083)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M4.9.5H0\" transform=\"translate(5.762 9.731)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Paper Fail",
+    "tags": [
+      "paper",
+      "document",
+      "file",
+      "fail"
+    ],
+    "componentName": "PaperFail",
+    "svgPath": "<svg id=\"Iconly_Curved_Paper_Fail\" data-name=\"Iconly/Curved/Paper Fail\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Paper_Fail\" data-name=\"Paper Fail\" transform=\"translate(3.65 2.75)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M16.51,5.55,10.84.15A18.2,18.2,0,0,0,8.39,0C2.1,0,0,2.32,0,9.25S2.1,18.5,8.39,18.5s8.4-2.31,8.4-9.25A21.045,21.045,0,0,0,16.51,5.55Z\" transform=\"translate(0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0V2.661A3.363,3.363,0,0,0,3.364,6.024H6.315\" transform=\"translate(10.284 0.083)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M3.466,3.466,0,0\" transform=\"translate(6.479 8.498)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M0,3.466,3.466,0\" transform=\"translate(6.48 8.498)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Paper Upload",
+    "tags": [
+      "add",
+      "paper",
+      "document",
+      "file",
+      "upload"
+    ],
+    "componentName": "PaperUpload",
+    "svgPath": "<svg id=\"Iconly_Curved_Paper_Upload\" data-name=\"Iconly/Curved/Paper Upload\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Paper_Upload\" data-name=\"Paper Upload\" transform=\"translate(3.65 2.75)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M16.51,5.55,10.84.15A18.2,18.2,0,0,0,8.39,0C2.1,0,0,2.32,0,9.25S2.1,18.5,8.39,18.5s8.4-2.31,8.4-9.25A21.045,21.045,0,0,0,16.51,5.55Z\" transform=\"translate(0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0V2.661A3.363,3.363,0,0,0,3.364,6.024H6.315\" transform=\"translate(10.284 0.083)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.5,0V6.041\" transform=\"translate(7.51 7.226)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M4.69,2.355,2.345,0,0,2.355\" transform=\"translate(5.665 7.227)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Paper Plus",
+    "tags": [
+      "add",
+      "paper",
+      "document",
+      "file",
+      "positive",
+      "plus"
+    ],
+    "componentName": "PaperPlus",
+    "svgPath": "<svg id=\"Iconly_Curved_Paper_Plus\" data-name=\"Iconly/Curved/Paper Plus\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Paper_Plus\" data-name=\"Paper Plus\" transform=\"translate(3.65 2.75)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M16.51,5.55,10.84.15A18.2,18.2,0,0,0,8.39,0C2.1,0,0,2.32,0,9.25S2.1,18.5,8.39,18.5s8.4-2.31,8.4-9.25A21.045,21.045,0,0,0,16.51,5.55Z\" transform=\"translate(0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0V2.661A3.363,3.363,0,0,0,3.364,6.024H6.315\" transform=\"translate(10.284 0.083)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M4.9.5H0\" transform=\"translate(5.762 9.731)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M.5,4.9V0\" transform=\"translate(7.713 7.781)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Password",
+    "tags": [
+      "password",
+      "lock",
+      "secure",
+      "auth",
+      "sign",
+      "login"
+    ],
+    "componentName": "Password",
+    "svgPath": "<svg id=\"Iconly_Curved_Password\" data-name=\"Iconly/Curved/Password\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Password\" transform=\"translate(2.75 2.75)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M3.7,1.852A1.852,1.852,0,1,1,1.852,0h0A1.851,1.851,0,0,1,3.7,1.852Z\" transform=\"translate(4.235 7.398)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0H6.318V1.852\" transform=\"translate(7.942 9.25)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.5,1.852V0\" transform=\"translate(10.932 9.25)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M0,9.25C0,2.313,2.313,0,9.25,0S18.5,2.313,18.5,9.25,16.187,18.5,9.25,18.5,0,16.187,0,9.25Z\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "People",
+    "tags": [
+      "people",
+      "users",
+      "group"
+    ],
+    "componentName": "People",
+    "svgPath": "<svg id=\"Iconly_Curved_3_User\" data-name=\"Iconly/Curved/3 User\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"_3_User\" data-name=\"3 User\" transform=\"translate(1 3)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M6.006,6.122C2.767,6.122,0,5.632,0,3.67S2.749,0,6.006,0c3.239,0,6.006,1.692,6.006,3.653S9.263,6.122,6.006,6.122Z\" transform=\"translate(4.966 11.246)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M3.85,7.7a3.837,3.837,0,1,0-.027,0Z\" transform=\"translate(7.122 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.166,5.643a2.9,2.9,0,0,0,2.149-2.8A2.9,2.9,0,0,0,0,0\" transform=\"translate(17.196 1.749)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M0,0C1.754,0,3.252,1.189,3.252,2.251a1.64,1.64,0,0,1-1.3,1.49\" transform=\"translate(17.943 10.544)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_9\" data-name=\"Stroke 9\" d=\"M2.15,5.643A2.9,2.9,0,0,1,2.315,0\" transform=\"translate(2.434 1.749)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_11\" data-name=\"Stroke 11\" d=\"M3.252,0C1.5,0,0,1.189,0,2.251a1.64,1.64,0,0,0,1.3,1.49\" transform=\"translate(0.75 10.544)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Play",
+    "tags": [
+      "play",
+      "start",
+      "music"
+    ],
+    "componentName": "Play",
+    "svgPath": "<svg id=\"Iconly_Curved_Play\" data-name=\"Iconly/Curved/Play\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Play\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M5.513,3.338c0-.9-4.584-3.8-5.1-3.276s-.57,5.983,0,6.552S5.513,4.242,5.513,3.338Z\" transform=\"translate(7.903 6.517)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Plus",
+    "tags": [
+      "symbol",
+      "plus",
+      "add",
+      "positive"
+    ],
+    "componentName": "Plus",
+    "svgPath": "<svg id=\"Iconly_Curved_Plus\" data-name=\"Iconly/Curved/Plus\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Plus\" transform=\"translate(2.3 2.3)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.526,0V7.148\" transform=\"translate(9.211 6.163)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M7.156.526H0\" transform=\"translate(6.159 9.211)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,9.737C0,2.435,2.435,0,9.737,0s9.737,2.435,9.737,9.737-2.435,9.737-9.737,9.737S0,17.039,0,9.737Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Scan",
+    "tags": [
+      "scan",
+      "read",
+      "qr",
+      "printer",
+      "scanner"
+    ],
+    "componentName": "Scan",
+    "svgPath": "<svg id=\"Iconly_Curved_Scan\" data-name=\"Iconly/Curved/Scan\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Scan\" transform=\"translate(1.45 2.95)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M21.132.5H0\" transform=\"translate(0 9.35)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,5.77C.57,2.29,2.29.57,5.77,0\" transform=\"translate(1.546 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M5.981,8.186C2.5,7.606.781,5.9.211,2.416v0A17.035,17.035,0,0,1,0,0\" transform=\"translate(1.335 9.854)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M5.979,0a17.183,17.183,0,0,1-.21,2.42l0,0C5.2,5.9,3.48,7.606,0,8.186\" transform=\"translate(13.816 9.854)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_9\" data-name=\"Stroke 9\" d=\"M0,0C3.48.57,5.2,2.29,5.77,5.77\" transform=\"translate(13.816 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Search",
+    "tags": [
+      "search",
+      "find",
+      "magnifier",
+      "magnifying glass"
+    ],
+    "componentName": "Search",
+    "svgPath": "<svg id=\"Iconly_Curved_Search\" data-name=\"Iconly/Curved/Search\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Search\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M8.561,0A8.561,8.561,0,1,1,0,8.561,8.561,8.561,0,0,1,8.561,0Z\" transform=\"translate(0.714 0.714)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M1.411,0A1.411,1.411,0,1,1,0,1.41,1.411,1.411,0,0,1,1.411,0Z\" transform=\"translate(16.488 16.488)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Setting",
+    "tags": [
+      "setting",
+      "options",
+      "cog",
+      "gear",
+      "edit",
+      "preferences"
+    ],
+    "componentName": "Setting",
+    "svgPath": "<svg id=\"Iconly_Curved_Setting\" data-name=\"Iconly/Curved/Setting\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Setting\" transform=\"translate(3.5 2.5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M2.5,0A2.5,2.5,0,1,1,0,2.5,2.5,2.5,0,0,1,2.5,0Z\" transform=\"translate(6 7)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M16.668,4.75h0a2.464,2.464,0,0,0-3.379-.912,1.543,1.543,0,0,1-2.314-1.346A2.484,2.484,0,0,0,8.5,0h0A2.484,2.484,0,0,0,6.025,2.492,1.543,1.543,0,0,1,3.712,3.839a2.465,2.465,0,0,0-3.38.912,2.5,2.5,0,0,0,.906,3.4,1.56,1.56,0,0,1,0,2.692,2.5,2.5,0,0,0-.906,3.4,2.465,2.465,0,0,0,3.379.913h0a1.542,1.542,0,0,1,2.313,1.345h0A2.484,2.484,0,0,0,8.5,19h0a2.484,2.484,0,0,0,2.474-2.492h0a1.543,1.543,0,0,1,2.314-1.345,2.465,2.465,0,0,0,3.379-.913,2.5,2.5,0,0,0-.905-3.4h0a1.56,1.56,0,0,1,0-2.692A2.5,2.5,0,0,0,16.668,4.75Z\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Shield Fail",
+    "tags": [
+      "shield",
+      "fail",
+      "insecure"
+    ],
+    "componentName": "ShieldFail",
+    "svgPath": "<svg id=\"Iconly_Curved_Shield_Fail\" data-name=\"Iconly/Curved/Shield Fail\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Shield_Fail\" data-name=\"Shield Fail\" transform=\"translate(3.5 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M7.736,18.855a8.4,8.4,0,0,0,7.672-8.727c0-6.4.278-6.905-.338-7.521A12.592,12.592,0,0,0,7.736,0,12.6,12.6,0,0,0,.4,2.607c-.616.616-.338,1.117-.338,7.521A8.4,8.4,0,0,0,7.736,18.855Z\" transform=\"translate(0.75 0.751)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M3.759,3.758,0,0\" transform=\"translate(6.605 8.066)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M0,3.758,3.759,0\" transform=\"translate(6.605 8.066)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Send",
+    "tags": [
+      "send",
+      "paper",
+      "airplane",
+      "message",
+      "mail",
+      "email",
+      "aero",
+      "plane"
+    ],
+    "componentName": "Send",
+    "svgPath": "<svg id=\"Iconly_Curved_Send\" data-name=\"Iconly/Curved/Send\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Send\" transform=\"translate(2.8 2.8)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M8.693,9.638S-3.283,7.161.879,4.758C4.391,2.731,16.495-.755,18.186.146c.9,1.691-2.585,13.795-4.612,17.307C11.171,21.615,8.693,9.638,8.693,9.638Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,9.492,9.492,0\" transform=\"translate(8.693 0.146)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Shield Done",
+    "tags": [
+      "shield",
+      "done",
+      "security"
+    ],
+    "componentName": "ShieldDone",
+    "svgPath": "<svg id=\"Iconly_Curved_Shield_Done\" data-name=\"Iconly/Curved/Shield Done\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Shield_Done\" data-name=\"Shield Done\" transform=\"translate(3.5 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M7.735,18.855a8.4,8.4,0,0,0,7.672-8.727c0-6.4.278-6.905-.337-7.521A12.6,12.6,0,0,0,7.735,0,12.589,12.589,0,0,0,.4,2.607c-.616.616-.338,1.117-.338,7.521A8.4,8.4,0,0,0,7.735,18.855Z\" transform=\"translate(0.75 0.751)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,2.005,1.892,3.9,5.79,0\" transform=\"translate(5.886 7.87)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Star",
+    "tags": [
+      "star",
+      "fav",
+      "like",
+      "bookmark"
+    ],
+    "componentName": "Star",
+    "svgPath": "<svg id=\"Iconly_Curved_Star\" data-name=\"Iconly/Curved/Star\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Star\" transform=\"translate(3 3)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M9,0C6.964,0,6.771,3.547,5.559,4.8S.578,4.62.055,6.844s2.868,2.98,3.286,4.889-1.651,4.591.119,5.926S7.134,15.975,9,15.975s3.771,3.019,5.541,1.685-.3-4.017.119-5.926,3.808-2.664,3.286-4.889-4.292-.791-5.5-2.044S11.036,0,9,0Z\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Show",
+    "tags": [
+      "show",
+      "visibility",
+      "view",
+      "watch",
+      "eye"
+    ],
+    "componentName": "Show",
+    "svgPath": "<svg id=\"Iconly_Curved_Show\" data-name=\"Iconly/Curved/Show\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Show\" transform=\"translate(2 4)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M6.324,3.162A3.162,3.162,0,1,1,3.162,0,3.162,3.162,0,0,1,6.324,3.162Z\" transform=\"translate(6.84 4.89)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,7.3c0,3.28,4.142,7.3,9.252,7.3S18.5,10.585,18.5,7.3,14.361,0,9.252,0,0,4.022,0,7.3Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Tick Square",
+    "tags": [
+      "tick",
+      "check",
+      "square",
+      "checkbox",
+      "ok",
+      "right"
+    ],
+    "componentName": "TickSquare",
+    "svgPath": "<svg id=\"Iconly_Curved_Tick_Square\" data-name=\"Iconly/Curved/Tick Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Tick_Square\" data-name=\"Tick Square\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,2.373,2.374,4.746,7.12,0\" transform=\"translate(6.44 7.627)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Swap",
+    "tags": [
+      "swap",
+      "switch",
+      "turn"
+    ],
+    "componentName": "Swap",
+    "svgPath": "<svg id=\"Iconly_Curved_Swap\" data-name=\"Iconly/Curved/Swap\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Swap\" transform=\"translate(2.9 4.6)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,0V12.618\" transform=\"translate(3.579 0.001)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,4.1S2.169,0,4.078,0,8.156,4.1,8.156,4.1\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.5,12.618V0\" transform=\"translate(13.506 2.21)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M8.156,0S5.986,4.1,4.078,4.1,0,0,0,0\" transform=\"translate(9.929 10.728)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Ticket",
+    "tags": [
+      "ticket",
+      "sale",
+      "event"
+    ],
+    "componentName": "Ticket",
+    "svgPath": "<svg id=\"Iconly_Curved_Ticket\" data-name=\"Iconly/Curved/Ticket\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Ticket\" transform=\"translate(2.5 3)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.475,0V2.655\" transform=\"translate(10.384 0.6)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M.475,0V2.22\" transform=\"translate(10.384 14.544)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_6\" data-name=\"Stroke 6\" d=\"M.475,5.289V0\" transform=\"translate(10.384 6.255)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M19,10.55a2.051,2.051,0,0,1,0-4.1C19,1.7,19,0,9.5,0S0,1.7,0,6.449a2.051,2.051,0,0,1,0,4.1C0,15.3,0,17,9.5,17S19,15.3,19,10.55Z\" transform=\"translate(0 0.5)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Ticket Star",
+    "tags": [
+      "ticket",
+      "star",
+      "sale",
+      "event"
+    ],
+    "componentName": "TicketStar",
+    "svgPath": "<svg id=\"Iconly_Curved_Ticket_Star\" data-name=\"Iconly/Curved/Ticket Star\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Ticket_Star\" data-name=\"Ticket Star\" transform=\"translate(2.65 3.411)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M18.79,10.583c-2.661,0-2.661-4.114,0-4.114C18.79,1.7,18.79,0,9.4,0S0,1.7,0,6.469c2.661,0,2.661,4.114,0,4.114,0,4.768,0,6.47,9.4,6.47S18.79,15.351,18.79,10.583Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M3.018,0C2.335,0,2.27,1.089,1.864,1.475S.194,1.42.018,2.1s.962.916,1.1,1.5S.567,5.016,1.16,5.427s1.233-.518,1.858-.518,1.264.927,1.858.518-.1-1.235.039-1.822,1.278-.819,1.1-1.5S4.579,1.86,4.172,1.475,3.7,0,3.018,0Z\" transform=\"translate(6.377 5.76)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Time Square",
+    "tags": [
+      "time",
+      "square",
+      "clock",
+      "watch",
+      "alarm"
+    ],
+    "componentName": "TimeSquare",
+    "svgPath": "<svg id=\"Iconly_Curved_Time_Square\" data-name=\"Iconly/Curved/Time Square\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Time_Square\" data-name=\"Time Square\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M3.391,6.384,0,4.361V0\" transform=\"translate(9.999 5.634)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Time Circle",
+    "tags": [
+      "time",
+      "circle",
+      "clock",
+      "watch",
+      "alarm"
+    ],
+    "componentName": "TimeCircle",
+    "svgPath": "<svg id=\"Iconly_Curved_Time_Circle\" data-name=\"Iconly/Curved/Time Circle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Time_Circle\" data-name=\"Time Circle\" transform=\"translate(2 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M18.5,9.25A9.25,9.25,0,1,1,9.25,0,9.25,9.25,0,0,1,18.5,9.25Z\" transform=\"translate(0.75 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M4.53,4.921,0,4.847V0\" transform=\"translate(9.661 5.846)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Two Users",
+    "tags": [
+      "user",
+      "people",
+      "users"
+    ],
+    "componentName": "TwoUsers",
+    "svgPath": "<svg id=\"Iconly_Curved_2_User\" data-name=\"Iconly/Curved/2 User\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"_2_User\" data-name=\"2 User\" transform=\"translate(2.75 2.549)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M6.809,7.007C3.137,7.007,0,6.452,0,4.228S3.117,0,6.809,0c3.672,0,6.808,1.985,6.808,4.208S10.5,7.007,6.809,7.007Z\" transform=\"translate(0 11.9)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M4.364,8.728a4.349,4.349,0,1,0-.031,0Z\" transform=\"translate(2.445 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.187,6.4A3.289,3.289,0,0,0,2.624,3.221,3.288,3.288,0,0,0,0,0\" transform=\"translate(13.865 1.132)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M0,0C1.988,0,3.686,1.348,3.686,2.551A1.814,1.814,0,0,1,2.211,4.2\" transform=\"translate(14.711 11.104)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Unlock",
+    "tags": [
+      "unlock",
+      "lock",
+      "unsecure",
+      "open",
+      "password"
+    ],
+    "componentName": "Unlock",
+    "svgPath": "<svg id=\"Iconly_Curved_Unlock\" data-name=\"Iconly/Curved/Unlock\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Unlock\" transform=\"translate(3.5 2)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M8.927,3.237A4.562,4.562,0,0,0,0,4.484V6.653\" transform=\"translate(3.849 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M.5,0V2.221\" transform=\"translate(7.91 12.156)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M7.66,0C1.915,0,0,1.568,0,6.271s1.915,6.272,7.66,6.272,7.661-1.568,7.661-6.272S13.406,0,7.66,0Z\" transform=\"translate(0.75 6.824)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Upload",
+    "tags": [
+      "upload",
+      "download",
+      "arrow"
+    ],
+    "componentName": "Upload",
+    "svgPath": "<svg id=\"Iconly_Curved_Upload\" data-name=\"Iconly/Curved/Upload\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Upload\" transform=\"translate(2 22) rotate(-90)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M12.041.5H0\" transform=\"translate(7.75 9.621)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0,2.928,2.916,0,5.832\" transform=\"translate(16.864 7.205)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,4.88C-.33,1.3-1.67,0-7,0c-7.1,0-7.1,2.31-7.1,9.25s0,9.25,7.1,9.25c5.33,0,6.67-1.3,7-4.88\" transform=\"translate(14.36 0.75)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Video",
+    "tags": [
+      "video",
+      "camera",
+      "record",
+      "film",
+      "image"
+    ],
+    "componentName": "Video",
+    "svgPath": "<svg id=\"Iconly_Curved_Video\" data-name=\"Iconly/Curved/Video\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Video\" transform=\"translate(2.514 5.114)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,2.466C1.838,1.009,4.3-.4,4.771.1c.771.829.7,8.714,0,9.467-.429.467-2.914-.943-4.771-2.39\" transform=\"translate(13.637 2.092)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,6.923C0,1.73,1.725,0,6.9,0s6.9,1.73,6.9,6.923-1.725,6.923-6.9,6.923S0,12.114,0,6.923Z\" transform=\"translate(0 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "User",
+    "tags": [
+      "user",
+      "people",
+      "person",
+      "users",
+      "profile"
+    ],
+    "componentName": "User",
+    "svgPath": "<svg id=\"Iconly_Curved_Profile\" data-name=\"Iconly/Curved/Profile\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Profile\" transform=\"translate(5 2.4)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M6.845,7.3C3.153,7.3,0,6.726,0,4.425S3.133,0,6.845,0c3.692,0,6.845,2.1,6.845,4.4S10.556,7.3,6.845,7.3Z\" transform=\"translate(0 11.962)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M4.387,8.774a4.372,4.372,0,1,0-.031,0Z\" transform=\"translate(2.45 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Voice",
+    "tags": [
+      "voice",
+      "record",
+      "mic",
+      "note"
+    ],
+    "componentName": "Voice",
+    "svgPath": "<svg id=\"Iconly_Curved_Voice\" data-name=\"Iconly/Curved/Voice\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Voice\" transform=\"translate(4.9 2.5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,0A5.669,5.669,0,0,0,5.669,5.669,5.669,5.669,0,0,0,11.339,0\" transform=\"translate(1.465 11.178)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M11.339,7.923V5.669A5.669,5.669,0,0,0,0,5.669V7.923\" transform=\"translate(1.465 0)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.5,2.152V0\" transform=\"translate(6.634 16.848)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M0,.5H14.268\" transform=\"translate(0 10.678)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Voice 2",
+    "tags": [
+      "voice 2",
+      "voice",
+      "record",
+      "mic",
+      "note"
+    ],
+    "componentName": "Voice2",
+    "svgPath": "<svg id=\"Iconly_Curved_Voice_2\" data-name=\"Iconly/Curved/Voice 2\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Voice_2\" data-name=\"Voice 2\" transform=\"translate(4.5 2.5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,0A5.386,5.386,0,0,0,5.386,5.386,5.385,5.385,0,0,0,10.772,0\" transform=\"translate(2.104 11.332)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M10.772,7.527V5.386A5.386,5.386,0,0,0,0,5.386V7.527\" transform=\"translate(2.104 0.713)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M.475,2.044V0\" transform=\"translate(7.015 16.718)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M0,.475H13.556\" transform=\"translate(0.712 10.857)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_9\" data-name=\"Stroke 9\" d=\"M0,.475H2.985\" transform=\"translate(5.997 7.477)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_11\" data-name=\"Stroke 11\" d=\"M1,.475H0\" transform=\"translate(6.988 4.707)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Volume Down",
+    "tags": [
+      "volume",
+      "down",
+      "speaker",
+      "audio",
+      "music"
+    ],
+    "componentName": "VolumeDown",
+    "svgPath": "<svg id=\"Iconly_Curved_Volume_Down\" data-name=\"Iconly/Curved/Volume Down\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Volume_Down\" data-name=\"Volume Down\" transform=\"translate(4 5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,0A7.568,7.568,0,0,1,0,7.306\" transform=\"translate(14.656 3.635)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,6.621c0,1.219,0,2.648,1.006,3.5s1.805.5,3.108.931,3.128,3.076,5.144,1.881c1.09-.774,1.6-2.236,1.6-6.314S10.371,1.1,9.258.307C7.242-.888,5.417,1.76,4.114,2.188s-2.1.076-3.108.931S0,5.4,0,6.621Z\" transform=\"translate(0.667 0.666)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Volume Off",
+    "tags": [
+      "volume",
+      "off",
+      "speaker",
+      "audio",
+      "music"
+    ],
+    "componentName": "VolumeOff",
+    "svgPath": "<svg id=\"Iconly_Curved_Volume_Off\" data-name=\"Iconly/Curved/Volume Off\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Volume_Off\" data-name=\"Volume Off\" transform=\"translate(4 4)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M3.732,11.008c-1.083-.251-1.816-.054-2.72-.814C0,9.335-.008,7.895,0,6.669-.008,5.443,0,4,1.012,3.144s1.816-.51,3.132-.939,3.141-3.1,5.172-1.9c.823.582,1.306,1.53,1.5,3.615\" transform=\"translate(0.671 1.545)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M4.509,0c-.116,3.006-.635,4.214-1.593,4.894A2.583,2.583,0,0,1,0,4.509\" transform=\"translate(7.07 9.672)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M15.345,0,0,15.345\" transform=\"translate(0.941 0.671)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Volume Up",
+    "tags": [
+      "volume",
+      "up",
+      "speaker",
+      "audio",
+      "music"
+    ],
+    "componentName": "VolumeUp",
+    "svgPath": "<svg id=\"Iconly_Curved_Volume_Up\" data-name=\"Iconly/Curved/Volume Up\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Volume_Up\" data-name=\"Volume Up\" transform=\"translate(2 4.5)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M0,0A11.128,11.128,0,0,1,0,12.357\" transform=\"translate(17.436 1.274)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M0,0A7.74,7.74,0,0,1,0,7.472\" transform=\"translate(14.989 3.717)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M0,6.771c0,1.246,0,2.708,1.029,3.582s1.846.514,3.178.952,3.2,3.146,5.261,1.924c1.115-.792,1.64-2.286,1.64-6.457s-.5-5.649-1.64-6.457C7.407-.908,5.54,1.8,4.208,2.238s-2.148.078-3.178.952S0,5.525,0,6.771Z\" transform=\"translate(0.682 0.682)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Wallet",
+    "tags": [
+      "wallet",
+      "trader",
+      "money",
+      "cash"
+    ],
+    "componentName": "Wallet",
+    "svgPath": "<svg id=\"Iconly_Curved_Wallet\" data-name=\"Iconly/Curved/Wallet\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Wallet\" transform=\"translate(2 3)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M6.45,5.127H2.563A2.563,2.563,0,0,1,2.563,0H6.419\" transform=\"translate(12.722 6.549)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_3\" data-name=\"Stroke 3\" d=\"M.625.476h-.3\" transform=\"translate(15.097 8.577)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_5\" data-name=\"Stroke 5\" d=\"M0,.476H4.06\" transform=\"translate(5.606 4.668)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_7\" data-name=\"Stroke 7\" d=\"M0,8.539C0,2.134,2.325,0,9.3,0s9.3,2.134,9.3,8.539-2.325,8.539-9.3,8.539S0,14.943,0,8.539Z\" transform=\"translate(0.714 0.714)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  },
+  {
+    "set": "curved",
+    "name": "Work",
+    "tags": [
+      "work",
+      "brief",
+      "job",
+      "finance"
+    ],
+    "componentName": "Work",
+    "svgPath": "<svg id=\"Iconly_Curved_Work\" data-name=\"Iconly/Curved/Work\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\">\n  <g id=\"Work\" transform=\"translate(2.75 2.45)\">\n    <path id=\"Stroke_1\" data-name=\"Stroke 1\" d=\"M.5,2.628V0\" transform=\"translate(8.711 11.439)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_2\" data-name=\"Stroke 2\" d=\"M18.257,0l-.029.021a17.52,17.52,0,0,1-9.1,2.393A17.48,17.48,0,0,1,.03.021L0,0\" transform=\"translate(0.082 9.027)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_4\" data-name=\"Stroke 4\" d=\"M0,8.2C0,2.051,2.3,0,9.211,0s9.211,2.051,9.211,8.2-2.3,8.2-9.211,8.2S0,14.355,0,8.2Z\" transform=\"translate(0 2.697)\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n    <path id=\"Stroke_6\" data-name=\"Stroke 6\" d=\"M6.525,2.919v-.63A2.184,2.184,0,0,0,4.465,0H2.06A2.184,2.184,0,0,0,0,2.289v.63\" transform=\"translate(5.949 0)\" fill=\"none\" stroke=\"#230b34\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\"/>\n  </g>\n</svg>\n"
+  }
+]

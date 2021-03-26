@@ -106,6 +106,41 @@ const Delete = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(3.5 2)'>
+      <path
+        d='M13.26,0c0,8.019,1.154,11.644-6.61,11.644S.064,8.019.064,0'
+        transform='translate(2.129 7.554)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M16.15.476H0'
+        transform='translate(0.715 4.004)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M6.874,3.766A3.207,3.207,0,0,0,3.448,0,3.207,3.207,0,0,0,.024,3.766'
+        transform='translate(5.341 0.714)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -115,6 +150,8 @@ const Delete = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

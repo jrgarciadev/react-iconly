@@ -112,6 +112,41 @@ const CallSilent = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2 2)'>
+      <path
+        d='M3.609,11.058C-.977,5.7-.129,3.127.509,2.225c.1-.17,2.4-3.61,4.861-1.592,4.851,4,1,4.385,1.742,6.922'
+        transform='translate(0 1)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M3.185,0c4.927,4.746,4.3-2.728,9.278,3.312C14.49,5.786,11.04,8.079,10.87,8.175,9.874,8.9,6.762,9.863,0,3.185'
+        transform='translate(5.901 11.314)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,18.5,18.5,0'
+        transform='translate(0.75 0.75)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -121,6 +156,8 @@ const CallSilent = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

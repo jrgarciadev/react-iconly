@@ -84,6 +84,34 @@ const Show = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       />
     </g>
   )
+  const Curved = () => (
+    <g transform='translate(2 4)'>
+      <path
+        id='Stroke_1'
+        data-name='Stroke 1'
+        d='M6.324,3.162A3.162,3.162,0,1,1,3.162,0,3.162,3.162,0,0,1,6.324,3.162Z'
+        transform='translate(6.84 4.89)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        id='Stroke_3'
+        data-name='Stroke 3'
+        d='M0,7.3c0,3.28,4.142,7.3,9.252,7.3S18.5,10.585,18.5,7.3,14.361,0,9.252,0,0,4.022,0,7.3Z'
+        transform='translate(0.75 0.75)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
 
   switch (set) {
     case 'bold':
@@ -94,6 +122,8 @@ const Show = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

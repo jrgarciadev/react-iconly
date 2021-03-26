@@ -1,0 +1,7 @@
+<svg id="Iconly_Curved_Plus" data-name="Iconly/Curved/Plus" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Plus" transform="translate(2.3 2.3)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M.526,0V7.148" transform="translate(9.211 6.163)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_2" data-name="Stroke 2" d="M7.156.526H0" transform="translate(6.159 9.211)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M0,9.737C0,2.435,2.435,0,9.737,0s9.737,2.435,9.737,9.737-2.435,9.737-9.737,9.737S0,17.039,0,9.737Z" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -105,6 +105,40 @@ const Login = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       />
     </g>
   )
+  const Curved = () => (
+    <g transform='translate(2 2)'>
+      <path
+        d='M12.041.5H0'
+        transform='translate(0.75 9.621)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,0,2.928,2.916,0,5.832'
+        transform='translate(9.864 7.205)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,4.88C.33,1.3,1.67,0,7,0c7.1,0,7.1,2.31,7.1,9.25s0,9.25-7.1,9.25c-5.33,0-6.67-1.3-7-4.88'
+        transform='translate(5.259 0.75)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
 
   switch (set) {
     case 'bold':
@@ -115,6 +149,8 @@ const Login = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

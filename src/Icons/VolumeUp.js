@@ -113,7 +113,40 @@ const VolumeUp = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       />
     </g>
   )
-
+  const Curved = () => (
+    <g transform='translate(2 4.5)'>
+      <path
+        d='M0,0A11.128,11.128,0,0,1,0,12.357'
+        transform='translate(17.436 1.274)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,0A7.74,7.74,0,0,1,0,7.472'
+        transform='translate(14.989 3.717)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,6.771c0,1.246,0,2.708,1.029,3.582s1.846.514,3.178.952,3.2,3.146,5.261,1.924c1.115-.792,1.64-2.286,1.64-6.457s-.5-5.649-1.64-6.457C7.407-.908,5.54,1.8,4.208,2.238s-2.148.078-3.178.952S0,5.525,0,6.771Z'
+        transform='translate(0.682 0.682)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
   switch (set) {
     case 'bold':
       return <Bold />
@@ -123,6 +156,8 @@ const VolumeUp = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

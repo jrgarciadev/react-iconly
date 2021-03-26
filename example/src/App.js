@@ -5,7 +5,8 @@ import * as IconlyPack from 'react-iconly'
 const App = () => {
   return (
     <React.Fragment>
-       <IconlyPack.IconlyProvider set="two-tone" stroke="bold" primaryColor="blue" size="xlarge">
+       <IconlyPack.IconlyProvider set="curved" stroke="bold" primaryColor="blue" size="xlarge">
+        <IconlyPack.Activity set="curved" primaryColor="#d6d" />
         <IconlyPack.Search />
         <IconlyPack.Folder set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <IconlyPack.Wallet set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
@@ -16,7 +17,7 @@ const App = () => {
         <IconlyPack.Notification set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <IconlyPack.Chat set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <IconlyPack.Heart set="bulk" stroke="bold" size="xlarge"/>
-        <IconlyPack.Heart2 set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
+        <IconlyPack.Heart2 set="curved" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <IconlyPack.Paper set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <IconlyPack.PaperPlus set="two-tone" primaryColor="#d6d" secondaryColor="#6D00F5" stroke="bold" size="xlarge"/>
         <IconlyPack.PaperNegative set="two-tone" primaryColor="#d6d" secondaryColor="#d6d" stroke="bold" size="xlarge"/>
@@ -34,8 +35,8 @@ const App = () => {
         <IconlyPack.Plus  primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <IconlyPack.Chart  primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <IconlyPack.Game  primaryColor="#d6d" stroke="bold" size="xlarge"/>
-        <IconlyPack.Bag set="bulk"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
-        <IconlyPack.Bag2 set="bulk"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <IconlyPack.Bag set="bulk" primaryColor="#d6d" stroke="bold" size="xlarge"/>
+        <IconlyPack.Bag2 set="bulk" primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <IconlyPack.TicketStar set="bulk"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <IconlyPack.MoreCircle set="broken"  primaryColor="#d6d" stroke="bold" size="xlarge"/>
         <IconlyPack.MoreSquare set="broken"  primaryColor="#d6d" stroke="bold" size="xlarge"/>

@@ -96,6 +96,41 @@ const Camera = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2.5 3.042)'>
+      <path
+        d='M6.291,3.145A3.145,3.145,0,1,0,3.145,6.291,3.146,3.146,0,0,0,6.291,3.145Z'
+        transform='translate(6.648 6.311)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M9,17.158c8.045,0,9-2.411,9-7.634,0-3.661-.484-5.62-3.534-6.462a1.927,1.927,0,0,1-.842-.534c-.406-.445-.7-1.813-1.684-2.226A14.475,14.475,0,0,0,6.06.3C5.1.7,4.782,2.083,4.376,2.529a1.921,1.921,0,0,1-.842.534C.484,3.9,0,5.863,0,9.525,0,14.748.958,17.158,9,17.158Z'
+        transform='translate(0.789 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.5.5H.5'
+        transform='translate(14.209 5.458)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -105,6 +140,8 @@ const Camera = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

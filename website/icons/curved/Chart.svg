@@ -1,0 +1,8 @@
+<svg id="Iconly_Curved_Chart" data-name="Iconly/Curved/Chart" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Chart" transform="translate(2.3 2.3)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M.526,0V6.694" transform="translate(4.657 7.961)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_2" data-name="Stroke 2" d="M.526,0V9.9" transform="translate(9.211 4.757)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M.526,0V3.157" transform="translate(13.689 11.498)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_4" data-name="Stroke 4" d="M0,9.737C0,2.435,2.435,0,9.737,0s9.737,2.435,9.737,9.737-2.435,9.737-9.737,9.737S0,17.039,0,9.737Z" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

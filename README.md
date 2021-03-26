@@ -19,6 +19,7 @@
 - Light Border
 - Broken
 - Two Tone
+- Curved (New)
 
 ### Installation
     yarn add react-iconly
@@ -74,7 +75,7 @@ export default App;
 
 Icons can be configured with inline props:
 ```jsx
-<Home set="two-tone" primaryColor="blueviolet" secondaryColor="blue" stroke="bold" size="xlarge"/>
+<Home set="curved" primaryColor="blueviolet" secondaryColor="blue" stroke="bold" size="xlarge"/>
 ```
 You can also include the whole icon pack:
 
@@ -111,7 +112,7 @@ export default App;
 | `primaryColor` | `string` | `currentColor` | Primary colour for icons.
 | `secondaryColor` | `string` | `currentColor` | Secondary colour for **two-tone** and **bulk** icons set.
 | `size` | `number` | `small` `medium` `large` `xlarge` | `medium` | Control the size of the icon, you can set a custom **number** size
-| `set` | `light` `bold` `two-tone` `bulk`  `broken`  | `light` | Iconly set option.
+| `set` | `light` `bold` `two-tone` `bulk`  `broken` `curved`  | `light` | Iconly set option.
 | `stroke` | `light` `regular` `bold` | `regular` | Sets the line stroke for **light** and **two-tone** icons set.
 | `style` | `object` |  | Custom styles property.
 

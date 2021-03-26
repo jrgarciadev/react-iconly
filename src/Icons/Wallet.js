@@ -133,7 +133,50 @@ const Wallet = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       />
     </g>
   )
-
+  const Curved = () => (
+    <g transform='translate(2 3)'>
+      <path
+        d='M6.45,5.127H2.563A2.563,2.563,0,0,1,2.563,0H6.419'
+        transform='translate(12.722 6.549)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.625.476h-.3'
+        transform='translate(15.097 8.577)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,.476H4.06'
+        transform='translate(5.606 4.668)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,8.539C0,2.134,2.325,0,9.3,0s9.3,2.134,9.3,8.539-2.325,8.539-9.3,8.539S0,14.943,0,8.539Z'
+        transform='translate(0.714 0.714)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
   switch (set) {
     case 'bold':
       return <Bold />
@@ -143,6 +186,8 @@ const Wallet = ({ color, opacity, secondaryColor, strokeWidth, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

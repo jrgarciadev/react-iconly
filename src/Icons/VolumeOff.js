@@ -107,6 +107,40 @@ const VolumeOff = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       />
     </g>
   )
+  const Curved = () => (
+    <g transform='translate(4 4)'>
+      <path
+        d='M3.732,11.008c-1.083-.251-1.816-.054-2.72-.814C0,9.335-.008,7.895,0,6.669-.008,5.443,0,4,1.012,3.144s1.816-.51,3.132-.939,3.141-3.1,5.172-1.9c.823.582,1.306,1.53,1.5,3.615'
+        transform='translate(0.671 1.545)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M4.509,0c-.116,3.006-.635,4.214-1.593,4.894A2.583,2.583,0,0,1,0,4.509'
+        transform='translate(7.07 9.672)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M15.345,0,0,15.345'
+        transform='translate(0.941 0.671)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
 
   switch (set) {
     case 'bold':
@@ -117,6 +151,8 @@ const VolumeOff = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }

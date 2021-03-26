@@ -1,0 +1,8 @@
+<svg id="Iconly_Curved_Swap" data-name="Iconly/Curved/Swap" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Swap" transform="translate(2.9 4.6)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M.5,0V12.618" transform="translate(3.579 0.001)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M0,4.1S2.169,0,4.078,0,8.156,4.1,8.156,4.1" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_5" data-name="Stroke 5" d="M.5,12.618V0" transform="translate(13.506 2.21)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_7" data-name="Stroke 7" d="M8.156,0S5.986,4.1,4.078,4.1,0,0,0,0" transform="translate(9.929 10.728)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

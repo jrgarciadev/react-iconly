@@ -138,6 +138,51 @@ const TwoUsers = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
 
+  const Curved = () => (
+    <g transform='translate(2.75 2.549)'>
+      <path
+        d='M6.809,7.007C3.137,7.007,0,6.452,0,4.228S3.117,0,6.809,0c3.672,0,6.808,1.985,6.808,4.208S10.5,7.007,6.809,7.007Z'
+        transform='translate(0 11.9)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M4.364,8.728a4.349,4.349,0,1,0-.031,0Z'
+        transform='translate(2.445 0)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M.187,6.4A3.289,3.289,0,0,0,2.624,3.221,3.288,3.288,0,0,0,0,0'
+        transform='translate(13.865 1.132)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+      <path
+        d='M0,0C1.988,0,3.686,1.348,3.686,2.551A1.814,1.814,0,0,1,2.211,4.2'
+        transform='translate(14.711 11.104)'
+        fill='none'
+        stroke={color}
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth={strokeWidth}
+      />
+    </g>
+  )
+
   switch (set) {
     case 'bold':
       return <Bold />
@@ -147,6 +192,8 @@ const TwoUsers = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
       return <Broken />
     case 'two-tone':
       return <TwoTone />
+    case 'curved':
+      return <Curved />
     default:
       return <Light />
   }
