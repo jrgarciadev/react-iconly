@@ -7,7 +7,39 @@ export const StyledIntro = styled.div`
   margin-bottom: 2rem;
   h1 {
     font-size: ${(props) => props.theme.fontSize.title};
-    font-weight: ${(props) => props.theme.fontw.semibold};
+    text-align: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: ${({ theme }) => theme.fontw.semibold};
+    background-size: 300%;
+    background-image: linear-gradient(
+      45deg,
+      #ffb240,
+      #ff646a,
+      #d376f7,
+      #374bf9
+    );
+    position: relative;
+    z-index: 1;
+    animation: flow 5s ease-in-out infinite;
+    @keyframes flow {
+      0% {
+        background-position: 0 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0 50%;
+      }
+    }
+    @media (max-width: ${(props) => props.theme.breakpoints.lg}) {
+      font-size: 6rem;
+    }
+    @media (max-width: ${(props) => props.theme.breakpoints.sm}) {
+      font-size: 4rem;
+    }
   }
   p {
     max-width: 70%;

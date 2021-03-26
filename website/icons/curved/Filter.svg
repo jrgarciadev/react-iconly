@@ -1,0 +1,8 @@
+<svg id="Iconly_Curved_Filter" data-name="Iconly/Curved/Filter" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Filter" transform="translate(4 4)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M6.473.447H0" transform="translate(0.671 13.435)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M0,2.722C0,4.764.681,5.444,2.722,5.444s2.722-.68,2.722-2.722S4.763,0,2.722,0,0,.68,0,2.722Z" transform="translate(11.205 11.162)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_5" data-name="Stroke 5" d="M0,.447H6.472" transform="translate(10.177 2.947)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_7" data-name="Stroke 7" d="M5.444,2.722C5.444.681,4.764,0,2.723,0S0,.681,0,2.722.681,5.444,2.723,5.444,5.444,4.764,5.444,2.722Z" transform="translate(0.671 0.671)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

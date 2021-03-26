@@ -4,7 +4,7 @@ const { join } = require('path')
 const { isEmpty, startCase, replace } = require('lodash')
 const iconTags = require('../distIcons/tags.json')
 
-const sets = ['bold', 'light', 'bulk', 'broken', 'two-tone']
+const sets = ['bold', 'light', 'bulk', 'broken', 'two-tone', 'curved']
 
 async function build(rootDir) {
   const iconsDir = join(rootDir, 'icons')

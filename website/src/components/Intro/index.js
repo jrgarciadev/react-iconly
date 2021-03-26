@@ -10,7 +10,7 @@ const Intro = () => {
 
   return (
     <StyledIntro>
-      <h1>React Iconly</h1>
+      <h1>React Iconly 2.2</h1>
       <p>
         Collection of simply beautiful open source icons for&nbsp;
         <a rel='noreferrer' href='https://reactjs.org' target='_blank'>

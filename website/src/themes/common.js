@@ -28,7 +28,7 @@ export default {
     lg: '1.8rem',
     xl: '2.2rem',
     xxl: '2.6rem',
-    title: '3.6rem'
+    title: '5.6rem'
   },
   breakpoints: {
     xs: '320px',
@@ -41,7 +41,8 @@ export default {
     light: 300,
     regular: 400,
     semibold: 600,
-    bold: 700
+    bold: 700,
+    extrabold: 800
   },
   transitions: {
     easing: 'cubic-bezier(0.645, 0.045, 0.355, 1)',
