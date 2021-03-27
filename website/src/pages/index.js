@@ -4,7 +4,7 @@ import {
   IconGrid,
   IconDetail,
   NoResults,
-  CheckboxList,
+  IconSets,
   Loader
 } from '@components'
 import getAlgoliaClient from '@lib/algolia'
@@ -19,7 +19,7 @@ const Home = () => (
     <Intro />
     <InstantSearch indexName={ALGOLIA_INDEX_NAME} searchClient={searchClient}>
       <Search />
-      <CheckboxList attribute='set' />
+      <IconSets attribute='set' defaultRefinement={['bold']} />
       <Loader />
       <IconGrid />
       <NoResults />

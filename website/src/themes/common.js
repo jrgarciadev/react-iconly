@@ -3,6 +3,11 @@ import mixins from '@styles/mixins'
 export default {
   borderRadius: '1.375rem',
   borderRadiusButton: '1.375rem',
+  radius: {
+    sm: '0.375rem',
+    md: '1.375rem',
+    lg: '3rem'
+  },
   fontFamily: {
     fontSans:
       'Open Sans, -apple-system, BlinkMacSystemFont,Segoe UI, Helvetica, Arial',
@@ -19,6 +24,11 @@ export default {
     codeComponent: '#FFC064',
     codeAttr: '#E18030',
     codeAttrValue: '#9AD85A'
+  },
+  layout: {
+    gap: '4rem',
+    gapHalf: '2rem',
+    gapQuarter: '1rem'
   },
   fontSize: {
     xxs: '0.9rem',
