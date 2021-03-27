@@ -12,7 +12,7 @@ export const StyledContainer = styled.div`
   margin: 0 20%;
   min-height: 100px;
   border-radius: ${({ theme }) => theme.borderRadius};
-  background: ${({ theme }) => theme.bg.reverse};
+  background: ${({ theme }) => theme.colors.accent5};
   transition: ${({ theme }) => theme.transitions.default};
   overflow: auto;
   p {

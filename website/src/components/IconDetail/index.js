@@ -30,7 +30,6 @@ const IconDetail = () => {
           svgPath={icon?.svgPath}
           set={icon?.set}
         />
-
         <Tooltip position='top' content='Download'>
           <div className='download' onClick={handleDownload}>
             <Download set='bulk' primaryColor='white' />

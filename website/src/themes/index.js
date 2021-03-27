@@ -3,6 +3,8 @@ import mixins from '@styles/mixins'
 export default {
   borderRadius: '1.375rem',
   borderRadiusButton: '1.375rem',
+  background: 'var(--colors-background)',
+  foreground: 'var(--colors-foreground)',
   radius: {
     sm: '0.375rem',
     md: '1.375rem',
@@ -21,9 +23,20 @@ export default {
     accent2: '#2E353F',
     accent3: '#A3A3A3',
     accent4: '#7B8599',
+    accent5: '#222222',
     codeComponent: '#FFC064',
     codeAttr: '#E18030',
     codeAttrValue: '#9AD85A'
+  },
+  accents: {
+    a1: 'var(--colors-accents-a1)',
+    a2: 'var(--colors-accents-a2)',
+    a3: 'var(--colors-accents-a3)',
+    a4: 'var(--colors-accents-a4)',
+    a5: 'var(--colors-accents-a5)',
+    a6: 'var(--colors-accents-a6)',
+    a7: 'var(--colors-accents-a7)',
+    a8: 'var(--colors-accents-a8)'
   },
   layout: {
     gap: '4rem',
@@ -58,6 +71,22 @@ export default {
     easing: 'cubic-bezier(0.645, 0.045, 0.355, 1)',
     default: 'all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1)',
     short: 'all 0.1s cubic-bezier(0.645, 0.045, 0.355, 1)'
+  },
+  bg: {
+    default: 'var(--colors-background)',
+    defaultLight: '#112536',
+    reverse: 'var(--colors-reverse)'
+  },
+  text: {
+    default: 'var(--colors-text-default)',
+    reverse: 'var(--colors-text-reverse)',
+    accent: 'var(--colors-text-accent)'
+  },
+  shadows: {
+    default: 'var(--shadows-default)',
+    small: 'var(--shadows-small)',
+    medium: 'var(--shadows-medium)',
+    large: 'var(--shadows-large)'
   },
   mixins
 }

@@ -11,7 +11,7 @@ const IconSets = ({ items, refine }) => {
         {items.map((item, i) => (
           <Tabs.Item
             key={i}
-            badgeText={item.label === 'curved' && 'New'}
+            badgeText={item.label === 'curved' ? 'New' : ''}
             label={startCase(item.label)}
             value={item.label}
           />

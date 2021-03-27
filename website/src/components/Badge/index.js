@@ -4,7 +4,7 @@ import { StyledBadge } from './styles'
 
 const Badge = ({ label, onClick, ...props }) => {
   return (
-    <StyledBadge onClick={isFunction(onClick) && onClick} {...props}>
+    <StyledBadge onClick={isFunction(onClick) ? onClick : undefined} {...props}>
       {label || 'Badge'}
     </StyledBadge>
   )

@@ -1,6 +1,6 @@
 import { useContext } from 'react'
 import { Search as SearchIcon } from 'react-iconly'
-// import { Select } from '@components'
+import useDarkMode from 'use-dark-mode'
 import { withTheme } from 'styled-components'
 import { connectSearchBox } from 'react-instantsearch-dom'
 import { IconDataContext } from '@lib/context'
@@ -13,6 +13,7 @@ import {
 
 const Search = ({ theme, currentRefinement, refine }) => {
   const { removeIcon } = useContext(IconDataContext)
+  const darkMode = useDarkMode()
   return (
     <StyledForm noValidate action='' role='search'>
       <StyledIconContainer>
@@ -20,6 +21,7 @@ const Search = ({ theme, currentRefinement, refine }) => {
       </StyledIconContainer>
       <StyledInput
         autoFocus
+        isDarkMode={darkMode.value}
         type='search'
         onFocus={removeIcon}
         focusShortcuts={['s', '/']}

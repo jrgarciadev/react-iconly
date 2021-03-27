@@ -17,10 +17,10 @@ export const CheckboxInput = styled.input`
 
   &:hover ~ label:before {
     background-color: ${(props) => props.theme.bg.default};
-    border-color: rgba(0, 0, 0, 0.4);
+    border-color: ${(props) => props.theme.accents.a6};
   }
   &:focus ~ label:before {
-    border-color: rgba(0, 0, 0, 0.2);
+    border-color: ${(props) => props.theme.accents.a6};
     box-shadow: 0 0 0 2px ${(props) => hexa(props.theme.colors.primary, 0.6)};
   }
   &:checked ~ label:before {
@@ -35,7 +35,7 @@ export const CheckboxInput = styled.input`
   &:checked ~ label:after {
     top: 0.4rem;
     left: 1.5rem;
-    background-color: ${(props) => props.theme.bg.default};
+    background-color: ${(props) => props.theme.colors.white};
     border-color: ${(props) => props.theme.bg.default};
   }
   &:disabled ~ label {
@@ -44,7 +44,7 @@ export const CheckboxInput = styled.input`
   }
   &:disabled ~ label:before {
     background-color: ${(props) => props.theme.bg.default};
-    border-color: ${(props) => hexa(props.theme.bg.reverse, 0.3)};
+    border-color: ${(props) => props.theme.accents.a6};
   }
   &:disabled:checked ~ label:before {
     background-color: ${(props) => props.theme.colors.primary};
@@ -88,7 +88,7 @@ export const CheckboxLabel = styled.label`
     top: 0;
     left: 0;
     background-color: ${(props) => props.theme.bg.default};
-    border: 1px solid ${(props) => hexa(props.theme.bg.reverse, 0.3)};
+    border: 1px solid ${(props) => props.theme.accents.a6};
     border-radius: 3rem;
   }
   &:after {
@@ -98,8 +98,8 @@ export const CheckboxLabel = styled.label`
     width: 1.6rem;
     top: 0.4rem;
     left: 0.5rem;
-    background-color: ${(props) => hexa(props.theme.bg.reverse, 0.2)};
-    border: 0 solid ${(props) => hexa(props.theme.bg.reverse, 0.2)};
+    background-color: ${(props) => props.theme.accents.a6};
+    border: 0 solid ${(props) => props.theme.accents.a6};
     border-radius: 50%;
   }
 

@@ -1,6 +1,62 @@
 import { createGlobalStyle } from 'styled-components'
 
 export default createGlobalStyle`
+body[data-theme='light'] {
+    /* Base */
+    --colors-background: #FFFFFF;
+    --colors-foreground: #F9F9F9;
+    --colors-reverse: #111111;
+    /* Accents */
+    --colors-accents-a1: #111111;
+    --colors-accents-a2: #444444;
+    --colors-accents-a3: #666666;
+    --colors-accents-a4: #888888;
+    --colors-accents-a5: #999999;
+    --colors-accents-a6: #a3a8c3;
+    --colors-accents-a7: #f0eef1;
+    --colors-accents-a8: #fafafa;
+    /* Texts */
+    --colors-text-default: #1d1b1f;
+    --colors-text-alt: #181818;
+    --colors-text-placeholder: #7C8894;
+    --colors-text-inactive: #989898;
+    --colors-text-reverse: #FFFFFF;
+    --colors-text-accent: #a3a8c3;
+    /* Shadows */
+    --shadows-default: 0 10px 30px -10px rgba(32, 14, 50, 0.16);
+    --shadows-small: 0 10px 30px -10px rgba(32, 14, 50, 0.16);
+    --shadows-medium:0 20px 30px -15px  rgba(32, 14, 50, 0.16);
+    --shadows-large: 0 30px 60px rgba(32, 14, 50, 0.16);
+  }
+
+  body[data-theme='dark'] {
+    /* Base */
+    --colors-background: #111111;
+    --colors-foreground: #151418;
+    --colors-reverse: #F4F4F4;
+    /* Accents */
+    --colors-accents-a1: #fafafa;
+    --colors-accents-a2: #f0eef1;
+    --colors-accents-a3: #bcbabb;
+    --colors-accents-a4: #999999;
+    --colors-accents-a5: #888888;
+    --colors-accents-a6: #a3a8c3;
+    --colors-accents-a7: #444444;
+    --colors-accents-a8: #222222;
+    /* Texts */
+    --colors-text-default: #f4f4f4;
+    --colors-text-alt: #FFFFFF;
+    --colors-text-placeholder: #7C8894;
+    --colors-text-inactive: #989898;
+    --colors-text-reverse: #FFFFFF;
+    --colors-text-accent: #a3a8c3;
+    /* Shadows */
+    --shadows-default: 0 10px 30px -10px rgba(32, 14, 50, 0.16);
+    --shadows-small: 0 10px 30px -10px rgba(32, 14, 50, 0.16);
+    --shadows-medium:0 20px 30px -15px  rgba(32, 14, 50, 0.16);
+    --shadows-large: 0 30px 60px rgba(32, 14, 50, 0.16);
+  }
+
   * {
     border: 0;
     box-sizing: inherit;
@@ -39,21 +95,16 @@ export default createGlobalStyle`
 
   @media (min-width: 1600px) {
     html {
-        font-size: 75%;
-    }
-  }
-  @media (min-width: 1920px) {
-    html {
-        font-size: 87.5%;
+        font-size: 60%;
     }
   }
 
   body {
-    box-sizing: border-box;
-    background-color: ${(props) => props.theme.bg.default};
+    background-color: var(--colors-background);
     width: 100%;
-    height: 100%;
+    height: 100%;   
     font-weight: 400;
+    color: var(--colors-text-default);
     overscroll-behavior-y: none;
     -webkit-overflow-scrolling: touch;
 

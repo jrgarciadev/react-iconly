@@ -1,4 +1,4 @@
-import React, { memo, forwardRef } from 'react'
+import React, { memo } from 'react'
 import { getSize, getThemeProp, getStroke, getOpacity } from './utils'
 import { IconlyContext } from './context'
 import PropTypes from 'prop-types'
@@ -33,7 +33,6 @@ function withIcon(Component) {
 
       return (
         <svg
-          ref={this.props.innerRef}
           xmlns='http://www.w3.org/2000/svg'
           width={iconSize}
           height={iconSize}
@@ -120,10 +119,7 @@ function withIcon(Component) {
   }
 
   const MemoIcon = memo(IconWrapper)
-  const forwardedIcon = forwardRef((props, ref) => (
-    <MemoIcon innerRef={ref} {...props} />
-  ))
-  return forwardedIcon
+  return MemoIcon
 }
 
 export default withIcon

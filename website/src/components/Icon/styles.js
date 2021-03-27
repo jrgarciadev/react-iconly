@@ -1,4 +1,5 @@
-import styled from 'styled-components'
+import styled, { css } from 'styled-components'
+import { ifProp, prop } from 'styled-tools'
 
 export const StyledIcon = styled.div`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -16,6 +17,18 @@ export const StyledIcon = styled.div`
   &:active {
     transform: scale(0.8);
   }
+  ${ifProp(
+    'isDarkMode',
+    css`
+      box-shadow: none;
+      background: ${prop('theme.accents.a8')};
+      border: 1px solid ${prop('theme.accents.a7')};
+      &:hover,
+      &:focus {
+        border-color: ${prop('theme.colors.primary')};
+      }
+    `
+  )}
   @media (max-width: ${(props) => props.theme.breakpoints.sm}) {
     width: 60px;
     height: 60px;

@@ -1,9 +1,8 @@
 import styled from 'styled-components'
-import { hexa } from '@utils'
 
 export const StyledCodeContainer = styled.code`
   ${({ theme }) => theme.mixins.flexCenter};
-  background: ${({ theme }) => hexa(theme.colors.primary, 0.25)};
+  background: ${({ theme }) => theme.colors.accent2};
   border-radius: ${({ theme }) => theme.borderRadius};
   padding: 0 14px;
   height: 50px;
