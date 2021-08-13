@@ -1,5 +1,4 @@
 import React, { CSSProperties } from 'react'
-
 type Color = 'currentColor' | string
 
 export interface IconProps {
@@ -11,7 +10,11 @@ export interface IconProps {
   set?: 'light' | 'bold' | 'two-tone' | 'bulk' | 'broken'
   stroke?: 'light' | 'regular' | 'bold'
   style?: CSSProperties
+  name?: string
 }
+
+export const Iconly: React.FC<IconProps>
+export const IconlyProvider: React.FC<IconProps>
 
 // Icons
 export const Search: React.FC<IconProps>
