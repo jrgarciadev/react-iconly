@@ -7,7 +7,7 @@ export interface IconProps {
   primaryColor?: Color
   secondaryColor?: Color
   size?: number | 'small' | 'medium' | 'large' | 'xlarge'
-  set?: 'light' | 'bold' | 'two-tone' | 'bulk' | 'broken'
+  set?: 'light' | 'bold' | 'two-tone' | 'bulk' | 'broken' | 'curved'
   stroke?: 'light' | 'regular' | 'bold'
   style?: CSSProperties
   name?: string
