@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react'
 import { StyledNavbar } from './styles'
 import styled from 'styled-components'
 import { Sun, Moon } from '@components/Icons'
@@ -11,6 +12,12 @@ export const ThemeSwitcher = styled.div`
 
 const Navbar = () => {
   const darkMode = useDarkMode()
+  const [icon, setIcon] = useState(null)
+
+  useEffect(() => {
+    setIcon(darkMode.value ? <Moon /> : <Sun />)
+  }, [darkMode])
+
   return (
     <StyledNavbar>
       <a
@@ -27,7 +34,7 @@ const Navbar = () => {
         </a>
       </p>
       <ThemeSwitcher onClick={darkMode.toggle}>
-        {darkMode.value ? <Moon /> : <Sun />}
+        {icon}
       </ThemeSwitcher>
     </StyledNavbar>
   )
