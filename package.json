@@ -27,7 +27,7 @@
     "design"
   ],
   "scripts": {
-    "build": "microbundle-crl --compress --strict --format modern,cjs && npm run copytypes",
+    "build": "microbundle-crl --compress --strict --format modern,cjs && yarn copytypes",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
     "copytypes": "cp react-iconly.d.ts dist/react-iconly.d.ts",
     "prepare": "run-s build",
