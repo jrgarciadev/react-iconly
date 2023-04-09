@@ -12,11 +12,14 @@
   "dependencies": {
     "react": "file:../node_modules/react",
     "react-dom": "file:../node_modules/react-dom",
-    "react-scripts": "file:../node_modules/react-scripts",
-    "react-iconly": "file:.."
+    "react-iconly": "file:..",
+    "react-scripts": "file:../node_modules/react-scripts"
   },
   "devDependencies": {
-    "@babel/plugin-syntax-object-rest-spread": "^7.8.3"
+    "@babel/plugin-syntax-object-rest-spread": "^7.8.3",
+    "postcss-flexbugs-fixes": "file:../node_modules/postcss-flexbugs-fixes",
+    "postcss-preset-env": "file:../node_modules/postcss-preset-env",
+    "postcss-normalize": "file:../node_modules/postcss-normalize"
   },
   "eslintConfig": {
     "extends": "react-app"
