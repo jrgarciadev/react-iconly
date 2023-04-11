@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react'
 import { connectStateResults } from 'react-instantsearch-dom'
 import { StyledLoader } from './styles'
 
@@ -9,11 +9,11 @@ const Loader = connectStateResults(({ isSearchStalled }) => {
 
   useEffect(() => {
     setTimeout(() => {
-      setCanShowSpinner(true);
+      setCanShowSpinner(true)
     }, SPINNER_DELAY)
   }, [canShowSpinner, setCanShowSpinner])
 
   return canShowSpinner && isSearchStalled ? <StyledLoader /> : null
-});
+})
 
 export default Loader

@@ -1,5 +1,5 @@
 {
-  "parser": "babel-eslint",
+  "parser": "@babel/eslint-parser",
   "extends": [
     "standard",
     "standard-react",
@@ -11,11 +11,15 @@
     "node": true
   },
   "parserOptions": {
+    "requireConfigFile": false,
     "ecmaVersion": 2020,
     "ecmaFeatures": {
       "legacyDecorators": true,
       "jsx": true
-    }
+    },
+    "babelOptions": {
+      "presets": ["@babel/preset-react"]
+   }
   },
   "settings": {
     "react": {
