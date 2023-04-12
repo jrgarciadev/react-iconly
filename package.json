@@ -27,10 +27,10 @@
     "design"
   ],
   "scripts": {
-    "build": "microbundle-crl --define process.env.NODE_ENV=production --compress --strict --format modern,cjs && yarn copytypes",
-    "start": "microbundle-crl watch --no-compress --format modern,cjs",
+    "build": "tsup src --loader '.js=jsx' && yarn copytypes",
+    "build:fast": "tsup src src --loader '.js=jsx'",
+    "dev": "yarn build:fast -- --watch",
     "copytypes": "cp react-iconly.d.ts dist/react-iconly.d.ts",
-    "prepare": "run-s build",
     "test": "run-s test:unit test:lint test:build",
     "test:build": "run-s build",
     "test:lint": "eslint .",
@@ -64,9 +64,18 @@
     "prettier": "^2.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "tsup": "6.4.0"
   },
   "files": [
     "dist"
-  ]
+  ],
+  "tsup": {
+    "clean": true,
+    "target": "es2019",
+    "format": [
+      "cjs",
+      "esm"
+    ]
+  }
 }

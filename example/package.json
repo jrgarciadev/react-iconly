@@ -21,9 +21,6 @@
     "postcss-preset-env": "file:../node_modules/postcss-preset-env",
     "postcss-normalize": "file:../node_modules/postcss-normalize"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "browserslist": [
     ">0.2%",
     "not dead",
