@@ -1,12 +1,12 @@
 {
   "name": "react-iconly",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "description": "React component for Iconly icons",
-  "author": "jrgarciadev",
+  "author": "Junior Garcia <jrgarciadev@gmail.com>",
   "license": "MIT",
   "repository": "jrgarciadev/react-iconly",
   "main": "dist/index.js",
-  "module": "dist/index.modern.js",
+  "module": "dist/index.mjs",
   "types": "dist/react-iconly.d.ts",
   "source": "src/index.js",
   "sideEffects": false,
@@ -27,8 +27,8 @@
     "design"
   ],
   "scripts": {
-    "build": "tsup src --loader '.js=jsx' && yarn copytypes",
-    "build:fast": "tsup src src --loader '.js=jsx'",
+    "build": "tsup --loader '.js=jsx' && yarn copytypes",
+    "build:fast": "tsup --loader '.js=jsx'",
     "dev": "yarn build:fast -- --watch",
     "copytypes": "cp react-iconly.d.ts dist/react-iconly.d.ts",
     "test": "run-s test:unit test:lint test:build",
@@ -71,6 +71,10 @@
     "dist"
   ],
   "tsup": {
+    "entry": [
+      "src",
+      "!src/**/*.test.tsx"
+    ],
     "clean": true,
     "target": "es2019",
     "format": [
