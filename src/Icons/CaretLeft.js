@@ -13,7 +13,7 @@ const CaretLeft = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
     </g>
   )
   const Bulk = () => (
-    <React.Fragment>
+    <>
       <defs>
         <clipPath id='clip-path'>
           <path
@@ -45,7 +45,7 @@ const CaretLeft = ({ color, secondaryColor, strokeWidth, opacity, set }) => {
           </g>
         </g>
       </g>
-    </React.Fragment>
+    </>
   )
   const Light = () => (
     <g transform='translate(21 6.5) rotate(90)'>
