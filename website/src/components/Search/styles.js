@@ -32,6 +32,7 @@ export const StyledInput = styled.input`
   padding: 10px 0px;
   padding-left: 70px;
   padding-right: 220px;
+  color: #fffff;
   background: ${prop('theme.bg.default')};
   font-size: ${(props) => props.theme.fontSize.lg};
   border-radius: ${(props) => props.theme.borderRadius};
